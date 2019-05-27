@@ -10,6 +10,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **F1**: show/hide FPS
 - **F4**: Toggle fullscreen
 - **F6**: Take a screenshot
+
     The screenshots taken will be automatically named.
 
 - **ESC**: Exit song / exit beatoraja
@@ -17,12 +18,16 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 
 ### Music Select
 - **1**: Change Play mode filter
+
     (ALL -> 7KEY -> 14KEY -> 9KEY -> 5KEY -> 10KEY -> ... )
 - **2**: Change sort mode
+
     (Default -> CLEAR LAMP -> MISS COUNT -> SCORE RATE -> ... )
 - **3**: Change LN mode
+
     (Long Note -> Charge Note -> Hell Charge Note -> ... )
 - **4**: Select replay
+
     KEY 6 does the same thing. KEY 7 starts the chosen replay.
 - **5 (Hold)**: Open Options Menu
 - **6**: Open Key Config
@@ -31,6 +36,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **9**: Display song text file (readme) if one exists
 
 - **F2**: refresh folder/table
+
     Re-scans the selected folder for new/updated songs/charts.
 - **F3**: Open folder which contains selected song with system file viewer 
 - **F8**: Set song as favorite song
@@ -43,8 +49,10 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **KEY 3**: Play song in [Practice Mode](Practice-Mode)
 - **KEY 5**: Start song in Autoplay mode
 - **KEY 6**: Select replay slot
+
     Can also be used to select autoplay or practice mode.
 - **7 KEY**: Start chosen replay.
+
     In the decide screen after starting a replay,
     - Hold KEY 2 to play the song on the same random instead of watching the replay. Does not save scores.
     - Hold KEY 3 to play the song on the same options instead of watching the replay. Does not save scores.
@@ -57,6 +65,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **START KEY (hold)**: Options menu 1
 - **SELECT KEY (hold)**: Options menu 2
 - **START+SELECT KEY (hold)**: Options menu 3
+
     Use Keys 1-7 or the turntable while the options menus are up to configure settings.
     - For example, you can configure your pacemaker target by holding START and turning the turntable.
 
@@ -83,4 +92,5 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **KEY 7 (hold)**: Retry same song on same random
 
 - **KEY 6**: Toggle gauge display
+
     Allows you to preview the same play under different gauges (e.g. ASSIST EASY, EASY, GROOVE, HARD, EX-HARD)
