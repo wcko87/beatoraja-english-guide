@@ -117,15 +117,15 @@ There are two ways you can view the error message:
 
 Here are the common errors you might see:
 
-##### 1. java not found
+#### 1. java not found
 - Then java is either not properly installed, or is installed but has not been added to the PATH environment variable. If you are not sure how to add java to PATH, reinstalling java should automatically add it to PATH for you.
 
-##### 2. Invalid maximum heap size: -Xmx4g
+#### 2. Invalid maximum heap size: -Xmx4g
 - Then you are currently using 32-bit java. 64-bit java is recommended for running beatoraja.
 - To check whether your current java installation is 32-bit or 64-bit, open command prompt (windows+R, type "cmd", enter) and type `java -version`. If you are on 64-bit java, it should say something along the lines of `64-Bit Server VM`. If you don't see that, you are on 32-bit java.
 - You can technically run beatoraja on 32-bit java. This can be done by removing the `-Xmx4g` flag from beatoraja-config.bat. However, this is not recommended as the `-Xmx4g` flag is what allows beatoraja to run with a memory cap of 4GB rather than the default 1GB cap.
 
-##### 3. beatoraja.jar is not found
+#### 3. beatoraja.jar is not found
 - There should be a beatoraja.jar in the same folder as beatoraja-config.bat. If there is no beatoraja.jar, you probably downloaded the source code for the game instead of the game itself. beatoraja.jar is the main game executable, and so is definitely necessary.
 
 
@@ -133,12 +133,12 @@ Here are the common errors you might see:
 
 There are a few possible causes.
 
-##### An error occurred while adding songs
+#### An error occurred while adding songs
 This might have happened if you notice a bunch of errors in the command window and the song adding process halts suddenly.
 - If this indeed happened, try to find out which is the offending bms that caused the song adding to crash.
 - If you can figure out which bms is causing the issue, it would be nice to report it to the developers so that the problem can be identified.
 
-##### A BMS folder is placed next to a song folder
+#### A BMS folder is placed next to a song folder
 This might have happened if you only see a few songs in your songwheel, and don't see any subfolders.
 - Don't put song folders next to subfolders in your BMS song folder. We may not be able to differentiate between song folders and subfolders when this happens.
     This is an example of song folders next to subfolders. Don't do this.

@@ -51,9 +51,9 @@ BMS charts are generally fully keysounded. The use of unkeysounded notes is usua
 
 As mentioned above, BMS songs are broken down into (often) hundreds of keysounds. These keysounds are sequenced in the BMS file to make up the song. Each keysound is often used multiple times in the song (e.g. the same drum sample is may be played multiple times).
 
-XXXXTODO IMAGE OF CHART
+![chart_comparison](https://user-images.githubusercontent.com/27341392/58397688-aabc0d00-8084-11e9-9417-67ed3a644e5e.gif)
 
-In a chart, each keysound in the song corresponds to a single note. Not all of the keysounds have to be made into playable notes. The notes which have not been dragged into the playable columns (e.g. the 8 playable columns) will make up the background track.
+In a chart, each keysound in the song corresponds to a single note. Not all of the keysounds have to be made into playable notes. The red notes are those which have not been dragged into the playable columns (e.g. the 8 playable columns). These "unused" notes make up the background track during gameplay.
 
 Most of the time, the majority of the keysounds will be used as the background track. More difficult charts can usually be made by dragging more notes out of the background track and into the playable columns.
 

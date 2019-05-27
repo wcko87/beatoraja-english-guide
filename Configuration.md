@@ -259,7 +259,7 @@ Setting the Audio Output to PortAudio is generally recommended for lower latency
 
 # Fast Forward Settings
 
-During autoplay or watching replays, songs can be fast-forwarded or slowed down (See XXXTODO HOTKEYS LINK). In [practice mode](Practice-Mode), songs can be played at an faster or slower speed (frequency).
+During autoplay or watching replays, songs can be fast-forwarded or slowed down (See [Hotkeys](Hotkeys#during-autoplay--replay)). In [practice mode](Practice-Mode), songs can be played at an faster or slower speed (frequency).
 
 #### In config menu
 In the `Audio` tab, the `Frequency Option` and `Fast forward` settings offer two possible behaviors for keysounds when a song is played at a different speed.
