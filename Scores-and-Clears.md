@@ -2,8 +2,6 @@ There are generally two goals you can go for when playing a chart - a higher sco
 
 Scoring and clearing often do not go hand-in-hand. Going for higher clears (e.g. a full combo) can cause your score to suffer and vice versa. The game records your highest score and highest clear on a charrt separately, so high scores and clears and be done on separate runs.
 
-----------------------------
-
 # Scoring
 
 ## Judgements
