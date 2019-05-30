@@ -5,15 +5,15 @@ Short answer: BMS is a file format for keysounded rhythm game charts.
 Note BMS is an umbrella term referring to .bms and related formats like .bme, .bml, .bmson, .pms.
 BMS supports multiple play modes corresponding to the amount of keys, including:
 
-- 7K (mechanics based on beatmania IIDX)
-- 5K (mechanics based on 5key beatmania)
-- 9K (mechanics based on pop'n music. often we use the .pms extension for 9k charts instead)
-- 14K (mechanics based on IIDX double play)
-- 10K (5key double play)
-- 24K (mechanics based on keyboardmania)
-- 48K (24K double play)
+- 7KEYS (mechanics based on beatmania IIDX)
+- 5KEYS (mechanics based on 5key beatmania)
+- 9KEYS (mechanics based on pop'n music. often we use the .pms extension for 9KEYS charts instead)
+- 14KEYS (mechanics based on IIDX double play)
+- 10KEYS (5key double play)
+- 24KEYS (mechanics based on keyboardmania)
+- 48KEYS (24KEYS double play)
 
-7K is the most common play mode in BMS.
+7KEYS is the most common play mode in BMS.
 One advantage of the BMS file format is that it is human-readable and relatively easy to work with. This makes it possible to edit charts manually in a text editor, and also relatively easy to write a parser for the BMS file format.
 
 
