@@ -281,5 +281,5 @@ The miss layer duration option can be found in the `Video` tab. Set it to 0ms to
 #### In config menu
 There are two ways menu sounds and menu BGM can be configured.
 1. In the `Skin` tab, assign the BGM Path (LR2) and Sound Path (LR2) folders. This allows you to use LR2 sound sets.
-2. In the `Skin` tab, under the category `SKIN SELECT`, assign a sound set from a skin. Some skins like LITONE5 contain sound sets that can be assigned this way.
+2. In the `Skin` tab, under the category `SKIN SELECT`, assign a sound set from a skin. (As far as I know, no skins support this yet. The sound set included with LITONE5 is set up via the first method.)
 
