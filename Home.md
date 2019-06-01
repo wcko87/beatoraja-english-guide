@@ -141,6 +141,7 @@ This might have happened if you notice a bunch of errors in the command window a
 #### A BMS folder is placed next to a song folder
 This might have happened if you only see a few songs in your songwheel, and don't see any subfolders.
 - Don't put song folders next to subfolders in your BMS song folder. We may not be able to differentiate between song folders and subfolders when this happens.
+
     This is an example of song folders next to subfolders. Don't do this.
     ```
     BMS
