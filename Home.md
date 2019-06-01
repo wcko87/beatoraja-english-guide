@@ -75,6 +75,7 @@ In the key config, you should have binded the START and SELECT buttons (default 
 
 Press F12 to open skin settings in-game.
 
+Check the [Music Select](Music-Select) page to find out what else you can do in this screen.
 
 ### In Game (during play):
 
