@@ -96,7 +96,8 @@ To look for the sabun, there are a few places to check:
 - If the charter has a website, you may be able to find it on their website.
 - You may be able to find it on [BMS Sabun Uploader](http://gnqg.rosx.net/upload/). This is especially true for more recent sabuns.
 - If the charter has uploaded an autoplay of the chart to youtube, the youtube description may have a link to the chart.
-- If the chart is part of a [Difficulty Table](Difficulty-Tables), the table itself may contain the link to the chart.
+- If the chart is part of a [Difficulty Table](Difficulty-Tables), the table itself may contain the link to the chart. 
+  - In beatoraja, if you select a song/chart you don't have from a table, beatoraja will open download links for the song/chart in your default browser.
 
 #### Finding songs/charts on LR2IR
 
