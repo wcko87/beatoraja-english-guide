@@ -10,9 +10,15 @@ This list is organized by the settings you can configure. How and where you can 
 Key config is done by pressing `6` on your keyboard during music select. Keys are configured separately for each play mode (5K, 7K, 9K etc).
 
 
-## BMS Song Paths
+## Adding and Updating Song Folders in beatoraja
 
-This is configured in the `Resources` tab in the beatoraja config. Add your BMS folders to `BMS Path`.
+Go to the `Resources` tab to add your BMS song folders. (add them under BMS Path, not Table URL!)
+
+If you want to update your song folders, the fastest way to do so is to hover over a song folder in game and press F2. This refreshes the song folder.
+
+In the config, the `Update Song Database when starting` setting will automatically refresh the song folder when starting beatoraja. However, this can slow down beatoraja especially if you haven't added any new songs to your song folders.
+
+`Update BMS database` and `Rebuild BMS Database` can be very slow. I rarely use these options.
 
 
 ## Difficulty Tables

@@ -1,3 +1,5 @@
+This page is about downloading BMS songs in general. For information on how to add songs in beatoraja, refer to [Adding and Updating Song Folders in beatoraja](Configuration#adding-and-updating-song-folders-in-beatoraja).
+
 # Downloading Songs and Sabuns
 
 When a composer makes a BMS, they generally make a couple of charts along with it (e.g. Beginner, Normal, Hyper, Another, Insane). These are the default charts that come with the song. Occasionally, a charter may also make an additional chart for an existing BMS song. These additional charts are called sabuns (差分).
@@ -97,13 +99,3 @@ Not all charts will have links to the song and chart in their leaderboard pages.
 #### Illegal BMS
 
 Illegal BMS is a generic term to refer to either unkeysounded BMS, or converts from other games like beatmania IIDX. We do not condone the distribution or usage of such BMS files. Also, playing illegal BMS can get you banned on IR. Please do not ask about where to obtain them. There are way more than enough BMS songs created internally by the community to go around.
-
-# Adding and Updating Song Folders in beatoraja
-
-Go to the `Resources` tab to add your BMS song folders. (add them under BMS Path, not Table URL!)
-
-If you want to update your song folders, the fastest way to do so is to hover over a song folder in game and press F2. This refreshes the song folder.
-
-In the config, the `Update Song Database when starting` setting will automatically refresh the song folder when starting beatoraja. However, this can slow down beatoraja especially if you haven't added any new songs to your song folders.
-
-`Update BMS database` and `Rebuild BMS Database` can be very slow. I rarely use these options.
