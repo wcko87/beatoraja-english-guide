@@ -16,7 +16,7 @@ Key config is done by pressing `6` on your keyboard during music select. Keys ar
 #### In config menu
 Go to the `Resources` tab to add your BMS song folders. (add them under BMS Path, not Table URL!)
 
-If you want to update your song folders, the fastest way to do so is to hover over a song folder in game (during [music select](Music-Select)) and press F2. This refreshes the song folder.
+If you want to refresh the songs within a folder, the fastest way to do so is to hover over a song folder in game (during [music select](Music-Select)) and press F2. This refreshes the selected song folder.
 
 In the config, the `Update Song Database when starting` setting will automatically refresh the song folder when starting beatoraja. However, this can slow down beatoraja especially if you haven't added any new songs to your song folders.
 
