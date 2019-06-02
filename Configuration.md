@@ -1,20 +1,22 @@
 There are generally three places where you can configure things:
 1. In the config menu (before starting the game)
-2. During music select (in game)
+2. During [music select](Music-Select) (in game)
 3. During play (in game)
 
 This list is organized by the settings you can configure. How and where you can configure each setting will be explained.
 
 ## Key Config
 
+#### During music select
 Key config is done by pressing `6` on your keyboard during music select. Keys are configured separately for each play mode (5K, 7K, 9K etc).
 
 
 ## Adding and Updating Song Folders in beatoraja
 
+#### In config menu
 Go to the `Resources` tab to add your BMS song folders. (add them under BMS Path, not Table URL!)
 
-If you want to update your song folders, the fastest way to do so is to hover over a song folder in game and press F2. This refreshes the song folder.
+If you want to update your song folders, the fastest way to do so is to hover over a song folder in game (during [music select](Music-Select)) and press F2. This refreshes the song folder.
 
 In the config, the `Update Song Database when starting` setting will automatically refresh the song folder when starting beatoraja. However, this can slow down beatoraja especially if you haven't added any new songs to your song folders.
 
