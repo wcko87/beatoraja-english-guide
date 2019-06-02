@@ -2,9 +2,9 @@ This page is about downloading BMS songs in general. For information on how to a
 
 # Downloading Songs and Sabuns
 
-When a composer makes a BMS, they generally make a couple of charts along with it (e.g. Beginner, Normal, Hyper, Another, Insane). These are the default charts that come with the song. Occasionally, a charter may also make an additional chart for an existing BMS song. These additional charts are called sabuns (差分).
+When a composer makes a BMS, they generally make a couple of charts along with it (e.g. Beginner, Normal, Hyper, Another, Insane). These are the default charts that come with the song. Occasionally, a charter may also make an additional chart for some existing BMS song. An additional chart is called a sabun(差分).
 
-While this is not a strict rule, sabuns typically add a subtitle to the end of the song name. For example, this may be the names of the default charts:
+While this is not a strict rule, sabuns typically add a subtitle to the end of the song name. For example, these may be the names of the default charts:
 - Calamity Fortune [NORMAL]
 - Calamity Fortune [HYPER]
 - Calamity Fortune [ANOTHER]
