@@ -35,7 +35,9 @@ There are two ways to fix locale issues in beatoraja. This fixes all the problem
 
 Open up `beatoraja-config.bat` (or `beatoraja-config.command`, depending on which you use to start beatoraja), and add `-Dfile.encoding="UTF-8"` to the end of the `_JAVA_OPTIONS=` line.
 
-The line should look something like this:
+**Note:** The `-Dfile.encoding="UTF-8"` argument must be placed *outside* the inverted commas `''`. This sounds odd, but the setting will do nothing otherwise. There also must be a space before `-Dfile.encoding="UTF-8"`.
+
+The line should look like this:
 ```
 set _JAVA_OPTIONS='-Dsun.java2d.opengl=true -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel' -Dfile.encoding="UTF-8"
 ```
