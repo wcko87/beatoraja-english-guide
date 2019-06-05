@@ -23,6 +23,8 @@ A BMS player is used to play BMS songs/charts. Commonly used BMS players are Lun
 
 Note that Lunatic Rave 2 does not support the more recent .bmson file format, while beatoraja does.
 
+Here is a (pretty long) [list of BMS players](https://www40.atwiki.jp/laser_bm/pages/16.html), sorted by release year. (note: JP)
+
 # Components of a BMS
 
 Each BMS song is contained in its own folder. The folder for a single BMS song often contains hundreds of files. Here are the usual contents of the folder:
