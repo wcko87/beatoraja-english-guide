@@ -5,7 +5,7 @@ Charts in difficulty tables are listed by difficulty.
 
 An example of a well-known difficulty table is the [Insane scale](http://www.ribbit.xyz/bms/tables/insane.html), which divides charts into 25 levels, ★1 to ★25. For example, when we say a chart is ★10, it means it belongs to ★10 on the insane scale.
 
-After loading a difficulty table into your BMS player (e.g. beatoraja), you will be able to see the list of charts in-game, and can play the charts by selecting them from the table. However, you will need to have the songs/charts downloaded (i.e. somewhere in your BMS folder) before you can play them. 
+After loading a difficulty table into your BMS player (e.g. beatoraja), you will be able to see the list of charts in-game, and can play the charts by selecting them from the table. However, you will need to have the songs/charts already downloaded (i.e. somewhere in your BMS folder) before you can play them. 
 See [downloading songs/charts](Downloading-Songs) for more information.
 
 # Why use difficulty tables?
