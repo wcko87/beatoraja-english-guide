@@ -66,6 +66,7 @@ Making an unkeysounded BMS is possible by making a single long keysound at the s
 
 This rule is usually enforced to restrict BMS songs to original compositions by the community. The next section gives a general idea of the structure of the community.
 
+To find out where to download BMS songs, refer to [Downloading Songs](Downloading-Songs#where-do-i-find-songs).
 
 # BMS Community
 
