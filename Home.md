@@ -131,6 +131,11 @@ Here are the common errors you might see:
 #### 3. beatoraja.jar is not found
 - There should be a beatoraja.jar in the same folder as beatoraja-config.bat. If there is no beatoraja.jar, you probably downloaded the source code for the game instead of the game itself. beatoraja.jar is the main game executable, and so is definitely necessary.
 
+#### 4. Error: Could not find or load main class bms.player.beatoraja.MainLoader
+- You might experience this error if you are on Java 9+ or using OpenJDK on Linux. This may be because JavaFX isn't included with your Java installation.
+- If this is indeed the case, you may have to install JavaFX manually.
+- If you are on Java 8 (Java 1.8) on Windows, you will definitely have JavaFX installed, so this shouldn't be the issue.
+
 
 ### I added songs, but I can't see the folders in game
 
@@ -160,6 +165,3 @@ This might have happened if you only see a few songs in your songwheel, and don'
         |-> song1
         '-> song2
     ````
-
-
-
