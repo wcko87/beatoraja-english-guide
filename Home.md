@@ -1,14 +1,23 @@
-# Running Beatoraja
+# What is beatoraja?
 
-#### 1. Download 64-bit java
+beatoraja is an open source BMS Player in active development.
+- [What is BMS?](BMS-Overview)
+- [beatoraja on Github](https://github.com/exch-bms2/beatoraja)
+
+# Getting Started with beatoraja
+
+#### 1. Download 64-bit Java
+- [Download Java from here](https://www.java.com/en/download/manual.jsp). Make sure to get a **64-bit** version of Java.
 - beatoraja may not run properly on 32-bit java. Refer to [this error description](#2-invalid-maximum-heap-size--xmx4g) for more details.
+- We suggest Java 8, as it has JavaFX included. beatoraja is compiled with Java 8, though it will still work on later versions of Java as long as JavaFX is present.
 
 #### 2. Download beatoraja
-- Make sure you download the beatoraja release itself, from [Mocha Repository](https://mocha-repository.info/download.php), not the source code from Github!
+- [Download beatoraja from here](https://mocha-repository.info/download.php).
+- Make sure you download the beatoraja release from [Mocha Repository](https://mocha-repository.info/download.php), not the source code from Github!
 - If `beatoraja.jar` is absent from your beatoraja directory, you probably downloaded the source code instead of the program itself.
 
 #### 3. Run beatoraja
-- run beatoraja by starting `beatoraja-config.bat`. Do not run beatoraja by launching the beatoraja.jar directly. If you wish to make a shortcut, point the shortcut to `beatoraja-config.bat`.
+- Run beatoraja by starting `beatoraja-config.bat`. Do not run beatoraja by launching the beatoraja.jar directly. If you wish to make a shortcut, point the shortcut to `beatoraja-config.bat`.
 - If you are on mac/linux, use `beatoraja-config.command` instead.
 
 ### LOCALE ISSUES: READ THIS BEFORE PLAYING
