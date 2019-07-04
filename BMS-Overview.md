@@ -70,7 +70,7 @@ To find out where to download BMS songs, refer to [Downloading Songs](Downloadin
 
 # BMS Community
 
-The BMS Community is generally self-sustaining, with all its music, charts and tools originating from the community itself. Songs are either charted by the composers themselves, or by dedicated charters.
+The BMS Community is generally self-sustaining, with all its music, charts and tools created by the community itself. BMS charts are either made by the composers themselves, or by dedicated charters.
 
 ## BMS Events
 
