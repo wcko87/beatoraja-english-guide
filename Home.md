@@ -73,7 +73,7 @@ If you are using a IIDX controller with axis input, you might want to turn on `A
 
 Most of the settings under `Play Option` can be configured in game.
 
-It might also be good to get a good skin for beatoraja, like [LITONE5](https://desout2.000webhostapp.com/litone5-beatoraja/), LITONE6 (WIP) or [Brook](https://twitter.com/isocosa/status/1084583459266412544). The default skin is pretty bad. Skin settings can be set in the `Skin` tab.
+It might also be good to get a good skin for beatoraja, like LITONE5, LITONE6 or [Brook](https://twitter.com/isocosa/status/1084583459266412544). The default skin is pretty bad. Skin settings can be set in the `Skin` tab.
 
 If you play on the P2 side (turntable on right), you can switch to P2 in the skin settings.
 
