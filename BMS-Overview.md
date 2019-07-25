@@ -73,7 +73,7 @@ The BMS Community is generally self-sustaining, with all its music, charts and t
 
 ## BMS Events
 
-While composers can release their BMS's on their own, this is not often done. Instead, most BMS compositions are submitted to BMS Events, where players and composers give feedback and rate each other's submissions. The biggest and most well known BMS event is the BMS of Fighters series of events (e.g. BOFU2016, BOFU2017, G2R2018), which is an event also known outside of the BMS community.
+While composers can release their BMS's on their own, this is not often done. Instead, most BMS compositions are submitted to BMS Events, where players and composers give feedback and rate each other's submissions. The biggest and most well known BMS events are the BMS of Fighters series of events (e.g. [BOFU2016](http://bmsoffighters.net/bofu2016/), [BOFU2017](http://www.bmsoffighters.net/bofu2017/), [G2R2018](http://www.bmsoffighters.net/g2r2018/)), which are events also known outside of the BMS community.
 
 Aside from large events like BMS of Fighters, there are many other smaller events happening throughout the year. A list of past and upcoming BMS events can be found here: [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 
@@ -85,7 +85,7 @@ After the impression period, the results/scores are tallied for the submissions.
 ## BMS Tools
 
 The BMS community is decentralized, being made up of a network of separate tools rather than being controlled by a central server. BMS tools refers to any part of the infrastructure of the BMS community:
-- BMS Players (programs like LR2 or beatoraja to play BMS files)
+- [BMS Players](https://www40.atwiki.jp/laser_bm/pages/16.html) (programs like LR2 or beatoraja to play BMS files)
 - BeMusicSeeker and Glassist for managing your BMS collection
 - Charting tools like [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)/[uBMSC](https://github.com/zardoru/iBMSC)
 - BMS preview tools like [uBMplay](http://ucn.tokonats.net/software/ubmplay/), [BMIIDXView2015](http://www.charatsoft.com/software/bmview/index.html) and [mBMplay](https://misty.orz.hm/mbmplay.html)
