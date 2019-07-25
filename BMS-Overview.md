@@ -2,7 +2,7 @@
 
 Short answer: BMS is a file format for keysounded rhythm game charts.
 
-Note BMS is an umbrella term referring to .bms and related formats like .bme, .bml, .bmson, .pms.
+Note that BMS is an umbrella term referring to .bms and related formats like .bme, .bml, .bmson, .pms.
 BMS supports multiple play modes corresponding to the amount of keys, including:
 
 - 7KEYS (mechanics based on beatmania IIDX)
@@ -16,14 +16,13 @@ BMS supports multiple play modes corresponding to the amount of keys, including:
 7KEYS is the most common play mode in BMS.
 One advantage of the BMS file format is that it is human-readable and relatively easy to work with. This makes it possible to edit charts manually in a text editor, and also relatively easy to write a parser for the BMS file format.
 
-
 # What is a BMS Player?
 
-A BMS player is used to play BMS songs/charts. Commonly used BMS players are Lunatic Rave 2 (LR2), beatoraja, ruv-it, bemuse, etc. There are many other BMS players out there.
+A BMS player is used to play BMS songs/charts. The first BMS player is BM98, first introduced in 1998, as its name implies. Some commonly used BMS players today are Lunatic Rave 2 (LR2), beatoraja, ruv-it, bemuse, etc. There are many other BMS players out there.
 
 Note that Lunatic Rave 2 does not support the more recent .bmson file format, while beatoraja does.
 
-Here is a (pretty long) [list of BMS players](https://www40.atwiki.jp/laser_bm/pages/16.html), sorted by release year/platform. (note: JP)
+Here is a (pretty long) [list of BMS players](https://www40.atwiki.jp/laser_bm/pages/16.html), sorted by release year/platform from 1998 to the current day (note: JP). Over 50 BMS players have been made since its introduction.
 
 # Components of a BMS
 
@@ -89,7 +88,7 @@ The BMS community is decentralized, being made up of a network of separate tools
 - BMS Players (programs like LR2 or beatoraja to play BMS files)
 - BeMusicSeeker and Glassist for managing your BMS collection
 - Charting tools like [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)/[uBMSC](https://github.com/zardoru/iBMSC)
-- BMS preview tools like [uBMplay](http://ucn.tokonats.net/software/ubmplay/) and [BMIIDXView2015](http://www.charatsoft.com/software/bmview/index.html)
+- BMS preview tools like [uBMplay](http://ucn.tokonats.net/software/ubmplay/), [BMIIDXView2015](http://www.charatsoft.com/software/bmview/index.html) and [mBMplay](https://misty.orz.hm/mbmplay.html)
 - Internet Ranking websites ([LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi) for LR2, [Mocha](https://mocha-repository.info/download.php)/[MinIR](https://www.gaftalk.com/minir/#/) for beatoraja, etc)
 - Websites like [Walkure](http://walkure.net/hakkyou/)/[Stairway](http://stairway.sakura.ne.jp/bms/)/[Notepara](http://www.notepara.com/)/[LR2keyway](https://www.lr2keyway.com/) for organizing clear/score records
 - Event websites that manage event registration and impressions
