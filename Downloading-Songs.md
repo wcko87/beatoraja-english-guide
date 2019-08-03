@@ -40,7 +40,7 @@ If the chart you want to play is a default chart (not a sabun), then you'll only
 If you want to just get right into playing, there are a few "Starter Packs", to get started with. Starter packs are not beginner packs. They usually contain songs covering a wide range of difficulties.
 
 #### [GENOSIDE 2018 -BMS StarterPackage 2018-](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
-- Recommended starter pack with a very good selection of songs. Download the Append package too and merge it into the main folder, if you want harder charts, or charts for other play modes (e.g. pms charts).
+- Recommended starter pack with a very good selection of songs. Download the Append package too and merge it into the main folder, if you want harder charts, or charts for other play modes (e.g. PMS charts).
 - This starter pack contains essentially all the songs required to play all of the GENOSIDE 2018 dan courses. ([What are dan courses](Difficulty-Tables#what-are-dan-courses))
 
 #### [GENOSIDE -BMS StarterPackage-](http://nekokan.dyndns.info/~lobsak/genoside/)
@@ -50,8 +50,8 @@ If you want to just get right into playing, there are a few "Starter Packs", to 
 
 #### [Pure White](http://l-bms.space/2nd/)
 
-#### [Toy Musical](http://toymusical.net/)
-- A series of PMS (9K) packs.
+#### [Toy Musical Series](http://toymusical.net/)
+- A series of PMS (9K) event packs. This link also contains links to a few other PMS event packs.
 
 #### [yamajet's BMS Starter Packs](http://www.yamajet.com/bmssp/guide.html)
 - A set of BMS compilations, from 2006 to 2009.
