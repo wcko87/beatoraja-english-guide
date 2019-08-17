@@ -6,7 +6,7 @@ In a [rhythm game](https://en.wikipedia.org/wiki/Rhythm_game), the player presse
 
 But a `.bms` chart is just a sequence of notes in a file. To play the charts, you use a [BMS Player](#what-is-a-bms-player) like Lunatic Rave 2 or beatoraja. Simply put, a BMS player is the game. It reads the chart files, and challenges you to clear the song.
 
-(Note: BMS is technically a file format, but sometimes we just refer ot the game as "BMS")
+(Note: BMS is technically a file format, but sometimes we just refer to the game as "BMS")
 
 Here is a video example:
 https://www.youtube.com/watch?v=EW4tv3mcQ-I
