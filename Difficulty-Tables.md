@@ -25,6 +25,7 @@ The current "standard" set of dan courses used in BMS is the GENOSIDE 2018 dan c
 - GENOSIDE 2018 発狂初段 (insane 1st dan) to GENOSIDE 2018 発狂十段 (insane 10th dan)
 - GENOSIDE 2018 発狂皆伝 (insane kaiden)
 - GENOSIDE 2018 overjoy
+
 The song list for each of these courses can be viewed here: [GENOSIDE 2018 Dan Courses](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
 
 There are also other similar dan courses, like the Satellite/Stella courses, or the LN dan courses.
