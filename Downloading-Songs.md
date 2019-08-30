@@ -90,6 +90,10 @@ To look for the sabun, there are a few places to check:
 - If the chart is part of a [Difficulty Table](Difficulty-Tables), the table itself may contain the link to the chart. 
   - In beatoraja, if you select a song/chart you don't have from a table, beatoraja will open download links for the song/chart in your default browser.
 
+#### Finding BMS songs with bmssearch.net
+
+[BMS Search](http://bmssearch.net/) can be used to find/discover BMS songs by genre, artist etc. (note: the website is in Japanese)
+
 #### Using LR2IR to find songs/charts
 
 LR2IR has a search box that allows you to look up the leaderboard pages for any existing chart that has been played on LR2. When you visit the leaderboard page for a chart, the chart metadata may contain the link to the base song (本体URL) and the sabun (差分URL). Example: [Calamity Fortune [F]](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=154602).
