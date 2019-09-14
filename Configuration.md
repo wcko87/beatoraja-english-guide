@@ -183,7 +183,7 @@ The main BPM is also displayed in green next to the song's indicated BPM range.
 
 beatoraja has [multiple gauges](Scores-and-Clears#gauges) you can play a song on. By default, if you select a gauge that is too difficult for you on a song, you fail the song. Gauge Auto Shift is a feature in beatoraja to "play" all the gauges at once. You are awarded the clear corresponding to the hardest gauge you clear the song on in that play.
 
-Note: beatoraja IRs may treat Gauge Auto Shift (GAS) clears differently.
+Note: beatoraja IRs may treat Gauge Auto Shift (GAS) clears differently. See the [IR services](Internet-Ranking-Services) page for more information.
 
 Visually, if you start on the EX-HARD gauge, running out of hp on EX-HARD will switch the gauge view to display the HARD gauge instead. Running out of hp on HARD makes it display GROOVE/EASY/ASSIST EASY, depending on which of the three is the hardest gauge where you are currently above the "passing" range.
 
