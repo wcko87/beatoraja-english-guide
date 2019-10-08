@@ -14,6 +14,13 @@ A feature allowing players to declare the difficulty and comment on the charts t
 ### Collections
 Users can create collections and courses which others can subscribe to via the mocha website, which adds those folders to the music select screen.
 
+### Gauge Auto Shift
+Mocha treats clears submitted using Gauge Auto Shift differently than the other IR services:
+- The first score submitted to IR will register with the achieved clear lamp in all cases.
+- Subsequent scores will only update the lamp on the IR if the clear achieved is equivalent to the selected gauge, otherwise it will register as an assist clear.
+
+For example, if IR already has a normal clear and you want to update the IR lamp to a hard clear, you will need to select the hard gauge and clear for the IR lamp to update. Achieving a better clear than the selected gauge (ex-hard instead of hard) will still register as an assist clear on the IR.
+
 # 2. [MinIR](https://www.gaftalk.com/minir/)
 The main unique feature of this IR is the Unique ID which can be used to bind the profile with [Stellaway](https://lite.stellabms.xyz/#/stellaway/beatoraja) for the Satellite and Stella difficulty tables.
 - When set as the main IR, it pushes the Satellite and Stella [difficulty tables](Difficulty-Tables) to your client, so it's best to not have them in your table list as it will duplicate them.
