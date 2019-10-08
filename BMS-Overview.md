@@ -1,8 +1,18 @@
 # What is BMS?
 
-Short answer: BMS is a file format for keysounded rhythm game charts.
+Short Answer: Be-Music Source (BMS) is a file format for rhythm game charts.
 
-Note that BMS is an umbrella term referring to .bms and related formats like .bme, .bml, .bmson, .pms.
+In a [rhythm game](https://en.wikipedia.org/wiki/Rhythm_game), the player presses buttons in accordance with the music. The song refers to the music itself that plays, while the chart for the song is the "gameplay" - i.e. the sequence of buttons you have to press when you play the song in game. Refer to [BMS Charting](#bms-charting) for what a chart for a song looks like.
+
+But a `.bms` chart is just a sequence of notes in a file. To play the charts, you use a [BMS Player](#what-is-a-bms-player) like Lunatic Rave 2 or beatoraja. Simply put, a BMS player is the game. It reads the chart files, and challenges you to clear the song.
+
+(Note: BMS is technically a file format, but sometimes we just refer to the game as "BMS")
+
+Here is a video example:
+https://www.youtube.com/watch?v=EW4tv3mcQ-I
+
+Note that we also use BMS to refer to related formats like .bme, .bml, .bmson and .pms.
+
 BMS supports multiple play modes corresponding to the amount of keys, including:
 
 - 7KEYS (mechanics based on beatmania IIDX)
