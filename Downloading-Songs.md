@@ -65,12 +65,17 @@ If you want to just get right into playing, there are a few "Starter Packs", to 
 
 ## Event Packs
 Most BMS songs come as part of some [BMS Event](BMS-Overview#bms-events).
-After the submission (registration) period for a BMS event is over, a song pack containing all of the submissions is usually created for the event.
+After the submission (registration) period for a BMS event is over, a song pack containing all of the submissions is usually created for the event. Otherwise, you can also download the songs individually from the event websites.
 
-A detailed list of past and upcoming events can be found here: [BMS Event Schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL).
+A detailed list of past and upcoming events can be found here:
+- [BMS Event List/Schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
+- The event schedule has links to the event websites. You can download songs from the events in these websites.
+- Check the date of the event first! Obviously, you won't be able to download songs from an event which has not yet started. You can download songs from ongoing or past events.
 
 The event packs can usually be found in the respective event websites. However, larger events like the BMS of Fighters series may not have readily available event packs, as the song collection may be too large.
 
+This page has a couple of event pack downloads:
+- [Event pack downloads](https://bms-community.github.io/resources/#event-packs)
 
 ## Downloading Individual Songs
 
