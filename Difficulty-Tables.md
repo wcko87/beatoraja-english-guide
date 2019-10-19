@@ -1,3 +1,63 @@
+- [Difficulty Rating System](#difficulty-rating-system)
+- [What are difficulty tables?](#what-are-difficulty-tables)
+- [What are dan courses?](#what-are-dan-courses)
+- [Popular difficulty tables](#popular-difficulty-tables)
+
+# Difficulty Rating System
+There are multiple different scales used to rate BMS songs. The Normal, Insane, Overjoy, Satellite and Stella scales are the most common standard scales. (Note: there are non-standard scales, like the LN and Scratch scale)
+
+Here is a difficulty comparison table for the standard scales:
+
+|IIDX Comparison | Normal/Insane Scale | Overjoy Scale | Satellite/Stella Scale |
+|:-:|:-:|:-:|:-:|
+|1 |☆1 (Normal)|||
+|2 |☆2 |||
+|3 |☆3 |||
+|4 |☆4 |||
+|5 |☆5 |||
+|6 |☆6 |||
+|7 |☆7 |||
+|8 |☆8 |||
+|9 |☆9 |||
+|10|☆10|||
+|11|☆11||sl0 (Satellite)|
+|12|☆12||sl0|
+|12|★1 (Insane)||sl1|
+|12|★2 ||sl1|
+|12|★3 ||sl2|
+|12|★4 ||sl2-sl3|
+|12|★5 ||sl3|
+|12|★6 ||sl4|
+|12|★7 ||sl4|
+|12|★8 ||sl5|
+|12|★9 ||sl5|
+|12|★10||sl6|
+|12|★11||sl6-sl7|
+|12|★12||sl7|
+|12|★13||sl7-sl8|
+|12|★14||sl8|
+|12|★15||sl9|
+|12|★16||sl9-sl10|
+|12|★17||sl10-sl11|
+|12|★18||sl11-sl12|
+|12|★19||sl12-**st**0 (**St**ella)|
+|12|★20||**st**0|
+|12|★21|★★1|**st**1|
+|12|★22|★★2|**st**2|
+|12|★23|★★3|**st**3|
+|12|★24|★★4|**st**3|
+|12|★24|★★4|**st**4|
+|12|★24|★★4|**st**5|
+|12|★24|★★4|**st**6|
+|12|★25|★★5|**st**6|
+|12|★25|★★5|**st**7|
+|12|★25|★★5|**st**8|
+|12|★25|★★5|**st**9|
+|12|   |★★6|**st**9|
+|12|   |★★6|**st**10|
+|12|   |★★7|**st**11|
+
+
 # What are difficulty tables?
 
 Difficulty tables are collections of "recommended" charts to play. These tables do not contain the charts or songs themselves. They are simply lists of charts (containing chart hashes so that the game can identify the charts).
