@@ -1,3 +1,4 @@
+## Contents:
 - [What is BMS?](#what-is-bms)
 - [BMS Charting](#bms-charting)
 - [BMS Community and Events](#bms-community)
