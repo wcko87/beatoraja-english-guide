@@ -5,7 +5,7 @@
 - [Popular Difficulty Tables](#popular-difficulty-tables)
 
 # Difficulty Rating System
-There are multiple different scales used to rate BMS songs. The Normal, Insane, Overjoy, Satellite and Stella scales are the most common standard scales. (Note: there are non-standard scales, like the LN and Scratch scale)
+There are multiple different scales used to rate BMS songs. The Normal (☆/▽), Insane (★/▼), Overjoy (★★), Satellite (**sl**) and Stella (**st**) scales are the most common standard scales. (Note: there are non-standard scales, like the LN and Scratch scale)
 
 Here is a difficulty comparison table for the standard scales:
 
