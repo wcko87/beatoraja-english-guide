@@ -1,8 +1,12 @@
 # What is beatoraja?
 
 beatoraja is an open source BMS Player in active development.
-- [What is BMS?](BMS-Overview)
 - [beatoraja on Github](https://github.com/exch-bms2/beatoraja)
+
+If you're here just for more information about BMS (and not beatoraja), check out the links below. These links are useful even if you are using LR2 or some other BMS player.
+- [What is BMS?](BMS-Overview)
+- [Where do I download BMS songs?](Downloading-Songs#where-do-i-find-songs)
+- [What are difficulty tables?](Difficulty-Tables)
 
 # Getting Started with beatoraja
 
