@@ -1,8 +1,8 @@
 ## Contents:
 - [Difficulty Rating System](#difficulty-rating-system)
-- [What are difficulty tables?](#what-are-difficulty-tables)
-- [What are dan courses?](#what-are-dan-courses)
-- [Popular difficulty tables](#popular-difficulty-tables)
+- [What are Difficulty Tables?](#what-are-difficulty-tables)
+- [What are Dan Courses?](#what-are-dan-courses)
+- [Popular Difficulty Tables](#popular-difficulty-tables)
 
 # Difficulty Rating System
 There are multiple different scales used to rate BMS songs. The Normal, Insane, Overjoy, Satellite and Stella scales are the most common standard scales. (Note: there are non-standard scales, like the LN and Scratch scale)
@@ -59,7 +59,7 @@ Here is a difficulty comparison table for the standard scales:
 |12|   |★★7|**st**11|
 
 
-# What are difficulty tables?
+# What are Difficulty Tables?
 
 Difficulty tables are collections of "recommended" charts to play. These tables do not contain the charts or songs themselves. They are simply lists of charts (containing chart hashes so that the game can identify the charts).
 Charts in difficulty tables are listed by difficulty.
@@ -77,7 +77,7 @@ Difficulty tables, in a sense, work as some sort of quality filter.
 Difficulty tables also serve as level ratings for charts. The level indicated on the chart itself is set by the chart creator, and this level may not be accurate. The levels in the difficulty tables are decided by the creator of the table, and often has gone through some discussion within the community.
 
 
-# What are dan courses?
+# What are Dan Courses?
 
 Courses can be included in difficulty tables. Among these courses are what people call "dan courses". A dan course is a specific set of (usually 4) songs used to test one's ability. In a course, you have to clear the sequence of given songs using a single health gauge that carries between songs. A player is said to have achieved a dan rank if they are able to clear the dan course corresponding to that rank.
 
@@ -123,7 +123,7 @@ Satellite Skill Analyzer and Stella Skill Simulator have separate beatoraja link
 
 All of these dan courses include a contraint that forces beatoraja to use the LR2 dan gauge, to ensure consistency in difficulty with the same dan courses in LR2.
 
-# Popular difficulty tables
+# Popular Difficulty Tables
 
 This section contains a brief list of some of the more commonly-used tables. For a more extensive list of tables, please refer to [Ribbit's list of difficulty tables](http://www.ribbit.xyz/bms/tables/table_list.html).
 
