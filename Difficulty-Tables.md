@@ -1,3 +1,4 @@
+## Contents:
 - [Difficulty Rating System](#difficulty-rating-system)
 - [What are difficulty tables?](#what-are-difficulty-tables)
 - [What are dan courses?](#what-are-dan-courses)
