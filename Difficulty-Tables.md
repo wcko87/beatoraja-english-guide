@@ -12,6 +12,9 @@ There are multiple different scales used to rate BMS songs. The Normal (☆), In
 
 Here is a difficulty comparison table for the standard scales:
 
+<details>
+<summary><b>Click to view Difficulty Comparison Table</b></summary>
+
 |IIDX Comparison | Normal/Insane Scale | Overjoy Scale | Satellite/Stella Scale |
 |:-:|:-:|:-:|:-:|
 |1 |☆1 (Normal)|||
@@ -61,6 +64,7 @@ Here is a difficulty comparison table for the standard scales:
 |12|   |★★6|**st**10|
 |12|   |★★7|**st**11|
 
+</details>
 
 # What are Difficulty Tables?
 
