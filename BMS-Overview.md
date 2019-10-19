@@ -1,3 +1,7 @@
+- [What is BMS?](#what-is-bms)
+- [BMS Charting](#bms-charting)
+- [BMS Community and Events](#bms-community)
+
 # What is BMS?
 
 Short Answer: Be-Music Source (BMS) is a file format for rhythm game charts.
@@ -34,7 +38,7 @@ Note that Lunatic Rave 2 does not support the more recent .bmson file format, wh
 
 Here is a (pretty long) [list of BMS players](https://www40.atwiki.jp/laser_bm/pages/16.html), sorted by release year/platform from 1998 to the current day (note: JP). Over 50 BMS players have been made since its introduction.
 
-# Components of a BMS
+# What does a BMS song contain?
 
 Each BMS song is contained in its own folder. The folder for a single BMS song often contains hundreds of files. Here are the usual contents of the folder:
 
