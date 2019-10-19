@@ -5,7 +5,9 @@
 - [Popular Difficulty Tables](#popular-difficulty-tables)
 
 # Difficulty Rating System
-There are multiple different scales used to rate BMS songs. The Normal (☆/▽), Insane (★/▼), Overjoy (★★), Satellite (**sl**) and Stella (**st**) scales are the most common standard scales. (Note: there are non-standard scales, like the LN and Scratch scale)
+There are multiple different scales used to rate BMS songs. The Normal (☆), Insane (★), Overjoy (★★), Satellite (**sl**) and Stella (**st**) scales are the most common standard scales. (Note: there are non-standard scales, like the LN and Scratch scale)
+
+Note: The Normal2 (▽) and  the Insane2 (▼) tables use ▽ and ▼ instead of ☆ and ★. They mean  the same thing.
 
 Here is a difficulty comparison table for the standard scales:
 
@@ -131,32 +133,32 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 
 We recommend the Normal2, Insane2, Satellite and Stella tables, as they contain more recent songs and are more frequently updated, unlike the Normal, Insane and Overjoy tables.
 
-### [Normal table](http://www.ribbit.xyz/bms/tables/normal.html)
+### [Normal table (☆)](http://www.ribbit.xyz/bms/tables/normal.html)
 - Levels rated from ☆1-☆12. Covers the "IIDX" level range.
 - ☆12 correspons to the easiest 12s in IIDX. Anything harder than the easiest 12s is in the insane scale.
 
-### [Insane table](http://www.ribbit.xyz/bms/tables/insane.html)
+### [Insane table (★)](http://www.ribbit.xyz/bms/tables/insane.html)
 - Levels rated from ★1-★25. These 25 levels subdivide the level "12" in the IIDX level range.
 
-### [Overjoy table](http://www.ribbit.xyz/bms/tables/overjoy.html)
+### [Overjoy table (★★)](http://www.ribbit.xyz/bms/tables/overjoy.html)
 - Levels rated from ★★1-★★7. ★★1 corresponds to ★21 and ★★5 corresponds to ★25.
 
-### [Normal2 table](http://bmsnormal2.syuriken.jp/table.html)
+### [Normal2 table (▽)](http://bmsnormal2.syuriken.jp/table.html)
 - Similar to the Normal table, but contains more recent songs, and is more frequently updated. Songs rated from ▽1-▽12.
 
-### [Insane2 table](http://bmsnormal2.syuriken.jp/table_insane.html)
+### [Insane2 table (▼)](http://bmsnormal2.syuriken.jp/table_insane.html)
 - Similar to the Insane table, but contains more recent songs, and is more frequently updated. Songs rated from ▼1-▼25.
 
-### [Satellite table](https://lite.stellabms.xyz/table.html)
+### [Satellite table (**sl**)](https://lite.stellabms.xyz/table.html)
 - A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite website](https://lite.stellabms.xyz)
 - Charts are rated on a scale of sl0-sl12. Covers the level range ☆11-★19.
 
-### [Stella table](https://stellabms.xyz/table.html)
+### [Stella table (**st**)](https://stellabms.xyz/table.html)
 - A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Stella website](https://stellabms.xyz)
 - Charts are rated on a scale of st0-st11. Covers the level range ★20 and up, as well as the overjoy difficulty range.
 
-### [Scratch (sara) table](http://minddnim.web.fc2.com/sara/3rd_hard/bms_sara_3rd_hard.html)
+### [Scratch (sara) table (◎)](http://minddnim.web.fc2.com/sara/3rd_hard/bms_sara_3rd_hard.html)
 - For scratch charts.
 
-### [LN (long note) table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
+### [LN (long note) table (◆)](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
 - For LN charts. Not frequently updated.
