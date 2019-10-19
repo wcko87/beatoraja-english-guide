@@ -35,6 +35,10 @@ If the chart you want to play is a default chart (not a sabun), then you'll only
 
 # Where do I find songs?
 
+- [Starter Packs](#starter-packs)
+- [Event Packs](#event-packs)
+- [Downloading Individual Songs](#downloading-individual-songs)
+
 ## Starter Packs
 
 If you want to just get right into playing, there are a few "Starter Packs", to get started with. Starter packs are compilation packs of songs from various BMS events. Starter packs are not beginner packs. They usually contain songs covering a wide range of difficulties.
