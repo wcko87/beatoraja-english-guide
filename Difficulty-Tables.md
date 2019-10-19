@@ -2,7 +2,7 @@
 - [Difficulty Rating System](#difficulty-rating-system)
 - [What are Difficulty Tables?](#what-are-difficulty-tables)
 - [What are Dan Courses?](#what-are-dan-courses)
-- [Popular Difficulty Tables](#popular-difficulty-tables)
+- [Popular Difficulty Tables](#popular-difficulty-tables) (with links)
 
 # Difficulty Rating System
 There are multiple different scales used to rate BMS songs. The Normal (☆), Insane (★), Overjoy (★★), Satellite (**sl**) and Stella (**st**) scales are the most common standard scales.
