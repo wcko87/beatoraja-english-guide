@@ -152,7 +152,7 @@ We recommend the Normal2, Insane2, Satellite and Stella tables, as they contain 
 - Similar to the Normal table, but contains more recent songs, and is more frequently updated. Songs rated from ▽1-▽12.
 
 ### [Insane2 table (▼)](http://bmsnormal2.syuriken.jp/table_insane.html)
-- Similar to the Insane table, but contains more recent songs, and is more frequently updated. Songs rated from ▼1-▼25.
+- Similar to the Insane table, but contains more recent songs, and is more frequently updated. Songs rated from ▼0-▼25.
 
 ### [Satellite table (**sl**)](https://lite.stellabms.xyz/table.html)
 - A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite website](https://lite.stellabms.xyz)
@@ -160,7 +160,7 @@ We recommend the Normal2, Insane2, Satellite and Stella tables, as they contain 
 
 ### [Stella table (**st**)](https://stellabms.xyz/table.html)
 - A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Stella website](https://stellabms.xyz)
-- Charts are rated on a scale of st0-st11. Covers the level range ★20 and up, as well as the overjoy difficulty range.
+- Charts are rated on a scale of st0-st11. Covers the level range ★19 and up, as well as the overjoy difficulty range.
 
 ### [Scratch (sara) table (◎)](http://minddnim.web.fc2.com/sara/3rd_hard/bms_sara_3rd_hard.html)
 - For scratch charts.
