@@ -68,7 +68,7 @@ Here is a difficulty comparison table for the standard scales:
 
 # What are Difficulty Tables?
 
-Difficulty tables are collections of "recommended" charts to play. These tables do not contain the charts or songs themselves. They are simply lists of charts (containing chart hashes so that the game can identify the charts).
+Difficulty tables are curated lists of "recommended" charts to play. These tables do not contain the charts or songs themselves. They are simply lists of charts (containing chart hashes so that the game can identify the charts).
 Charts in difficulty tables are listed by difficulty.
 
 An example of a well-known difficulty table is the [Insane scale](http://www.ribbit.xyz/bms/tables/insane.html), which divides charts into 25 levels, ★1 to ★25. For example, when we say a chart is ★10, it means it belongs to ★10 on the insane scale.
