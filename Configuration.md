@@ -99,7 +99,7 @@ Explanation of these settings: [Hidden and Lift](Green-Number#hidden-and-lift)
 Hidden/lift can be enabled/configured in the `Play Option` tab.
 
 #### During play
-The height of the hidden/lift lane cover can be adjusted by toggling off SUDDEN+ and then adjusting your lanecover height.
+The height of the hidden/lift lane cover can be adjusted by toggling off SUDDEN+ and then [adjusting your lanecover height](#sudden-hi-speed-green-number).
 
 
 ## LN, CN and HCN mode
