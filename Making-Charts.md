@@ -1,3 +1,5 @@
+This guide has absolutely nothing to do with beatoraja. It's a guide for making your own BMS charts.
+
 ## Contents:
 - [What is in a BMS chart?](#what-is-in-a-bms-chart)
 - [Finding something to chart](#finding-something-to-chart)
