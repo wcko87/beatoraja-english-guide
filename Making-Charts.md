@@ -1,5 +1,4 @@
-# How do I chart BMS?
-Contents:
+## Contents:
 - [What is in a BMS chart?](#what-is-in-a-bms-chart)
 - [Finding something to chart](#finding-something-to-chart)
 - [How to make charts using uBMSC](#how-to-make-charts-using-ubmsc)
