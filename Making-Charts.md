@@ -1,12 +1,13 @@
 # How do I chart BMS?
-- [General Structure of BMS Songs/Charts](#general-structure-of-bms-songscharts)
-- [How to Get Started with Charting](#how-to-get-started-with-Charting)
-- [How to Make Charts Using uBMSC](#how-to-make-charts-using-ubmsc)
-- [Chart Metadata](#chart-metadata)
-- [Frequently Asked Questions](#frequently-asked-questions)
+Contents:
+- [What is in a BMS chart?](#what-is-in-a-bms-chart)
+- [Finding something to chart](#finding-something-to-chart)
+- [How to make charts using uBMSC](#how-to-make-charts-using-ubmsc)
+- [Chart metadata](#chart-metadata)
+- [Frequently asked questions](#frequently-asked-questions)
 
 
-## General Structure of BMS Songs/Charts
+## What is in a BMS Chart?
 
 BMS charts are generally fully keysounded. The use of unkeysounded notes is frowned upon by the community.
 
@@ -29,18 +30,8 @@ To turn a BMS into a playable chart, these keysounds are dragged horizontally in
 Each keysound thus corresponds to a single note. Not all keysounds need to be used in the chart. The keysounds in the playable lanes will be the keysounds you need to play in game, and the unused keysounds (red) will make up the background track of the song. Most of the time, the majority of the keysounds will remain as the background track.
 
 
-## How to Get Started with Charting
+## Finding Something to Chart
 
-### Required Software
-1. Chart Editor
-    - Recommended: [uBMSC](https://github.com/zardoru/iBMSC/releases)
-    - Alternatives: iBMSC, BMSE
-2. BMS Preview Tool (pick one)
-    - [uBMplay](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip). Issue: Can be a pain to get working.
-    - [BMIIDXView2015](http://www.charatsoft.com/software/bmview/index.html). Issue: Lacks a lot of features.
-    - [mBMplay](https://misty.orz.hm/mbmplay.html). Good features, but can be a little slow, and lacks the ability to pause.
-
-### Finding Something to Chart
 Note that the keysounding process is done by composers. Charting is when you shift the keysounds into the playable lanes. As a charter, there are a couple of ways you can get started with charting:
 1. Compose your own song and keysound it, then chart it (and maybe submit it to an [event](BMS-Overview/#bms-events).
 2. Collaborate with a composer, and help to chart their song after they have keysounded it.
@@ -63,11 +54,19 @@ You can also opt to upload your charts elsewhere (e.g. your own personal website
 
 
 ## How to Make Charts Using uBMSC
-
 ### Downloading the Necessary Tools
+##### Required Software:
+1. Chart Editor
+    - Recommended: [uBMSC](https://github.com/zardoru/iBMSC/releases)
+    - Alternatives: iBMSC, BMSE
+2. BMS Preview Tool (pick one)
+    - [uBMplay](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip). Issue: Can be a pain to get working.
+    - [BMIIDXView2015](http://www.charatsoft.com/software/bmview/index.html). Issue: Lacks a lot of features.
+    - [mBMplay](https://misty.orz.hm/mbmplay.html). Good features, but can be a little slow, and lacks the ability to pause.
+
 [uBMSC](https://github.com/zardoru/iBMSC/releases) is the recommended tool for making BMS charts. (there are older alternative editors like iBMSC and BMSE, but they are not recommended)
 
-Note that uBMSC cannot preview the BMS song/chart on its own. You need a BMS Preview Tool to view the BMS on autoplay. Refer to [Required Software](#required-software) for links to BMS preview tools.
+Note that uBMSC cannot preview the BMS song/chart on its own. You need a BMS Preview Tool (above) to view the BMS on autoplay.
 
 ### Configuration
 Configuration Checklist:
