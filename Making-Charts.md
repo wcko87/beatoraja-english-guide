@@ -153,7 +153,7 @@ The following pieces of metadata will be revealed if you click "Expand" on the s
     - Common practice is to write something like "obj. ChartersName", where ChartersName refers the name of the charter.
 - **Stage File:** Image used as the [Stage File](BMS-Overview#other-miscellaneous-files) for the song.
 - **Banner:** Image used as the [Banner](BMS-Overview#other-miscellaneous-files) for the song.
-- **Bank BMP:** don't remember what this is
+- **Back BMP:** don't remember what this is
 - **Difficulty:** displayed difficulty type (BEGINNER/NORMAL/HYPER/ANOTHER/INSANE)
     - See [chart level and difficulty](Music-Select#chart-level-and-difficulty).
 - **ExRank:** not commonly used. Changes judge windows in an odd way.
