@@ -34,7 +34,7 @@ Each keysound thus corresponds to a single note. Not all keysounds need to be us
 ## Finding Something to Chart
 
 Note that the keysounding process is done by composers. Charting is when you shift the keysounds into the playable lanes. As a charter, there are a couple of ways you can get started with charting:
-1. Compose your own song and keysound it, then chart it (and maybe submit it to an [event](BMS-Overview/#bms-events).
+1. Compose your own song and keysound it, then chart it (and maybe submit it to an [event](BMS-Overview/#bms-events)).
 2. Collaborate with a composer, and help to chart their song after they have keysounded it.
 3. Make a [Sabun](Downloading-Songs#downloading-songs-and-sabuns). This generally refers to an additional chart for an existing BMS song.
 
