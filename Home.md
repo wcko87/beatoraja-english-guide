@@ -42,7 +42,7 @@ The problems locale issues will cause:
 There are two ways to fix locale issues in beatoraja. This fixes all the problems listed above.
 
 - **Method 1:** Switch to Japanese locale on your PC
-- **Method 2:** Run beatoraja using the UTF-8 encoding
+- **Method 2:** Run beatoraja using the UTF-8 encoding (Recommended solution)
 
 ### Running beatoraja with UTF-8 encoding
 
