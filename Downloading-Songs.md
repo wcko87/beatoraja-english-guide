@@ -1,4 +1,10 @@
-This page is about downloading BMS songs in general. For information on how to add songs in beatoraja, refer to [Adding and Updating Song Folders in beatoraja](Configuration#adding-and-updating-song-folders-in-beatoraja).
+This page is about downloading BMS songs in general, and is not specific to beatoraja. The information in this guide applies even if you are using other BMS players (like Lunatic Rave 2).
+
+If you were looking for information on how to add songs in beatoraja, refer to [Adding and Updating Song Folders in beatoraja](Configuration#adding-and-updating-song-folders-in-beatoraja).
+
+## Contents
+- [About Downloading Songs and Sabuns](#downloading-songs-and-sabuns)
+- [Where do I find songs?](#where-do-i-find-songs)
 
 # Downloading Songs and Sabuns
 
