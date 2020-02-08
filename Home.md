@@ -154,7 +154,9 @@ Here are the common errors you might see:
 
 ### I added songs, but I can't see the folders in game
 
-There are a few possible causes.
+Try restarting beatoraja first. The songs might show up after a restart.
+
+If the songs still don't show up, there are a few possible causes.
 
 #### An error occurred while adding songs
 This might have happened if you notice a bunch of errors in the command window and the song adding process halts suddenly.
