@@ -98,12 +98,19 @@ The song list for each of these courses can be viewed here: [GENOSIDE 2018 Dan C
 
 There are also other similar dan courses, like the Satellite/Stella courses, or the LN dan courses.
 
+All the songs required for the GENOSIDE 2018 dan courses are included in the [GENOSIDE 2018 Starter Package](http://nekokan.dyndns.info/~lobsak/genocide/grade.html) (with a few exceptions, listed below). You may also need to download the Append package and merge it into the GENOSIDE 2018 folder. (the Append package contains additional charts, which may be needed for the insane dans.)
+
+These are the only dan songs missing from the GENOSIDE 2018 Starter Package:
+- ★20 ひつぎとふたご [7KEY/LUNATIC] - for insane 9th dan course
+- ★24 Love & Justice [GOD] - for insane kaiden course
+- ★25 FREEDOM DiVE [FOUR DIMENSIONS] - for overjoy course
 
 # Using difficulty tables in beatoraja
+**Note: If you are using Lunatic Rave 2 (LR2) instead of beatoraja, you need to use BeMusicSeeker to set up difficulty tables.**
 
 beatoraja tables use the glassist table format. Tables are hosted on webpages, and these pages have embedded .json files containing the table data.
 
-To use a table in beatoraja, go to the `Resources` tab in the beatoraja config, and add the URL to a table into the list of table URLs. By default, the list already contains some common tables, like the Normal2, Insane2 and LN tables.
+To use a table in beatoraja, go to the `Resources` tab in the beatoraja config, and add the [table's URL](#popular-difficulty-tables) into the list of table URLs. By default, the list already contains some common tables, like the Normal2, Insane2 and LN tables. The next section in this guide has a list of table URLs.
 
 However, none of these tables will load until you click on `Load difficulty table` at the bottom of the config. This button fetches the table data from the webpages in the list.
 
@@ -114,19 +121,15 @@ When scrolling through the tables in-game, you might find songs that have their 
 
 ### How do I play dan courses in beatoraja?
 
-beatoraja courses are stored in tables. LR2 course files (.lr2crs files) cannot be used in beatoraja.
+**Note: beatoraja courses are stored in tables. LR2 course files (.lr2crs files) cannot be used in beatoraja.**
 
-The GENOSIDE 2018 normal dans (初段 - 十段) can be found in the Normal2 table. The GENOSIDE 2018 insane dans (発狂初段 - overjoy) can be found in the Insane2 table. The LN dans can be found in the LN table.
-Thus, they are playable by default (just click `Load difficulty table`) as long as you have the songs.
+The following courses are available by default (just click `Load difficulty table` in the config). Do note that you still need the songs downloaded before you can play the courses.
+- The **GENOSIDE 2018 Normal** dans (初段 - 十段) can be found in the **Normal2** table.
+- The **GENOSIDE 2018 Insane** dans (発狂初段 - overjoy) can be found in the **Insane2** table.
+- The LN dans can be found in the LN table.
 
-With a few exceptions (below), all the songs required for the GENOSIDE 2018 dan courses are included in the [GENOSIDE 2018 Starter Package](http://nekokan.dyndns.info/~lobsak/genocide/grade.html). You may also need to download the Append package and merge it into the GENOSIDE 2018 folder. (the Append package contains additional charts, which may be needed for the insane dans.)
-
-These are the only dan songs missing from the GENOSIDE 2018 Starter Package:
-- ★20 ひつぎとふたご [7KEY/LUNATIC] - for insane 9th dan course
-- ★24 Love & Justice [GOD] - for insane kaiden course
-- ★25 FREEDOM DiVE [FOUR DIMENSIONS] - for overjoy course
-
-Satellite Skill Analyzer and Stella Skill Simulator have separate beatoraja links on the [Satellite](https://lite.stellabms.xyz/#/skill)/[Stella](https://stellabms.xyz/#/skill) websites.
+You can play other courses by adding their respective course table links.
+- Satellite Skill Analyzer and Stella Skill Simulator have separate beatoraja links on the [Satellite](https://lite.stellabms.xyz/#/skill)/[Stella](https://stellabms.xyz/#/skill) websites.
 
 All of these dan courses include a contraint that forces beatoraja to use the LR2 dan gauge, to ensure consistency in difficulty with the same dan courses in LR2.
 
