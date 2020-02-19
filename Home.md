@@ -8,7 +8,7 @@ If you're here just for more information about BMS (and not beatoraja), check ou
 - [Where do I download BMS songs?](Downloading-Songs#where-do-i-find-songs)
 - [Difficulty ratings and difficulty tables](Difficulty-Tables)
 
-Another popular BMS player is Lunatic Rave 2 (LR2). This guide is for beatoraja.
+Another popular BMS player is Lunatic Rave 2 (LR2). Most of this guide is for beatoraja.
 - Instructions for setting up LR2 can be found here: [Reddit LR2/BMS Setup Guide](https://www.reddit.com/r/lunaticrave2/wiki/index)
 
 # Getting Started with beatoraja
