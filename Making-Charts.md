@@ -47,7 +47,7 @@ You can then open up your new chart with a chart editor (like uBMSC) and edit it
 
 ### Finishing and Distributing Your Chart
 
-All you need to distribute is the `.bms` file for your chart. However, please make sure it is clear what song your chart is for!
+If you are making a sabun for an existing song, all you need to distribute is the `.bms` file for your chart. However, please make sure it is clear what song your chart is for!
 
 A popular place to upload charts is the [BMS Sabun Uploader](http://gnqg.rosx.net/upload/). Any new charts uploaded to BMS Sabun Uploader will be automatically posted on the [BMS Sabun Uploader Twitter](https://twitter.com/bmsuploader) account.
 
