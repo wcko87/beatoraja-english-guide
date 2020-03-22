@@ -32,6 +32,8 @@ In short, `beatoraja green number = IIDX green number * 5/3`. A beatoraja green 
 
 Most players converge to a IIDX green number that's somewhere in the 270-310 range (that's 450-517 in beatoraja).
 
+Your play skin may choose to display the beatoraja green number or the IIDX green number. Usually, if it's the IIDX green number, it is displayed in green, while the beatoraja green number may be displayed in another color like yellow or blue.
+
 Play and find a green number and lane cover height (white number) that you're comfortable with.
 
 
