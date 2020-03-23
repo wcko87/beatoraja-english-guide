@@ -2,6 +2,7 @@
 - [Difficulty Rating System](#difficulty-rating-system)
 - [What are Difficulty Tables?](#what-are-difficulty-tables)
 - [What are Dan Courses?](#what-are-dan-courses)
+- [Recommended Difficulty Tables for Getting Started](#recommended-difficulty-tables-for-getting-started)
 - [Popular Difficulty Tables](#popular-difficulty-tables) (with links)
 
 # Difficulty Rating System
@@ -108,7 +109,9 @@ These are the only dan songs missing from the GENOSIDE 2018 Starter Package:
 # Using difficulty tables in beatoraja
 **Note: If you are using Lunatic Rave 2 (LR2) instead of beatoraja, you need to use BeMusicSeeker to set up difficulty tables.**
 
-beatoraja tables use the glassist table format. Tables are hosted on webpages, and these pages have embedded .json files containing the table data.
+beatoraja tables use the same table format as glassist/BeMusicSeeker. Tables are hosted on webpages, and these pages have embedded .json data files containing the table data.
+
+![difficulty table in beatoraja](https://user-images.githubusercontent.com/27341392/77373171-df006880-6d3d-11ea-9190-f67b4462256a.png)
 
 To use a table in beatoraja, go to the `Resources` tab in the beatoraja config, and add the [table's URL](#popular-difficulty-tables) into the list of table URLs. By default, the list already contains some common tables, like the Normal2, Insane2 and LN tables. The next section in this guide has a list of table URLs.
 
@@ -129,9 +132,26 @@ The following courses are available by default (just click `Load difficulty tabl
 - The LN dans can be found in the LN table.
 
 You can play other courses by adding their respective course table links.
-- Satellite Skill Analyzer and Stella Skill Simulator have separate beatoraja links on the [Satellite](https://lite.stellabms.xyz/#/skill)/[Stella](https://stellabms.xyz/#/skill) websites.
+- Satellite Skill Analyzer and Stella Skill Simulator have beatoraja course table links on the [Satellite/Stella](https://stellabms.xyz/skill) website. (click "for beatoraja users")
 
 All of these dan courses include a contraint that forces beatoraja to use the LR2 dan gauge, to ensure consistency in difficulty with the same dan courses in LR2.
+
+# Recommended Difficulty Tables for Getting Started
+
+The following three tables cover the full range of BMS levels, and are highly recommended because they feature modern BMS songs with generally high-quality charts.
+### [Ikeda's Beginner Difficulty table](http://fezikedifficulty.futene.net/list.html)
+ - Covers levels in the normal range, specifically ☆1-☆11
+ - This level range is split into 19 denominations (田一 to 田十九)
+ - 田一 is approximately ☆1 and 田十九 is approximately ☆11+.
+### [Satellite Table](https://stellabms.xyz/sl/table.html)
+ - Generally covers levels in the insane range, specifically ☆11-★19
+ - This level range is split into 13 denominations (sl0 to sl12)
+ - sl0 is approximately ☆11/☆12 and sl12 is approximately ★18+/★19-
+### [Stella Table](https://stellabms.xyz/st/table.html)
+ - Generally covers levels in the overjoy range, specifically ★20-★★7
+ - This level range is split into 12 denominations (st0 to st11)
+ - st0 is approximately ★19+/★20 and st11 is approximately ★★7
+
 
 # Popular Difficulty Tables
 
@@ -157,12 +177,12 @@ We recommend the Normal2, Insane2, Satellite and Stella tables, as they contain 
 ### [Insane2 table (▼)](http://bmsnormal2.syuriken.jp/table_insane.html)
 - Similar to the Insane table, but contains more recent songs, and is more frequently updated. Songs rated from ▼0-▼25.
 
-### [Satellite table (**sl**)](https://lite.stellabms.xyz/table.html)
-- A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite website](https://lite.stellabms.xyz)
+### [Satellite table (**sl**)](https://stellabms.xyz/sl/table.html)
+- A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
 - Charts are rated on a scale of sl0-sl12. Covers the level range ☆11-★19.
 
-### [Stella table (**st**)](https://stellabms.xyz/table.html)
-- A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Stella website](https://stellabms.xyz)
+### [Stella table (**st**)](https://stellabms.xyz/st/table.html)
+- A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
 - Charts are rated on a scale of st0-st11. Covers the level range ★19 and up, as well as the overjoy difficulty range.
 
 ### [Scratch (sara) table (◎)](http://minddnim.web.fc2.com/sara/3rd_hard/bms_sara_3rd_hard.html)
