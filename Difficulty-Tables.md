@@ -6,12 +6,34 @@
 - [Popular Difficulty Tables](#popular-difficulty-tables) (with links)
 
 # Difficulty Rating System
+**Note:** This section is mainly about the 7keys playmode. Other playmodes, like 9keys (pms) or 14keys (double play) have different rating systems.
+
 There are multiple different scales used to rate BMS songs. The Normal (☆), Insane (★), Overjoy (★★), Satellite (**sl**) and Stella (**st**) scales are the most common standard scales.
+
+Simply put, the standard scale goes from ☆1 to ☆12, then ★1 to ★25, and ★★1 to ★★7. There is some overlap between the Insane and Overjoy scales, where ★21 = ★★1 and ★25 = ★★5. A full side-by-side comparison of the level ranges (including Satellite and Stella) is given in a table below.
 
 - Note 1: There are non-standard scales, like the LN (◆) and Scratch (◎) scales)
 - Note 2: The Normal2 (▽) and  the Insane2 (▼) tables use ▽ and ▼ instead of ☆ and ★. They mean  the same thing.
 
-Here is a difficulty comparison table for the standard scales:
+The difficulty levels of the standard scales can be roughly divided into three broad categories:
+### Normal Range 　　 (level ☆1 to ☆12)
+- Video references for some difficulty levels in this range: 
+  - ☆1 - [**2anyFirst** [7-tutorial]](https://www.youtube.com/watch?v=8RKgVOEJi74)
+  - ☆7 - [**Re/Im** (Hyper)](https://www.youtube.com/watch?v=TADVgnPHM1M)
+  - ☆10 - [**点、線、面、立体** [ANOTHER]](https://www.youtube.com/watch?v=OWwusbodvuU)
+### Insane Range 　　 (level ★1 to ★20)
+- Video references for some difficulty levels in this range:
+  - sl3 / ★5 - [**Wicked Laboratory** (Another)](https://www.youtube.com/watch?v=2ijCZMEWzJY)
+  - sl6 / ★10 - [**Jack o'Lantern** [UltimateRAVE]](https://www.youtube.com/watch?v=7Dhp2NdmLQU)
+  - sl10 / ★17 - [**温泉大作戦** [温泉名人]](https://www.youtube.com/watch?v=O7A89TYbboo)
+### Overjoy Range 　　 (level ★21=★★1 to ★★7)
+- Video references for some difficulty levels in this range:
+  - st1 / ★21 / ★★1 - [**CHMR** -Automata-](https://www.youtube.com/watch?v=5jbLoOtxrk8)
+  - st6 / ★25 / ★★5 - [**Unleashed World** [INSANE]](https://www.youtube.com/watch?v=6lKV24QGl2o)
+  - st11 / ★★7 - [**Schwerkraft**  [Dioga Gravidon]](https://www.youtube.com/watch?v=_2Exw2KGjYY)
+
+
+## Difficulty comparison table for the standard scales:
 
 <details>
 <summary><b>Click to view Difficulty Comparison Table</b></summary>
@@ -138,7 +160,7 @@ All of these dan courses include a contraint that forces beatoraja to use the LR
 
 # Recommended Difficulty Tables
 
-The following three tables cover the full range of BMS levels, and are highly recommended because they feature modern BMS songs with generally high-quality charts.
+The following three tables cover the full range of BMS levels, and are highly recommended because they feature modern BMS songs with generally high-quality charts. Refer to the [Difficulty Rating System](#difficulty-rating-system) section for examples of charts in these difficulty ranges.
 ### [Ikeda's Beginner Difficulty table](http://fezikedifficulty.futene.net/list.html)
  - Covers levels in the normal range, specifically ☆1-☆11
  - This level range is split into 19 denominations (田一 to 田十九)
