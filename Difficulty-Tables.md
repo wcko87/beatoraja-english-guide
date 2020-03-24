@@ -16,17 +16,17 @@ Simply put, the standard scale goes from ☆1 to ☆12, then ★1 to ★25, and 
 - Note 2: The Normal2 (▽) and  the Insane2 (▼) tables use ▽ and ▼ instead of ☆ and ★. They mean  the same thing.
 
 The difficulty levels of the standard scales can be roughly divided into three broad categories:
-### Normal Range 　　 (level ☆1 to ☆12)
+### Normal Range 　　 (levels ☆1 to ☆12)
 - Video references for some difficulty levels in this range: 
   - ☆1 - [**2anyFirst** [7-tutorial]](https://www.youtube.com/watch?v=8RKgVOEJi74)
   - ☆7 - [**Re/Im** (Hyper)](https://www.youtube.com/watch?v=TADVgnPHM1M)
   - ☆10 - [**点、線、面、立体** [ANOTHER]](https://www.youtube.com/watch?v=OWwusbodvuU)
-### Insane Range 　　 (level ★1 to ★20)
+### Insane Range 　　 (levels ★1 to ★20)
 - Video references for some difficulty levels in this range:
   - sl3 / ★5 - [**Wicked Laboratory** (Another)](https://www.youtube.com/watch?v=2ijCZMEWzJY)
   - sl6 / ★10 - [**Jack o'Lantern** [UltimateRAVE]](https://www.youtube.com/watch?v=7Dhp2NdmLQU)
   - sl10 / ★17 - [**温泉大作戦** [温泉名人]](https://www.youtube.com/watch?v=O7A89TYbboo)
-### Overjoy Range 　　 (level ★21=★★1 to ★★7)
+### Overjoy Range 　　 (levels ★21=★★1 to ★★7)
 - Video references for some difficulty levels in this range:
   - st1 / ★21 / ★★1 - [**CHMR** -Automata-](https://www.youtube.com/watch?v=5jbLoOtxrk8)
   - st6 / ★25 / ★★5 - [**Unleashed World** [INSANE]](https://www.youtube.com/watch?v=6lKV24QGl2o)
