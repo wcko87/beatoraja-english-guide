@@ -2,7 +2,7 @@
 - [Difficulty Rating System](#difficulty-rating-system)
 - [What are Difficulty Tables?](#what-are-difficulty-tables)
 - [What are Dan Courses?](#what-are-dan-courses)
-- [Recommended Difficulty Tables for Getting Started](#recommended-difficulty-tables-for-getting-started)
+- [Recommended Difficulty Tables](#recommended-difficulty-tables)
 - [Popular Difficulty Tables](#popular-difficulty-tables) (with links)
 
 # Difficulty Rating System
@@ -136,7 +136,7 @@ You can play other courses by adding their respective course table links.
 
 All of these dan courses include a contraint that forces beatoraja to use the LR2 dan gauge, to ensure consistency in difficulty with the same dan courses in LR2.
 
-# Recommended Difficulty Tables for Getting Started
+# Recommended Difficulty Tables
 
 The following three tables cover the full range of BMS levels, and are highly recommended because they feature modern BMS songs with generally high-quality charts.
 ### [Ikeda's Beginner Difficulty table](http://fezikedifficulty.futene.net/list.html)
