@@ -190,7 +190,7 @@ We recommend the Normal2, Insane2, Satellite and Stella tables, as they contain 
 ### [Insane table (★)](http://www.ribbit.xyz/bms/tables/insane.html)
 - Levels rated from ★1-★25. These 25 levels subdivide the level "12" in the IIDX level range.
 
-### [Overjoy table (★★)](http://www.ribbit.xyz/bms/tables/overjoy.html)
+### [Overjoy table (★★)](http://lr2.sakura.ne.jp/overjoy.php)
 - Levels rated from ★★1-★★7. ★★1 corresponds to ★21 and ★★5 corresponds to ★25.
 
 ### [Normal2 table (▽)](http://bmsnormal2.syuriken.jp/table.html)
