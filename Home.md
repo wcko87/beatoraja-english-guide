@@ -81,8 +81,7 @@ If you are using a IIDX controller with axis input, you might want to turn on `A
 Most of the settings under `Play Option` can be configured in game.
 
 It might also be good to get a good skin for beatoraja, as the default skin is pretty bad. Skin settings can be set in the `Skin` tab.
-- Recommended skins: [LITONE5](https://desout2.tk/litone5-beatoraja/), [Brook](https://twitter.com/isocosa/status/1084583459266412544)
-- [List of beatoraja skins](https://bms-community.github.io/resources/#skins) (look under the "beatoraja" section)
+- [List of beatoraja skins](List-of-beatoraja-Skins)
 
 If you play on the P2 side (turntable on right), you can switch to P2 in the skin settings.
 
