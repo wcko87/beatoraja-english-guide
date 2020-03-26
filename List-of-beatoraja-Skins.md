@@ -3,6 +3,8 @@ This page lists beatoraja-specific skins.
 **Note:** You can mix and match skins. The skin is chosen separately for each menu type.
 - For example, not many skins support the Course Result screen, so it might be worth picking up one of the skins that supports it just for the Course Result screen.
 
+To search for skins for a specific menu, you can search for the menu type with Ctrl+F (e.g. Music Select, Decide, Result, Play, 7Keys, 9Keys, Course Result).
+
 Not all of the skins listed have screenshots. That is because the author did not provide screenshots, and I am too lazy to take screenshots on my own. If anyone has tried those skins, it would be nice if you could contribute some screenshots.
 
 # Contents
@@ -27,7 +29,6 @@ Skin with lots of customization options. One of the most complete skins out ther
 
 DL: https://isocosa.neocities.org/bms_skins.html
 
-Images:
 
 ![](https://isocosa.neocities.org/BMS/skins/brook_1.png)
 
@@ -56,7 +57,6 @@ Creator's Website: http://fezikedifficulty.futene.net/
 Video:
 https://youtu.be/_aA6KgpepcU
 
-Images:
 
 ![](https://img.youtube.com/vi/_aA6KgpepcU/maxresdefault.jpg)
 
@@ -77,7 +77,6 @@ Made by DESOUT2.
 
 DL: https://desout2.tk/litone5-beatoraja/
 
-Images:
 
 ![](https://desout2.tk/wp-content/themes/desout2/images/beatoraja-litone5-1.0-preview3.jpg)
 
@@ -85,28 +84,29 @@ Images:
 
 ![](https://desout2.tk/wp-content/themes/desout2/images/beatoraja-litone5-0.9-preview3.jpg)
 
-
 ------------------------
-## Skins by mnpyprm
-i.e. Simple 7Keys, Wide 24Keys
-
+## Simple Music Select
 Supports:
 - Music Select
-- Play (7Keys, 24Keys)
 
-Minimal and very highly customizable skin.
+Made by mnpyprm.
 
-Music Select DL: https://twitter.com/mnpyprrn/status/1220758799650177027
-
-Simple 7Keys Playskin DL: https://twitter.com/mnpyprrn/status/1211957960525545472
-
-Wide 24Keys Playskin DL: https://twitter.com/mnpyprrn/status/1155070584633487360
+DL: https://twitter.com/mnpyprrn/status/1220758799650177027
 
 Google Drive Folder: https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-Images:
-
 ![](https://pbs.twimg.com/media/EPEBpzAVUAEEVY2.jpg:large)
+
+------------------------
+## Simple 7Keys
+Supports:
+- Play (7Keys)
+
+Minimal and very highly customizable skin. Made by mnpyprm
+
+7Keys Playskin DL: https://twitter.com/mnpyprrn/status/1211957960525545472
+
+Google Drive Folder: https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
 ![](https://pbs.twimg.com/media/EB7eI2YU0AEkC_T?format=jpg&name=large)
 
@@ -114,8 +114,18 @@ Images:
 
 ![](https://pbs.twimg.com/media/EB7eI2VU4AENXmR?format=jpg&name=medium)
 
-![](https://pbs.twimg.com/media/EAeikjjUcAA0doC?format=jpg&name=medium)
+------------------------
+## Wide 24Keys
+Supports:
+- Play (24Keys)
 
+Minimal and very highly customizable skin. Made by mnpyprm
+
+DL: https://twitter.com/mnpyprrn/status/1155070584633487360
+
+Google Drive Folder: https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
+
+![](https://pbs.twimg.com/media/EAeikjjUcAA0doC?format=jpg&name=medium)
 
 ------------------------
 ## RESULT SIMPLE FM
@@ -126,7 +136,6 @@ A simple result screen with minimal clutter, yet displays all the necessary info
 
 DL (v1.4a): https://twitter.com/noriwo765/status/1218761454985203713
 
-Images:
 ![](https://pbs.twimg.com/media/DolyEjOV4AAfp08?format=jpg&name=large)
 
 
@@ -139,7 +148,6 @@ Made by isocosa. Play skin only.
 
 DL: https://isocosa.neocities.org/bms_skins.html
 
-Images:
 
 ![](https://isocosa.neocities.org/BMS/skins/duplex_1.png)
 
@@ -155,7 +163,6 @@ A Music Select-only skin designed to look like the interface of a mobile phone m
 
 DL: https://tori-blog.net/bms/1392/
 
-Images:
 
 ![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/beatoraja-7-1024x592.jpg)
 
@@ -174,7 +181,6 @@ A minimal skin for beatoraja. Only supports 14Keys for play, but the Music Selec
 
 DL: http://dpbmschart.web.fc2.com/warehouse.html
 
-Images:
 
 ![](http://dpbmschart.web.fc2.com/image/skin_play.png)
 
