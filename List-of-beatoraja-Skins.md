@@ -15,7 +15,7 @@ Not all of the skins listed have screenshots. That is because the author did not
 
 # List of beatoraja Skins
 
-### Brook
+## Brook
 Supports:
 - Music Select
 - Decide
@@ -37,7 +37,7 @@ Images:
 
 
 ------------------------
-### Unnamed skin by Fez_ike (自作beatorajaスキン)
+## Unnamed skin by Fez_ike (自作beatorajaスキン)
 Supports:
 - Music Select
 - Decide
@@ -62,7 +62,7 @@ Images:
 
 
 ------------------------
-### LITONE5
+## LITONE5
 Supports:
 - Music Select
 - Decide
@@ -87,7 +87,7 @@ Images:
 
 
 ------------------------
-### Skins by mnpyprm
+## Skins by mnpyprm
 i.e. Simple 7Keys, Wide 24Keys
 
 Supports:
@@ -117,7 +117,8 @@ Images:
 ![](https://pbs.twimg.com/media/EAeikjjUcAA0doC?format=jpg&name=medium)
 
 
-# RESULT SIMPLE FM
+------------------------
+## RESULT SIMPLE FM
 Supports:
 - Result
 
@@ -130,7 +131,7 @@ Images:
 
 
 ------------------------
-### Duplex
+## Duplex
 Supports:
 - Play (7Keys, 14Keys)
 
@@ -146,7 +147,7 @@ Images:
 
 
 ------------------------
-### SocialSkin
+## SocialSkin
 Supports:
 - Music Select
 
@@ -162,7 +163,7 @@ Images:
 
 
 ------------------------
-### FHD (Double Play) Skin by THULIUM
+## FHD (Double Play) Skin by THULIUM
 Supports:
 - Music Select
 - Decide
@@ -183,7 +184,7 @@ Images:
 
 
 ------------------------
-### DarkTheme
+## DarkTheme
 Supports:
 - Music Select
 
@@ -193,14 +194,14 @@ DL: https://github.com/Shimi9999/DarkTheme
 
 
 ------------------------
-### 24K keyboard-like skin for beatoraja
+## 24K keyboard-like skin for beatoraja
 Supports:
 - Play (24Keys)
 
 DL: https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view
 
 ------------------------
-### 50K keyboard-like skin for beatoraja
+## 50K keyboard-like skin for beatoraja
 Supports:
 - Play (48Keys)
 
@@ -208,7 +209,7 @@ Supports:
 DL: https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view
 
 ------------------------
-### Remi-oraja
+## Remi-oraja
 Supports:
 - Play (7Keys)
 
@@ -217,7 +218,7 @@ Remi-S skin modified to work with beatoraja.
 DL: https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view
 
 ------------------------
-### EndlessCirculation patch
+## EndlessCirculation patch
 I have not tested this. Endless Circulation Self Evolution (ECSE) is a popular LR2 skin. This is a patch that supposedly makes the skin work with beatoraja.
 
 Patch DL: http://mirai-yokohama.sakura.ne.jp/bms/beatoraja/index.html#ECSEpatch
@@ -233,7 +234,7 @@ This section lists unofficial skin modifications that some people have made.
 
 More will be added to this section later on.
 
-### LITONE5 Table Font Color Replacements
+## LITONE5 Table Font Color Replacements
 Replacement for the difficult-to-read black table font text that's in LITONE by default.
 Pink text is made by Reasonance. The other colors were made by me.
 
