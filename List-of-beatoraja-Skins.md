@@ -11,9 +11,10 @@ Not all of the skins listed have screenshots. That is because the author did not
 - [Sound Sets](#sound-sets)
 - [Lunatic Rave 2 Skins](#lunatic-rave-2-skins)
 
+------------------------
+
 # List of beatoraja Skins
 
-------------------------
 ### Brook
 Supports:
 - Music Select
@@ -219,7 +220,6 @@ EndlessCirculation: https://drive.google.com/file/d/1X153J9iyd7Iq6lryP5p1As97jYf
 
 
 -----------------------
------------------------
 
 
 # Skin Modifications
@@ -227,8 +227,6 @@ This section lists unofficial skin modifications that some people have made.
 
 More will be added to this section later on.
 
-
-------------------------
 ### LITONE5 Table Font Color Replacements
 Replacement for the difficult-to-read black table font text that's in LITONE by default.
 Pink text is made by Reasonance. The other colors were made by me.
@@ -256,7 +254,6 @@ Pink text is made by Reasonance. The other colors were made by me.
 - [Red: For Result Screen](https://github.com/wcko87/beatoraja-english-guide/files/4385241/result-red.zip)
 
 -----------------------
------------------------
 
 # Sound Sets
 
@@ -265,7 +262,6 @@ More will be added to this section later on.
 This page lists some sound sets:
 https://bms-community.github.io/resources/#sound
 
------------------------
 -----------------------
 
 # Lunatic Rave 2 Skins
