@@ -23,7 +23,7 @@ Supports:
 - Play (5Keys, 7Keys, 9Keys, 10Keys, 14Keys)
 - Course Result
 
-Skin with lots of customization options. One of the most complete skins out there, since it covers all of the main play modes.
+Skin with lots of customization options. One of the most complete skins out there, since it covers all of the main play modes. Made by isocosa.
 
 DL: https://isocosa.neocities.org/bms_skins.html
 
@@ -73,6 +73,8 @@ Notable Omissions
 - 5Keys
 - Proper course result screen (it's the same as the regular result screen)
 
+Made by DESOUT2.
+
 DL: https://desout2.tk/litone5-beatoraja/
 
 Images:
@@ -119,7 +121,7 @@ Images:
 Supports:
 - Result
 
-A simple result screen with minimal clutter, yet displays all the necessary information.
+A simple result screen with minimal clutter, yet displays all the necessary information. Made by noriwo765.
 
 DL (v1.4a): https://twitter.com/noriwo765/status/1218761454985203713
 
@@ -131,6 +133,8 @@ Images:
 ### Duplex
 Supports:
 - Play (7Keys, 14Keys)
+
+Made by isocosa. Play skin only.
 
 DL: https://isocosa.neocities.org/bms_skins.html
 
@@ -146,7 +150,7 @@ Images:
 Supports:
 - Music Select
 
-A Music Select-only skin designed to look like the interface of a mobile phone music game.
+A Music Select-only skin designed to look like the interface of a mobile phone music game. Made by Totori Tori.
 
 DL: https://tori-blog.net/bms/1392/
 
@@ -182,6 +186,8 @@ Images:
 ### DarkTheme
 Supports:
 - Music Select
+
+Made by Shimi9999.
 
 DL: https://github.com/Shimi9999/DarkTheme
 
