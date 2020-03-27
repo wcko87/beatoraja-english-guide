@@ -206,6 +206,16 @@ DL: http://dpbmschart.web.fc2.com/warehouse.html
 
 ![](http://dpbmschart.web.fc2.com/image/SS_select.png)
 
+------------------------
+## EndlessCirculation P-Play
+Supports:
+- Play (9Keys)
+
+An LR2 PMS skin ported to beatoraja.
+
+DL: https://twitter.com/lisqms/status/971297443710230530
+
+![endlesscirculation_p-play](https://user-images.githubusercontent.com/27341392/77801936-3bba9680-7050-11ea-82ec-4c72d885407c.png)
 
 ------------------------
 ## DarkTheme
