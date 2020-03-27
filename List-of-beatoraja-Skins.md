@@ -84,6 +84,24 @@ DL: https://desout2.tk/litone5-beatoraja/
 
 ![](https://desout2.tk/wp-content/themes/desout2/images/beatoraja-litone5-0.9-preview3.jpg)
 
+
+------------------------
+## ModernChic
+Supports:
+- Music Select
+- Decide
+
+Full HD Music-select + Decide skins by カサコン.
+
+DL: https://www.kasacontent.com/musicgame/beatoraja/4194/
+
+Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
+
+![](https://pbs.twimg.com/media/EUG5qgCUEAIoUZ_?format=jpg&name=large)
+
+![](https://pbs.twimg.com/media/EUG5q8rU0AAe2tB?format=jpg&name=large)
+
+
 ------------------------
 ## Simple Music Select
 Supports:
