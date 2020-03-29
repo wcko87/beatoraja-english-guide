@@ -99,6 +99,8 @@ Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
 
 ![](https://pbs.twimg.com/media/EUG5qgCUEAIoUZ_?format=jpg&name=large)
 
+![](https://pbs.twimg.com/media/EOJx0VOU8AA6HMy.png:large)
+
 ![](https://pbs.twimg.com/media/EUG5q8rU0AAe2tB?format=jpg&name=large)
 
 
