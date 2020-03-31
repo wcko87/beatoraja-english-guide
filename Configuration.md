@@ -32,7 +32,7 @@ Refer to the following page: [How to set up difficulty tables in beatoraja](Diff
 
 Allows you to choose your skin, as well as set the options for your currently chosen skin. Note that you have to select your skin separately for each of the menus.
 
-- [List of beatoraja skins](https://bms-community.github.io/resources/#skins) (look under the "beatoraja" section)
+- [List of beatoraja skins](list-of-beatoraja-skins) (look under the "beatoraja" section)
 
 Here are the important categories to set a skin for:
 - **7KEYS, 5KEYS, 14KEYS, 10KEYS, etc.**: Skin used during gameplay.
