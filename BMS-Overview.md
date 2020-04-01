@@ -76,7 +76,7 @@ In a chart, each keysound in the song corresponds to a single note. Not all of t
 
 Most of the time, the majority of the keysounds will be used as the background track. More difficult charts can usually be made by dragging more notes out of the background track and into the playable columns.
 
-The process of charting a song usually involves deciding which notes to drag out of the background track into the playable columns, and deciding which columns to place the notes into. Different difficulties for the song are made by dragging out different notes from the background track into the playable columns.
+The [process of charting a song](making-charts) usually involves deciding which notes to drag out of the background track into the playable columns, and deciding which columns to place the notes into. Different difficulties for the song are made by dragging out different notes from the background track into the playable columns.
 
 
 Making an unkeysounded BMS is possible by making a single long keysound at the start of the song and using empty keysounds for the notes. However, unkeysounded BMS's are generally considered "illegal" and are not allowed to be used in most aspects of the BMS community. For example, LR2's Internet Ranking (LR2IR) has a rule that states that no single keysound in the BMS may exceed 60s. Charts violating this keysound rule cannot be uploaded into LR2IR.
