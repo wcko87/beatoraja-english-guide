@@ -81,6 +81,8 @@ With the exception of the Hazard gauge, the game records the hardest gauge you h
 
 You can press key 6 on the result screen to view the gauge graph for each of the different gauges, as if you were playing the song on that gauge.
 
+**Note:** Gauges do not affect timing windows or score. The only way your score can be affected is when you fail out of the song on HARD gauge and above. Gauges are only used to obtain better clear statuses (lamps).
+
 
 ## Clear Status
 Typically the clear status on a song represents the hardest gauge you have cleared a song on. However, there are other clear statuses, like a full combo, which can be obtained regardless of the gauge you play on.
