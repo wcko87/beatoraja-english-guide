@@ -95,6 +95,8 @@ To find a specific song, one way is to first find out which BMS event it origina
 
 Example: [Submission page for Calamity Fortune](http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45). Event: 東方音弾遊戯5
 
+If the download link on the original submission page is broken, you might also be able to get the song by downloading an event pack for the event the song is in.
+
 You might also be able to find a download link to the song by searching it on [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi). See the section on finding songs on LR2IR below.
 
 To look for the sabun, there are a few places to check:
