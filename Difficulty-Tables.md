@@ -165,6 +165,15 @@ The following three tables cover the full range of BMS levels, and are highly re
  - Covers levels in the normal range, specifically ☆1-☆11
  - This level range is split into 19 denominations (田一 to 田十九)
  - 田一 is approximately ☆1 and 田十九 is approximately ☆11+.
+<details>
+<summary><b>Help I can't read Japanese numbers</b></summary>
+
+|一|二|三|四|五|六|七|八|九|十|十一|十二|十三|十四|十五|十六|十七|十八|十九|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|
+
+</details>
+
 ### [Satellite Table](https://stellabms.xyz/sl/table.html)
  - Generally covers levels in the insane range, specifically ☆11-★19
  - This level range is split into 13 denominations (sl0 to sl12)
