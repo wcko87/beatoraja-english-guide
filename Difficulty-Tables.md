@@ -181,8 +181,6 @@ This section contains a brief list of some of the more commonly-used tables. For
 
 The Normal2, Insane2 and LN tables are included in beatoraja by default.
 
-We recommend the Normal2, Insane2, Satellite and Stella tables, as they contain more recent songs and are more frequently updated, unlike the Normal, Insane and Overjoy tables.
-
 ### [Normal table (☆)](http://www.ribbit.xyz/bms/tables/normal.html)
 - Levels rated from ☆1-☆12. Covers the "IIDX" level range.
 - ☆12 correspons to the easiest 12s in IIDX. Anything harder than the easiest 12s is in the insane scale.
