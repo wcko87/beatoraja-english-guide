@@ -228,7 +228,13 @@ Miscellaneous Options
 - **Show hidden notes**: Some charts may have hidden keysounds that you can trigger if you know they are there. This option displays these hidden notes.
 - **Mark processed note**: After a note is hit and removed, an outline of the note will remain until the note is no longer visible.
 - **GUIDE SE**: A "clap" sound effect is played for each note hit, as a timing guide.
+
+Miscellaneous Options (joke options for difficulty)
 - **WINDOW HOLD**: A joke option from IIDX, which emulates holding the START button all the time, so every button press causes the HI-SPEED to change.
+- **Extra Note**: Extra Mode from LR2. Adds unused keysounds from the song to the playfield in random lanes, making charts significantly harder (and unfun). Has three levels of difficulty. 0 turns off Extra Mode. 1-3 represents Extra Mode 1, 2, 3 respectively, in increasing order of difficulty.
+- **Mine Mode**: An option from LR2. Adds mines to the chart. Has four options - REMOVE, ADD RANDOM, ADD NEAR, ADD ALL.
+- **Scroll Mode**: An option from LR2. Adds arbitrary BPM changes to the chart. Has two options - REMOVE and ADD, which removes and adds bpm changes respectively.
+- **Long Note Mode**: An option from LR2. Turns all notes into long notes. Has five options - REMOVE, ADD LN, ADD CN, ADD HCN, ADD ALL. The last option (ADD ALL) turns each note into a long note of a random type, so you get a chart that mixes [LNs, CNs and HCNs](#ln-cn-and-hcn-mode).
 
 You get an assist clear instead of your usual clear when you play with assist options on (and scores aren't saved). Miscellaneous options don't affect your scores or clears.
 
