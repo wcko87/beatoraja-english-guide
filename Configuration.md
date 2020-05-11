@@ -72,7 +72,7 @@ The green number can be adjusted when holding START+SELECT.
 - Hold START and turn the turntable to adjust the lanecover height.
 - Hold SELECT and turn the turntable to adjust the green number
 - Double-tap START to toggle the SUDDEN+ lanecover.
-- To adjust hidden/lift, double-tap START to turn off SUDDEN+, then use START + turn turntable to adjust the hidden/lift lanecover.
+- To adjust the hidden/lift height, double-tap START to turn off SUDDEN+, then use START + turn turntable to adjust the hidden/lift lanecover. (Note: hidden/lift needs to be turned on in the config menu first)
 
 The song will not start until you have finished adjusting.
 
@@ -99,7 +99,9 @@ Explanation of these settings: [Hidden and Lift](Green-Number#hidden-and-lift)
 Hidden/lift can be enabled/configured in the `Play Option` tab.
 
 #### During play
-The height of the hidden/lift lane cover can be adjusted by toggling off SUDDEN+ and then [adjusting your lanecover height](#sudden-hi-speed-green-number).
+See: [adjusting your lanecover height](#sudden-hi-speed-green-number)
+
+To adjust the hidden/lift height in-game, double-tap START to turn off SUDDEN+, then use START + turn turntable to adjust the hidden/lift lanecover. (Note: hidden/lift needs to be turned on in the config menu first)
 
 
 ## LN, CN and HCN mode
