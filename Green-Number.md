@@ -2,6 +2,8 @@
 
 The way scroll speed is handled in beatoraja is very similar to beatmania IIDX. If you are already familiar with IIDX, this page won't be of much help to you.
 
+For information on how to adjust these settings in beatoraja, refer to [the configuration page](configuration#sudden-hi-speed-green-number).
+
 ## SUDDEN+
 
 SUDDEN+ is the name of the lane cover at the top of the screen. Press the START key twice while playing a song to toggle the SUDDEN+ lane cover.
