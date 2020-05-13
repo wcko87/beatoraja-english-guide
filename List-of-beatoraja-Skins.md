@@ -105,7 +105,7 @@ Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
 
 
 ------------------------
-## Simple Music Select
+## m-select
 Supports:
 - Music Select
 
