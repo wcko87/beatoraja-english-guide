@@ -7,6 +7,8 @@
 
 Short Answer: Be-Music Source (BMS) is a file format for rhythm game charts.
 
+This file format was devised by Urao Yane in 1998. ([Original BMS Spec](http://bm98.yaneu.com/bm98/bmsformat.html))
+
 In a [rhythm game](https://en.wikipedia.org/wiki/Rhythm_game), the player presses buttons in accordance with the music. The song refers to the music itself that plays, while the chart for the song is the "gameplay" - i.e. the sequence of buttons you have to press when you play the song in game. Refer to [BMS Charting](#bms-charting) for what a chart for a song looks like.
 
 ![bmsdance - ESA Winter 2020](https://user-images.githubusercontent.com/27341392/74804639-d9cb7c00-52ae-11ea-9650-417ed5088e4e.gif)
