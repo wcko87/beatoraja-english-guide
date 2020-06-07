@@ -91,17 +91,32 @@ Supports:
 - Music Select
 - Decide
 
-Full HD Music-select + Decide skins by カサコン.
+Full HD Music-select + Decide skins by KASAKO.
 
 DL: https://www.kasacontent.com/musicgame/beatoraja/4194/
 
 Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
 
-![](https://pbs.twimg.com/media/EUG5qgCUEAIoUZ_?format=jpg&name=large)
+![](https://pbs.twimg.com/media/EUG5qgCUEAIoUZ_?format=jpg&name=small)
 
-![](https://pbs.twimg.com/media/EOJx0VOU8AA6HMy.png:large)
+![](https://pbs.twimg.com/media/EOJx0VOU8AA6HMy.png:small)
 
-![](https://pbs.twimg.com/media/EUG5q8rU0AAe2tB?format=jpg&name=large)
+![](https://pbs.twimg.com/media/EUG5q8rU0AAe2tB?format=jpg&name=small)
+
+
+------------------------
+## ModernChicPlay (SCURO)
+Supports:
+- Play (7Keys)
+
+Full HD 7Keys skin by KASAKO.
+
+DL: https://www.kasacontent.com/musicgame/beatoraja/4226/
+
+Tweet: https://twitter.com/kasakonkon/status/1269208933215768576
+
+![](https://pbs.twimg.com/media/EZ0igUQU8AAshJ4?format=jpg&name=small)
+![](https://pbs.twimg.com/media/EZ0ii9GUMAEPJFG?format=jpg&name=small)
 
 
 ------------------------
@@ -109,43 +124,56 @@ Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
 Supports:
 - Music Select
 
-Made by mnpyprm.
+Made by mnpyprrn.
 
-DL: https://twitter.com/mnpyprrn/status/1220758799650177027
+DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-Google Drive Folder: https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
+Tweet: https://twitter.com/mnpyprrn/status/1195650386499010561
 
-![](https://pbs.twimg.com/media/EPEBpzAVUAEEVY2.jpg:large)
+Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E9%81%B8%E6%9B%B2%E3%82%B9%E3%82%AD%E3%83%B3%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
+
+![](https://pbs.twimg.com/media/EJfNr4mUEAA4duW?format=jpg&name=small)
+![](https://pbs.twimg.com/media/EYdt1sLUEAUmT9U?format=jpg&name=small)
 
 ------------------------
 ## Simple 7Keys
 Supports:
 - Play (7Keys)
+- Play (9Keys)
 
-Minimal and very highly customizable skin. Made by mnpyprm
+Minimal and very highly customizable skin. Made by mnpyprrn
 
-7Keys Playskin DL: https://twitter.com/mnpyprrn/status/1211957960525545472
+**Note:** In the current version of the skin, customization is done by editing the files in `simple-7keys-v0.21\customize\settings`.
 
-Google Drive Folder: https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
+DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-![](https://pbs.twimg.com/media/EB7eI2YU0AEkC_T?format=jpg&name=large)
+Tweet: https://twitter.com/mnpyprrn/status/1249266263441862658
 
-![](https://pbs.twimg.com/media/ENG9Vq1U8AA03wA?format=jpg&name=large)
+Update History: [Twitter - beatoraja用7鍵 by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A87%E9%8D%B5%20(from%3A%40mnpyprrn)&f=live)
 
-![](https://pbs.twimg.com/media/EB7eI2VU4AENXmR?format=jpg&name=medium)
+![](https://pbs.twimg.com/media/EB7eI2YU0AEkC_T?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/ENG9Vq1U8AA03wA?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/EB7eI2VU4AENXmR?format=jpg&name=small)
 
 ------------------------
 ## Wide 24Keys
 Supports:
-- Play (24Keys)
+- Play (24Keys, 48Keys)
+(Probably also supports 5Keys, 7Keys, 9Keys, 10Keys, 14Keys)
 
-Minimal and very highly customizable skin. Made by mnpyprm
+Minimal and very highly customizable skin. Made by mnpyprrn
 
-DL: https://twitter.com/mnpyprrn/status/1155070584633487360
+DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-Google Drive Folder: https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
+Tweet: https://twitter.com/mnpyprrn/status/1253190021361790979
 
-![](https://pbs.twimg.com/media/EAeikjjUcAA0doC?format=jpg&name=medium)
+Update History: [Twitter - beatoraja用24鍵 by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A824%E9%8D%B5%20(from%3A%40mnpyprrn)&f=live)
+
+![](https://pbs.twimg.com/media/EAeikjjUcAA0doC?format=jpg&name=small)
+![](https://pbs.twimg.com/media/D6VGt_tUYAALN1z?format=jpg&name=small)
+![](https://pbs.twimg.com/media/D6VGuhpUYAARdwp?format=jpg&name=small)
 
 ------------------------
 ## RESULT SIMPLE FM
@@ -156,7 +184,7 @@ A simple result screen with minimal clutter, yet displays all the necessary info
 
 DL (v1.4a): https://twitter.com/noriwo765/status/1218761454985203713
 
-![](https://pbs.twimg.com/media/DolyEjOV4AAfp08?format=jpg&name=large)
+![](https://pbs.twimg.com/media/DolyEjOV4AAfp08?format=jpg&name=small)
 
 
 ------------------------
@@ -180,6 +208,8 @@ Supports:
 - Music Select
 
 A Music Select-only skin designed to look like the interface of a mobile phone music game. Made by Totori Tori.
+
+Has pretty animated screen transitions.
 
 DL: https://tori-blog.net/bms/1392/
 
