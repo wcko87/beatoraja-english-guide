@@ -206,15 +206,21 @@ DL: https://isocosa.neocities.org/bms_skins.html
 ## SocialSkin
 Supports:
 - Music Select
+- Result
 
-A Music Select-only skin designed to look like the interface of a mobile phone music game. Made by Totori Tori.
+A Music Select + Result skin designed to look like the interface of a mobile phone music game. Made by Totori Tori.
+- (Result skin was added in v1.10)
 
 Has pretty animated screen transitions.
 
-DL: https://tori-blog.net/bms/1392/
+Blog Posts (and DL link):
+- https://tori-blog.net/bms/1392/ (up to v1.00)
+- https://tori-blog.net/bms/2068/ (v1.10)
 
 
 ![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/beatoraja-7-1024x592.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/06/20200606_171555_sl10-%E7%85%89%E6%83%85%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2-Purgatory-EXHARD-CLEAR-AAA-1024x576.jpg)
 
 ![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/beatoraja-4.jpg)
 
