@@ -7,6 +7,8 @@ To search for skins for a specific menu, you can search for the menu type with C
 
 Not all of the skins listed have screenshots. That is because the author did not provide screenshots, and I am too lazy to take screenshots on my own. If anyone has tried those skins, it would be nice if you could contribute some screenshots.
 
+**Note:** There is another list of beatoraja skins (in JP) here: https://w.atwiki.jp/laser_bm/pages/129.html
+
 # Contents
 - [List of beatoraja Skins](#list-of-beatoraja-skins)
 - [Skin Modifications](#skin-modifications)
@@ -349,5 +351,11 @@ beatoraja supports the skin format used by LR2, which means that in theory, LR2 
 
 Generally, play skins should have less compatibility issues than music select skins.
 
-This page lists some LR2 skins:
-https://bms-community.github.io/resources/#skins
+This page lists both LR2 and beatoraja skins:
+- https://w.atwiki.jp/laser_bm/pages/129.html
+
+This is another list of LR2 skins:
+- https://www.kasacontent.com/skinlist/
+
+This page also lists some LR2 skins (download links only):
+- https://bms-community.github.io/resources/#skins
