@@ -109,7 +109,7 @@ Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
 ------------------------
 ## ModernChicPlay (SCURO)
 Supports:
-- Play (7Keys)
+- Play (5Keys, 7Keys)
 
 Full HD 7Keys skin by KASAKO.
 
