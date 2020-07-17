@@ -36,6 +36,8 @@ BMS supports multiple play modes corresponding to the amount of keys, including:
 7KEYS is the most common play mode in BMS.
 One advantage of the BMS file format is that it is human-readable and relatively easy to work with. This makes it possible to edit charts manually in a text editor, and also relatively easy to write a parser for the BMS file format.
 
+A unique feature of the BMS community is that all of the music used for the game is internally made by the community (using or playing illegally-sourced music is not allowed). This is partially driven by how all music in BMS are required to be fully [keysounded](#bms-charting). Refer to [BMS Community and Events](#bms-community) for more information.
+
 # What is a BMS Player?
 
 A BMS player is used to play BMS songs/charts. The first BMS player is BM98, first introduced in 1998, as its name implies. Some commonly used BMS players today are Lunatic Rave 2 (LR2), beatoraja, ruv-it, bemuse, etc. There are many other BMS players out there.
@@ -68,7 +70,7 @@ Each BMS song is contained in its own folder. The folder for a single BMS song o
 
 # BMS Charting
 
-BMS charts are generally fully keysounded. The use of unkeysounded notes is usually frowned upon by the community.
+BMS charts are fully keysounded. The use of unkeysounded notes is generally frowned upon by the community.
 
 As mentioned above, BMS songs are broken down into (often) hundreds of keysounds. These keysounds are sequenced in the BMS file to make up the song. Each keysound is often used multiple times in the song (e.g. the same drum sample is may be played multiple times).
 
@@ -83,13 +85,13 @@ The [process of charting a song](making-charts) usually involves deciding which 
 
 Making an unkeysounded BMS is possible by making a single long keysound at the start of the song and using empty keysounds for the notes. However, unkeysounded BMS's are generally considered "illegal" and are not allowed to be used in most aspects of the BMS community. For example, LR2's Internet Ranking (LR2IR) has a rule that states that no single keysound in the BMS may exceed 60s. Charts violating this keysound rule cannot be uploaded into LR2IR.
 
-This rule is usually enforced to restrict BMS songs to original compositions by the community. The next section gives a general idea of the structure of the community.
+This rule is generally enforced to restrict BMS songs to original compositions by the community. The next section gives a general idea of the structure of the community.
 
 To find out where to download BMS songs, refer to [Downloading Songs](Downloading-Songs#where-do-i-find-songs).
 
 # BMS Community
 
-The BMS Community is generally self-sustaining, with all its music, charts and tools created by the community itself. BMS charts are either made by the composers themselves, or by dedicated charters.
+The BMS Community is generally self-sustaining, with all its music created by the community itself. BMS charts are either made by the composers themselves, or by dedicated charters.
 
 ## BMS Events
 
@@ -97,9 +99,9 @@ While composers can release their BMS's on their own, this is not often done. In
 
 Aside from large events like BMS of Fighters, there are many other smaller events happening throughout the year. A list of past and upcoming BMS events can be found here: [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 
-A BMS event usually has two main phases: the registration phase and the impression phase.
+A BMS event usually has two main phases: the **registration phase** and the **impression phase**.
 The registration phase is the time window for BMS creators to submit their songs/charts. After the registration deadline is past, the submissions are usually gathered into a single downloadable song pack (the "event pack") and the impression phase starts. The impression phase is when players play the songs from the event and give ratings/feedback (i.e. "impressions") on the submissions. 
-After the impression period, the results/scores are tallied for the submissions. What happens at this stage depends on the nature of the event.
+After the impression period, the results/scores of the submissions are tallied. What happens at this stage depends on the nature of the event. Some events announce winners, while others don't.
 
 
 ## BMS Tools
@@ -115,4 +117,4 @@ The BMS community is decentralized, being made up of a network of separate tools
 - Other miscellaneous websites
     - [BMS Sabun Uploader](http://gnqg.rosx.net/upload/) (for uploading additional charts for existing songs)
     - [BMS chart viewer / BMS search](http://www.ribbit.xyz/bms/score/)
-    - The [Satellite](https://lite.stellabms.xyz)/[Stella](https://stellabms.xyz) website, which manages biweekly voting on revisions/additions to the Satellite/Stella tables.
+    - The [Satellite/Stella](https://stellabms.xyz) website, which manages biweekly voting on revisions/additions to the Satellite/Stella tables. It also hosts the Stella Sabun uploader.
