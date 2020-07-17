@@ -7,6 +7,12 @@ This guide has absolutely nothing to do with beatoraja. It's a guide for making 
 - [Chart metadata](#chart-metadata)
 - [Frequently asked questions](#frequently-asked-questions)
 
+## Word of Warning
+**PLEASE DO NOT CHART ILLEGAL BMS**. This refers to activities like taking a song that you do not own (from outside of the BMS community), and making a chart for it with silent keysounds. Using music that you do not own the rights to is illegal and the BMS community is against this sort of behavior. Even if it is a song you had made yourself, please properly keysound it when making it into a BMS.
+
+(Note that all of the music used in BMS is made internally, by members of the BMS community. We do not source music through illegal means.)
+
+Instead, if you want to chart something, please refer to [Finding something to chart](#finding-something-to-chart) for some possible options.
 
 ## What is in a BMS Chart?
 
@@ -38,7 +44,9 @@ Note that the keysounding process is done by composers. Charting is when you shi
 2. Collaborate with a composer, and help to chart their song after they have keysounded it.
 3. Make a [Sabun](Downloading-Songs#downloading-songs-and-sabuns). This generally refers to an additional chart for an existing BMS song.
 
-Most charters make [sabuns](Downloading-Songs#downloading-songs-and-sabuns) (option 3). To make a sabun, look for an existing BMS song and open up the song folder. Each .bms (or .bme, .bml, .pms, .bmson) file corresponds to a chart for the song. Make a copy of one of these files and give it your own title. 
+Most charters make [sabuns](Downloading-Songs#downloading-songs-and-sabuns) (option 3). Basically, sabun charts are additional charts for an existing BMS song. They can be played by adding the sabun chart to the original song folder.
+
+To make a sabun, look for an existing BMS song and open up the song folder. Each .bms (or .bme, .bml, .pms, .bmson) file corresponds to a chart for the song. Make a copy of one of these files and give it your own title. 
 - **Note:** Many composers include a "template" file for making sabuns. Look for a file with a strange extension (e.g. `._bms`, `.sabun`, `.bmssss` etc), or within a .zip or subfolder. These are usually blank template files meant to be used for sabun makers. An example is in the image below:
 
 ![template_file](https://user-images.githubusercontent.com/27341392/71384892-09614f00-25b2-11ea-8cbf-0bc1195c80cd.png)
