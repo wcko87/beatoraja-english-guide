@@ -125,6 +125,7 @@ Tweet: https://twitter.com/kasakonkon/status/1269208933215768576
 ## m-select
 Supports:
 - Music Select
+- Result
 
 Made by mnpyprrn.
 
@@ -136,6 +137,7 @@ Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twi
 
 ![](https://pbs.twimg.com/media/EJfNr4mUEAA4duW?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/EYdt1sLUEAUmT9U?format=jpg&name=small)
+![](https://pbs.twimg.com/media/Ead_NXDVcAExyRu?format=jpg&name=small)
 
 ------------------------
 ## Simple 7Keys
