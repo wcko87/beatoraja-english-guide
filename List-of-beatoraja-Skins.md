@@ -109,9 +109,9 @@ Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
 ------------------------
 ## ModernChicPlay (SCURO)
 Supports:
-- Play (5Keys, 7Keys)
+- Play (5Keys, 7Keys, 10Keys, 14Keys)
 
-Full HD 7Keys skin by KASAKO.
+Full HD Play skin by KASAKO. Now includes support for DP.
 
 DL: https://www.kasacontent.com/musicgame/beatoraja/4226/
 
@@ -119,6 +119,7 @@ Tweet: https://twitter.com/kasakonkon/status/1269208933215768576
 
 ![](https://pbs.twimg.com/media/EZ0igUQU8AAshJ4?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/EZ0ii9GUMAEPJFG?format=jpg&name=small)
+![](https://img.youtube.com/vi/Axlhk23Sz1w/hqdefault.jpg)
 
 
 ------------------------
