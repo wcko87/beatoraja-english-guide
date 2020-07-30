@@ -36,7 +36,11 @@ BMS supports multiple play modes corresponding to the amount of keys, including:
 7KEYS is the most common play mode in BMS.
 One advantage of the BMS file format is that it is human-readable and relatively easy to work with. This makes it possible to edit charts manually in a text editor, and also relatively easy to write a parser for the BMS file format.
 
-A unique feature of the BMS community is that all of the music used for the game is internally made by the community (using or playing illegally-sourced music is not allowed). This is partially driven by how all music in BMS are required to be fully [keysounded](#bms-charting). Refer to [BMS Community and Events](#bms-community) for more information.
+## BMS Music
+
+A unique feature of the BMS community is that all of the music used for the game is composed by members of the community. This is partially driven by how all music in BMS are required to be fully [keysounded](#bms-charting). Refer to [BMS Community and Events](#bms-community) for more information.
+
+- Please note that using or playing illegally-sourced music is not allowed. This refers to activities like taking a song that you do not own (or not made by the BMS community), and making a chart for it with silent keysounds. Using music that you do not own the rights to is illegal and the BMS community is against this sort of behavior. Please refer to [BMS Charting](making-charts) for more information.
 
 # What is a BMS Player?
 
@@ -69,6 +73,8 @@ Each BMS song is contained in its own folder. The folder for a single BMS song o
 
 
 # BMS Charting
+
+Related: [Making Charts](making-charts)
 
 BMS charts are fully keysounded. The use of unkeysounded notes is generally frowned upon by the community.
 
