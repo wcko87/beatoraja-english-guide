@@ -314,6 +314,7 @@ More will be added to this section later on.
 ## LITONE5 Table Font Color Replacements
 Replacement for the difficult-to-read black table font text that's in LITONE by default.
 Pink text is made by Reasonance. The other colors were made by me.
+- **NOTE:** These replacement files were from an older version of LITONE5. If you are using a more recent version of the skin, you may have to edit the `font.lr2font` file in the same folder and change the `.cim` extensions to `.tga`.
 
 ![decide_text](https://user-images.githubusercontent.com/27341392/77614747-11f45900-6f04-11ea-988a-8dbcc0770b7f.png)
 
