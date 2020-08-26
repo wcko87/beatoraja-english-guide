@@ -105,12 +105,42 @@ While composers can release their BMS's on their own, this is not often done. In
 
 - [Video showcase of the Top 5 (by score) songs from each BOF event from BOF2004 to BOFXV (2019)](https://youtu.be/M4A6f1XWNDE)
 
-Aside from large events like BMS of Fighters, there are many other smaller events happening throughout the year (rough estimate: around 10 BMS events per year, with smaller events usually having around 20 to 100+ song submissions). A list of past and upcoming BMS events can be found here: [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
+Aside from large events like BMS of Fighters, there are many other smaller events happening throughout the year (rough estimate: around 10 BMS events per year, with smaller events usually having around 20 to 100+ song submissions).
+
+- A list of past and upcoming BMS events can be found here: [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
+- Information on downloading BMS event packs can be found here: [Downloading Event Packs](Downloading-Songs#event-packs)
 
 A BMS event usually has two main phases: the **registration phase** and the **impression phase**.
 The registration phase is the time window for BMS creators to submit their songs/charts. After the registration deadline is past, the submissions are usually gathered into a single downloadable song pack (the "event pack") and the impression phase starts. The impression phase is when players play the songs from the event and give ratings/feedback (i.e. "impressions") on the submissions. 
 After the impression period, the results/scores of the submissions are tallied. What happens at this stage depends on the nature of the event. Some events announce winners, while others don't.
 
+### Recurring BMS Events
+This section lists some examples of recurring BMS events. Note that only a few of these events (e.g. BMS of Fighters, PABAT!, Mumei / A-1 ClimaX) occur consistently every year. This list is also far from exhaustive, and there are also many BMS events that are only held once (i.e. not recurring). Refer to the [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL) for the event webpages.
+
+- [**BMS of Fighters**](https://www.bmsoffighters.net/)
+    - Team-based BMS event (each team produces between 2 and 4 BMS works).
+    - Held annually, usually in the last quarter of the year. First held in 2004.
+    - Event name varies by year. BOF2004-BOF2013, G2R2014, BOFU2015-BOFU2017, G2R2018, BOFXV, BOFXVI
+    - After each BOF event (since 2009), songs are specially selected be included in [GroundbreakinG](https://gdbg.tv/), a compilation album for the event. These albums are available for free download, and feature long or remastered versions of the selected songs by the artists themselves.
+
+- [**PABAT! 20XX seasons**](http://k-bms.com/)
+    - Annual BMS event by the Korean BMS community.
+    - Held annually, usually in the first quarter of the year. First held in 2013.
+    - After each PABAT! event, bbangsami (organizer of PABAT!) publishes the [PABAT! special mixset](https://soundcloud.com/bbangsami/sets/pabat-special-mixset), a long mix of selected songs from the event submissions.
+
+- **Mumei (無名) / A-1 ClimaX**
+    - Mumei (無名 = "no-name") is for composers who are new to the BMS scene, while A-1 ClimaX is for composers who are less new.
+    - These two events are always held together, and share an event venue (website).
+    - Held annually, usually in the middle of the year. First held in 2002 (Mumei) / 2008 (A-1 ClimaX).
+
+- **Touhou Ondanyuugi (東方音弾遊戯)** - Event for remixes of Touhou music. First held in 2006.
+- **Spring/Summer/Autumn/Winter 9KEYS** - Event for making PMS (songs with 9Keys charts).
+- **BOFOON** - Event for shitpost / meme BMS submissions. (example: [BOFOONXV stream](https://youtu.be/vqZalh_JQSk))
+- **Mutual Faith** - Event where each submission is a collab work between two composers.
+- **Be-Music West** - Event focusing on western BMS artists.
+- **GENRE-SHUFFLE** - Artists draw lots that decide which genre of music they are to make.
+- **B.J.Cup** - Themed event, a theme is selected beforehand and participants make songs according to the theme.
+- **HYPER REMIX** - Event for remixes of existing BMS songs.
 
 ## BMS Tools
 
