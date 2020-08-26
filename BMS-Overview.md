@@ -103,6 +103,8 @@ The BMS Community is generally self-sustaining, with all its music created by th
 
 While composers can release their BMS's on their own, this is not often done. Instead, most BMS compositions are submitted to BMS Events, where players and composers give feedback and rate each other's submissions. The biggest and most well known BMS events are the BMS of Fighters series of events (e.g. [BOFU2016](http://bmsoffighters.net/bofu2016/), [BOFU2017](http://www.bmsoffighters.net/bofu2017/), [G2R2018](http://www.bmsoffighters.net/g2r2018/)), which are events also known outside of the BMS community.
 
+- [Video showcase of the Top 5 (by score) songs from each BOF event from BOF2004 to BOFXV (2019)](https://youtu.be/M4A6f1XWNDE)
+
 Aside from large events like BMS of Fighters, there are many other smaller events happening throughout the year. A list of past and upcoming BMS events can be found here: [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 
 A BMS event usually has two main phases: the **registration phase** and the **impression phase**.
