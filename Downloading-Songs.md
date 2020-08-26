@@ -84,7 +84,8 @@ A detailed list of past and upcoming events can be found here:
 
 The event packs can usually be found in the respective event websites. However, larger events like the BMS of Fighters series may not have readily available event packs, as the song collection may be too large.
 
-This page has a couple of event pack downloads:
+These pages have a couple of event pack downloads:
+- [Collection of packs from both old and recent events](https://package.bms.ms/)
 - [Event pack downloads](https://bms-community.github.io/resources/#event-packs)
 
 ## Downloading Individual Songs
