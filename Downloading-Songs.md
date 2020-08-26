@@ -85,8 +85,14 @@ A detailed list of past and upcoming events can be found here:
 The event packs can usually be found in the respective event websites. However, larger events like the BMS of Fighters series may not have readily available event packs, as the song collection may be too large.
 
 These pages have a couple of event pack downloads:
-- [Collection of packs from both old and recent events](https://package.bms.ms/)
-- [Event pack downloads](https://bms-community.github.io/resources/#event-packs)
+- [package.bms.ms](https://package.bms.ms/) (Archive of packs from both old and recent events)
+- [bms-community.github.io event packs](https://bms-community.github.io/resources/#event-packs) (Lists some event pack downloads)
+
+## Difficulty Tables
+It might also be worth looking into [Difficulty Tables](difficulty-tables) if you are looking for a more curated list of songs+charts, especially for difficulty levels above Normal ☆12. Popular difficulty tables include the Insane scale and the Satellite scale. Do note that difficulty tables are simply lists of charts, not the actual song download links. A difficulty table would have to be filled up by the user by downloading the listed songs+charts.
+
+There are some (unofficial) packages here that may make filling up some more popular difficulty tables a little easier:
+- [bms.kyouko.moe](https://bms.kyouko.moe/)
 
 ## Downloading Individual Songs
 
