@@ -96,7 +96,7 @@ There are some (unofficial) packages here that may make filling up some more pop
 
 ## Downloading Individual Songs
 
-As mentioned before, if you are looking to play specific sabuns (e.g. for a difficulty table), you may need to look for both the song and the chart separately.
+As mentioned before, if you are looking to play specific [sabuns](#downloading-songs-and-sabuns) (e.g. for a [difficulty table](#difficulty-tables)), you may need to look for both the song and the chart separately.
 
 To find a specific song, one way is to first find out which BMS event it originated from. You should be able to find the original submission page to the event from there.
 
