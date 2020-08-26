@@ -74,7 +74,9 @@ If you want to just get right into playing, there are a few "Starter Packs", to 
 
 
 ## Event Packs
-Most BMS songs come as part of some [BMS Event](BMS-Overview#bms-events).
+Most BMS songs come as part of some BMS Event.
+- [Overview of BMS Events](BMS-Overview#bms-events).
+
 After the submission (registration) period for a BMS event is over, a song pack containing all of the submissions is usually created for the event. Otherwise, you can also download the songs individually from the event websites.
 
 A detailed list of past and upcoming events can be found here:
@@ -87,6 +89,8 @@ The event packs can usually be found in the respective event websites. However, 
 These pages have a couple of event pack downloads:
 - [package.bms.ms](https://package.bms.ms/) (Archive of packs from both old and recent events)
 - [bms-community.github.io event packs](https://bms-community.github.io/resources/#event-packs) (Lists some event pack downloads)
+
+Do note that the number of BMS events (and event packs) can be quite overwhelming. For starters, I recommend starting with the more recent BMS of Fighters (BOF) events like G2R2018, as BOF is the biggest event held each year.
 
 ## Difficulty Tables
 It might also be worth looking into [Difficulty Tables](difficulty-tables) if you are looking for a more curated list of songs+charts, especially for difficulty levels above Normal ☆12. Popular difficulty tables include the Insane scale and the Satellite scale. Do note that difficulty tables are simply lists of charts, not the actual song download links. A difficulty table would have to be filled up by the user by downloading the listed songs+charts.
