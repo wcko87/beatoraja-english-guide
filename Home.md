@@ -11,6 +11,8 @@ If you're here just for more information about BMS (and not beatoraja), check ou
 Another popular BMS player is Lunatic Rave 2 (LR2). Most of this guide is for beatoraja.
 - Instructions for setting up LR2 can be found here: [Reddit LR2/BMS Setup Guide](https://www.reddit.com/r/lunaticrave2/wiki/index)
 
+Note that judge timings and gauges in beatoraja differ slightly from LR2. There a version of beatoraja that has been modified to use LR2 judge timings and gauge (but it does not support beatoraja's internet rankings). It can be found [here](https://github.com/wcko87/lr2oraja).
+
 # Getting Started with beatoraja
 
 #### 1. Download 64-bit Java
