@@ -101,11 +101,11 @@ The BMS Community is generally self-sustaining, with all its music created by th
 
 ## BMS Events
 
-While composers can release their BMS's on their own, this is not often done. Instead, most BMS compositions are submitted to BMS Events, where players and composers give feedback and rate each other's submissions. The biggest and most well known BMS events are the BMS of Fighters series of events (e.g. [BOFU2016](http://bmsoffighters.net/bofu2016/), [BOFU2017](http://www.bmsoffighters.net/bofu2017/), [G2R2018](http://www.bmsoffighters.net/g2r2018/)), which are events also known outside of the BMS community.
+While composers can release their BMS's on their own, this is not often done. Instead, most BMS compositions are submitted to BMS Events, where players and composers give feedback and rate each other's submissions. The biggest and most well known BMS events are the BMS of Fighters (BOF) series of events (e.g. [BOFU2016](http://bmsoffighters.net/bofu2016/), [BOFU2017](http://www.bmsoffighters.net/bofu2017/), [G2R2018](http://www.bmsoffighters.net/g2r2018/)), which are events also known outside of the BMS community. The BOF series of events attract hundreds of submissions each year.
 
 - [Video showcase of the Top 5 (by score) songs from each BOF event from BOF2004 to BOFXV (2019)](https://youtu.be/M4A6f1XWNDE)
 
-Aside from large events like BMS of Fighters, there are many other smaller events happening throughout the year. A list of past and upcoming BMS events can be found here: [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
+Aside from large events like BMS of Fighters, there are many other smaller events happening throughout the year (rough estimate: around 10 BMS events per year, with smaller events usually having around 20 to 100+ song submissions). A list of past and upcoming BMS events can be found here: [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 
 A BMS event usually has two main phases: the **registration phase** and the **impression phase**.
 The registration phase is the time window for BMS creators to submit their songs/charts. After the registration deadline is past, the submissions are usually gathered into a single downloadable song pack (the "event pack") and the impression phase starts. The impression phase is when players play the songs from the event and give ratings/feedback (i.e. "impressions") on the submissions. 
