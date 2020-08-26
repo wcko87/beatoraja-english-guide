@@ -75,7 +75,7 @@ If you want to just get right into playing, there are a few "Starter Packs", to 
 
 ## Event Packs
 Most BMS songs come as part of some BMS Event.
-- [Overview of BMS Events](BMS-Overview#bms-events).
+- [Overview of BMS Events](BMS-Overview#bms-events)
 
 After the submission (registration) period for a BMS event is over, a song pack containing all of the submissions is usually created for the event. Otherwise, you can also download the songs individually from the event websites.
 
