@@ -129,7 +129,7 @@ This section lists some examples of recurring BMS events. Note that only a few o
     - After each PABAT! event, bbangsami (organizer of PABAT!) publishes the [PABAT! special mixset](https://soundcloud.com/bbangsami/sets/pabat-special-mixset), a long mix of selected songs from the event submissions.
 
 - **Mumei (無名) / A-1 ClimaX**
-    - Mumei (無名 = "no-name") is for composers who are new to the BMS scene, while A-1 ClimaX is for composers who are less new.
+    - Mumei ("no-name") is for composers new to the BMS scene, while A-1 ClimaX is for composers who are less new.
     - These two events are always held together, and share an event venue (website).
     - Held annually, usually in the middle of the year. First held in 2002 (Mumei) / 2008 (A-1 ClimaX).
 
