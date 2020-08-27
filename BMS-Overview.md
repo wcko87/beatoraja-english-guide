@@ -124,7 +124,7 @@ This section lists some examples of recurring BMS events. Note that only a few o
     - After each BOF event (since 2009), songs are specially selected be included in [GroundbreakinG](https://gdbg.tv/), a compilation album for the event. These albums are available for free download, and feature long or remastered versions of the selected songs by the artists themselves.
 
 - [**PABAT! 20XX seasons**](http://k-bms.com/)
-    - Annual BMS event by the Korean BMS community.
+    - Held by the Korean BMS community.
     - Held annually, usually in the first quarter of the year. First held in 2013.
     - After each PABAT! event, bbangsami (organizer of PABAT!) publishes the [PABAT! special mixset](https://soundcloud.com/bbangsami/sets/pabat-special-mixset), a long mix of selected songs from the event submissions.
 
