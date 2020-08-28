@@ -115,7 +115,7 @@ The registration phase is the time window for BMS creators to submit their songs
 After the impression period, the results/scores of the submissions are tallied. What happens at this stage depends on the nature of the event. Some events announce winners, while others don't.
 
 ### Recurring BMS Events
-This section lists some examples of recurring BMS events. Note that only a few of these events (e.g. BMS of Fighters, PABAT!, Mumei / A-1 ClimaX) occur consistently every year. This list is also far from exhaustive, and there are also many BMS events that are only held once (i.e. not recurring). Refer to the [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL) for the event webpages.
+Some BMS events are only held once, while some are part of a series. This section gives a rough overview of some of the recurring BMS events. Only a few of these recurring events (e.g. BMS of Fighters, PABAT!, Mumei / A-1 ClimaX) occur consistently every year. Refer to the [BMS event schedule](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL) for the webpages corresponding to these events.
 
 - [**BMS of Fighters**](https://www.bmsoffighters.net/)
     - Team-based BMS event (each team produces between 2 and 4 BMS works).
