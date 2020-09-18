@@ -90,6 +90,7 @@ The event packs can usually be found in the respective event websites. However, 
 These pages have a couple of event pack downloads:
 - [package.bms.ms](https://package.bms.ms/) (Archive of packs from both old and recent events)
 - [bms-community.github.io event packs](https://bms-community.github.io/resources/#event-packs) (Lists some event pack downloads)
+- [blog.polyohm.net](https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html) (Collection of BMS of Fighters packs, from BOF2009 - BOFXV (2019). Use the multi-part downloads.)
 
 Do note that the number of BMS events (and event packs) can be quite overwhelming. For starters, I recommend starting with the more recent BMS of Fighters (BOF) events like G2R2018, as BOF is the biggest event held each year.
 
@@ -107,7 +108,7 @@ To find a specific song, one way is to first find out which BMS event it origina
 
 Example: [Submission page for Calamity Fortune](http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45). Event: 東方音弾遊戯5
 
-If the download link on the original submission page is broken, you might also be able to get the song by downloading an [event pack](#event-packs) for the event the song is in.
+If the download link on the original submission page is broken, you might also be able to get the song by downloading an [event pack](#event-packs) for the event the song is in. Also see [download trick for broken Dropbox links](#download-trick-for-broken-dropbox-links).
 
 You might also be able to find a download link to the song by searching it on [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi). See the section on finding songs on LR2IR below.
 
@@ -128,6 +129,21 @@ To look for the sabun, there are a few places to check:
 LR2IR has a search box that allows you to look up the leaderboard pages for any existing chart that has been played on LR2. When you visit the leaderboard page for a chart, the chart metadata may contain the link to the base song (本体URL) and the sabun (差分URL). Example: [Calamity Fortune [F]](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=154602).
 
 Not all charts will have links to the song and chart in their leaderboard pages. These links are manually updated by users (anyone with an LR2 account with >= 20 plays), and so you are more likely to find working links on the more frequently played charts (i.e. click on the charts with the highest playcounts). Some charters also consistently update their charts' LR2IR pages with working song and chart download links.
+
+#### Download trick for broken Dropbox links
+
+Some old Dropbox links may have been backed up by the [BMS Dropbox Mirror Project](https://dropbox.bms.ms/). How to use:
+1. Suppose you have a broken BMS download link like https://dl.dropboxusercontent.com/u/37251493/MilK.zip, perhaps taken from the original BMS entry page.
+2. Replace:
+    ```
+    https://dl.dropboxusercontent.com/u/
+    https://dl.dropbox.com/u/
+    ```
+    with:
+    ```
+    https://dropbox.bms.ms/u/
+    ```
+3. If this BMS was backed up by the mirror project, you will now have a working link as such: https://dropbox.bms.ms/u/37251493/MilK.zip
 
 #### Illegal BMS
 
