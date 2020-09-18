@@ -43,6 +43,7 @@ If the chart you want to play is a default chart (not a sabun), then you'll only
 
 - [Starter Packs](#starter-packs)
 - [Event Packs](#event-packs)
+- [Difficulty Tables](#difficulty-tables)
 - [Downloading Individual Songs](#downloading-individual-songs)
 
 ## Starter Packs
