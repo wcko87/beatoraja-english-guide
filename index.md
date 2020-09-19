@@ -7,7 +7,7 @@ This is an all-in-one comprehensive guide for setting up BMS with beatoraja, a B
 ### [Link to the Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
 
 ## Useful Information about BMS in general:
-Also useful if you are using Lunatic Rave 2 (LR2)
+Also useful if you are using Lunatic Rave 2 (LR2) or other BMS players.
 
 ### [What is BMS?](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview)
 - Information about BMS, the community, and events.
