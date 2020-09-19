@@ -52,7 +52,8 @@ If you want to just get right into playing, there are a few "Starter Packs", to 
 
 #### [GENOSIDE 2018 -BMS StarterPackage 2018-](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 - Recommended starter pack with a very good selection of songs. Download the Append package too and merge it into the main folder, if you want harder charts, or charts for other play modes (e.g. PMS charts).
-- This starter pack contains essentially all the songs required to play all of the GENOSIDE 2018 dan courses. ([What are dan courses](Difficulty-Tables#what-are-dan-courses))
+- This starter pack contains essentially all the songs required to play all of the GENOSIDE 2018 dan courses.
+    - ([What are dan courses?](Difficulty-Tables#what-are-dan-courses))
 
 #### [GENOSIDE -BMS StarterPackage-](http://nekokan.dyndns.info/~lobsak/genoside/)
 - Older version of the GENOSIDE 2018 starter package, containing older well-known BMS songs.
