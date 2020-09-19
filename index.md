@@ -9,7 +9,7 @@ This is an all-in-one comprehensive guide for setting up BMS with beatoraja, a B
 ##  Useful Information about BMS in general, also useful if you are using Lunatic Rave 2 (LR2):
 
 ### [What is BMS?](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview)
-- Information about BMS, the community, and events
+- Information about BMS, the community, and events.
 
 ### [Where do I download BMS songs?](https://github.com/wcko87/beatoraja-english-guide/wiki/Downloading-Songs#where-do-i-find-songs)
 - Information about where to download BMS songs, and useful tips on how to search for more songs (or specific songs).
