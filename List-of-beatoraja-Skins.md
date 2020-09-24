@@ -95,6 +95,8 @@ Supports:
 
 Full HD Music-select + Decide skins by KASAKO.
 
+Included with beatoraja (0.8.0 onwards) by default.
+
 DL: https://www.kasacontent.com/musicgame/beatoraja/4194/
 
 Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
@@ -112,6 +114,8 @@ Supports:
 - Play (5Keys, 7Keys, 10Keys, 14Keys)
 
 Full HD Play skin by KASAKO. Now includes support for DP.
+
+Included with beatoraja (0.8.0 onwards) by default.
 
 DL: https://www.kasacontent.com/musicgame/beatoraja/4226/
 
@@ -189,8 +193,20 @@ A simple result screen with minimal clutter, yet displays all the necessary info
 
 DL (v1.4a): https://twitter.com/noriwo765/status/1218761454985203713
 
+DL (v1.4b): https://twitter.com/noriwo765/status/1305530103149940736
+
 ![](https://pbs.twimg.com/media/DolyEjOV4AAfp08?format=jpg&name=small)
 
+------------------------
+## RESULT "NOT" SIMPLE FM
+Supports:
+- Result
+
+A modification of the RESULT SIMPLE FM skin to display more information
+
+DL: https://sz8390.hatenablog.com/entry/2020/09/14/223629
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/suzu-sn-yuuki/20200914/20200914222841.png)
 
 ------------------------
 ## Duplex
