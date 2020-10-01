@@ -82,8 +82,9 @@ If you are using a IIDX controller with axis input, you might want to turn on `A
 
 Most of the settings under `Play Option` can be configured in game.
 
-It might also be good to get a good skin for beatoraja, as the default skin is pretty bad. Skin settings can be set in the `Skin` tab.
+It might also be good to get a good skin for beatoraja too. Skin settings can be set in the `Skin` tab.
 - [List of beatoraja skins](List-of-beatoraja-Skins)
+- Note: beatoraja 0.8.0 and above comes with the ModernChic skin pre-packaged.
 
 If you play on the P2 side (turntable on right), you can switch to P2 in the skin settings.
 
