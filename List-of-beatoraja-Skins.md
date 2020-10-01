@@ -265,6 +265,19 @@ DL: http://dpbmschart.web.fc2.com/warehouse.html
 
 ![](http://dpbmschart.web.fc2.com/image/SS_select.png)
 
+
+------------------------
+## BeatPop
+Supports:
+- Play (9Keys)
+
+A PMS skin that supports large resolutions (720p, 1080p, 1440p, 4K)
+
+DL: https://twitter.com/Azuruff/status/1311461871308869632
+
+![beatpop](https://pbs.twimg.com/media/EjM_iaXUcAAfCIf?format=jpg&name=small)
+
+
 ------------------------
 ## EndlessCirculation P-Play
 Supports:
