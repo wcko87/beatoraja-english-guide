@@ -46,6 +46,8 @@ A unique feature of the BMS community is that all of the music used for the game
 
 A BMS player is used to play BMS songs/charts. The first BMS player is BM98, first introduced in 1998, as its name implies. Some commonly used BMS players today are Lunatic Rave 2 (LR2), beatoraja, ruv-it, bemuse, etc. There are many other BMS players out there.
 
+- [How to set up BMS with beatoraja](home)
+
 Note that Lunatic Rave 2 does not support the more recent .bmson file format, while beatoraja does.
 
 Here is a (pretty long) [list of BMS players](https://www40.atwiki.jp/laser_bm/pages/16.html), sorted by release year/platform from 1998 to the current day (note: JP). Over 50 BMS players have been made since its introduction.
