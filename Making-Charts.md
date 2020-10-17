@@ -57,7 +57,7 @@ You can then open up your new chart with a chart editor (like uBMSC) and edit it
 
 If you are making a sabun for an existing song, all you need to distribute is the `.bms` file for your chart. However, please make sure it is clear what song your chart is for!
 
-A popular place to upload charts is the [BMS Sabun Uploader](http://gnqg.rosx.net/upload/). Any new charts uploaded to BMS Sabun Uploader will be automatically posted on the [BMS Sabun Uploader Twitter](https://twitter.com/bmsuploader) account. An alternative is the [Stella Uploader](https://stellabms.xyz/uploader), which works in a similar way. Uploaded charts are posted to the [Stella Uploader Twitter](https://twitter.com/stellauploader) account.
+A popular place to upload charts is the [BMS Sabun Uploader](http://gnqg.rosx.net/upload/) or [Stella Uploader](https://stellabms.xyz/uploader). Any new charts uploaded to BMS Sabun Uploader / Stella Uploader will be automatically posted on the [BMS Sabun Uploader Twitter](https://twitter.com/bmsuploader) / [Stella Uploader Twitter](https://twitter.com/stellauploader) account respectively.
 
 You can also opt to upload your charts elsewhere (e.g. your own personal website). It is useful to understand how people typically [download songs and sabuns](Downloading-Songs#downloading-songs-and-sabuns).
 
