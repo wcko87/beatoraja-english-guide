@@ -130,6 +130,7 @@ These are the only dan songs missing from the GENOSIDE 2018 Starter Package:
 
 # Using difficulty tables in beatoraja
 **Note: If you are using Lunatic Rave 2 (LR2) instead of beatoraja, you need to use BeMusicSeeker to set up difficulty tables.**
+- [How to set up difficulty tables in LR2 using BeMusicSeeker](https://docs.google.com/presentation/d/1RrA3_hxXv5Czr1mKs7vdrjLMAGhPb5pTGoJwD3LZ-AQ/edit#slide=id.g5ddf250169_0_61)
 
 beatoraja tables use the same table format as glassist/BeMusicSeeker. Tables are hosted on webpages, and these pages have embedded .json data files containing the table data.
 
