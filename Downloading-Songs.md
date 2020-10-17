@@ -106,17 +106,18 @@ There are some (unofficial) packages here that may make filling up some more pop
 As mentioned before, if you are looking to play specific [sabuns](#downloading-songs-and-sabuns) (e.g. for a [difficulty table](#difficulty-tables)), you may need to look for both the song and the chart separately.
 
 To find a specific song, one way is to first find out which BMS event it originated from. You should be able to find the original submission page to the event from there.
+- [List of past (and current) BMS events](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 
 Example: [Submission page for Calamity Fortune](http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45). Event: 東方音弾遊戯5
 
 If the download link on the original submission page is broken, you might also be able to get the song by downloading an [event pack](#event-packs) for the event the song is in. Also see [download trick for broken Dropbox links](#download-trick-for-broken-dropbox-links).
 
-You might also be able to find a download link to the song by searching it on [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi). See the section on finding songs on LR2IR below.
+You might also be able to find a download link to the song by searching it on [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi). See the section on [finding songs on LR2IR](#using-lr2ir-to-find-songscharts) below.
 
 To look for the sabun, there are a few places to check:
-- Look up the chart on [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi), to see if it has a download link.
+- Look up the chart on [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi), to see if it has a download link. [Tips on searching on LR2IR](#using-lr2ir-to-find-songscharts)
+- You may be able to find it on [BMS Sabun Uploader](http://gnqg.rosx.net/upload/) or [Stella Uploader](https://stellabms.xyz/uploader). This is especially true for more recent sabuns.
 - If the charter has a website, you may be able to find it on their website.
-- You may be able to find it on [BMS Sabun Uploader](http://gnqg.rosx.net/upload/). This is especially true for more recent sabuns.
 - If the charter has uploaded an autoplay of the chart to youtube, the youtube description may have a link to the chart.
 - If the chart is part of a [Difficulty Table](Difficulty-Tables), the table itself may contain the link to the chart. 
   - In beatoraja, if you select a song/chart you don't have from a table, beatoraja will open download links for the song/chart in your default browser.
@@ -127,7 +128,7 @@ To look for the sabun, there are a few places to check:
 
 #### Using LR2IR to find songs/charts
 
-LR2IR has a search box that allows you to look up the leaderboard pages for any existing chart that has been played on LR2. When you visit the leaderboard page for a chart, the chart metadata may contain the link to the base song (本体URL) and the sabun (差分URL). Example: [Calamity Fortune [F]](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=154602).
+[LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi) has a search box that allows you to look up the leaderboard pages for any existing chart that has been played on LR2. When you visit the leaderboard page for a chart, the chart metadata may contain the link to the base song (本体URL) and the sabun (差分URL). Example: [Calamity Fortune [F]](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=154602).
 
 Not all charts will have links to the song and chart in their leaderboard pages. These links are manually updated by users (anyone with an LR2 account with >= 20 plays), and so you are more likely to find working links on the more frequently played charts (i.e. click on the charts with the highest playcounts). Some charters also consistently update their charts' LR2IR pages with working song and chart download links.
 
