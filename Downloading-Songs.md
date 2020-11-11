@@ -48,7 +48,7 @@ If the chart you want to play is a default chart (not a sabun), then you'll only
 
 ## Starter Packs
 
-If you want to just get right into playing, there are a few "Starter Packs", to get started with. Starter packs are compilation packs of songs from various BMS events. Starter packs are not beginner packs. They usually contain songs covering a wide range of difficulties.
+If you want to just get right into playing, there are a few "Starter Packs", to get started with. Starter packs are compilation packs of songs from various BMS events. Starter packs are not necessarily for beginners only. They usually contain songs covering a wide range of difficulties.
 
 #### [GENOSIDE 2018 -BMS StarterPackage 2018-](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 - Recommended starter pack with a very good selection of songs. Download the Append package too and merge it into the main folder, if you want harder charts, or charts for other play modes (e.g. PMS charts).
