@@ -14,6 +14,7 @@ Not all of the skins listed have screenshots. That is because the author did not
 - [Skin Modifications](#skin-modifications)
 - [Sound Sets](#sound-sets)
 - [Lunatic Rave 2 Skins](#lunatic-rave-2-skins)
+- [Using LR2 Skins in beatoraja](#using-lr2-skins-in-beatoraja)
 
 ------------------------
 
@@ -373,18 +374,15 @@ Pink text is made by Reasonance. The other colors were made by me.
 
 More will be added to this section later on.
 
+KASAKO Sound Set (comes with the ModernChic skin)
+- https://www.kasacontent.com/musicgame/beatoraja/4265/
+
 This page lists some sound sets:
-https://bms-community.github.io/resources/#sound
+- https://bms-community.github.io/resources/#sound
 
 -----------------------
 
 # Lunatic Rave 2 Skins
-
-beatoraja supports the skin format used by LR2, so LR2 skins can be used in beatoraja.
-
-In practice,
-- **Play/Decide/Result Skins**: most skins will work almost perfectly (only minor graphical bugs), but may require a few small fixes, described [below](#using-lr2-playskins-in-beatoraja).
-- **Music Select Skins**: Music Select skins made for LR2 should not be used in beatoraja, as the underlying mechanics are very different in LR2, making the skins pretty much unusable beyond selecting songs.
 
 This page lists both LR2 and beatoraja skins:
 - https://w.atwiki.jp/laser_bm/pages/129.html
@@ -395,7 +393,10 @@ This is another list of LR2 skins:
 This page also lists some LR2 skins (download links only):
 - https://bms-community.github.io/resources/#skins
 
-## Using LR2 Skins in beatoraja
+# Using LR2 Skins in beatoraja
+beatoraja supports the skin format used by LR2, so LR2 skins can be used in beatoraja. In practice,
+- **Play/Decide/Result Skins**: most skins will work almost perfectly (only minor graphical bugs), but may require a few small fixes, described below.
+- **Music Select Skins**: Music Select skins made for LR2 should not be used in beatoraja, as the underlying mechanics are very different in LR2, making the skins pretty much unusable beyond selecting songs.
 
 This is a compability chart for LR2 playskins with videos:
 - https://docs.google.com/spreadsheets/d/1AUDbW_DT3uHEjYRQuo9Ul_YHNcO9LTUyQixvJo_ous0
@@ -411,21 +412,21 @@ When using an LR2 Play skin in beatoraja, there are a couple of things (as of 0.
 * The **EX-HARD** gauge will appear as HARD gauge, and will be reported in the skin's visuals as Hazard/Sudden Death. (This is a purely visual issue)
 * **Mines** may not show (generally doesn't matter except in gimmick charts)
 
-### Fixes you may need to apply
-* **Fonts:** Some skins may require "unpacking" their fonts if they are contained within .dxa files, as beatoraja cannot process this format (see: [Unpacking .dxa fonts](#unpacking-dxa-fonts))
-* **Turntable Laser:** If the skin doesn't allow you to switch the behaviour of the TT laser, you may have to modify the skin file (see: [Sticking TT laser if using a controller](#sticking-tt-laser-if-using-a-controller))
-* **Resolution Issues:** Skins targeting LR2HD and LR2FHD clients will appear stretched out of the box - luckily this can be fixed with a one-line edit of the skin file (see: [Correcting the size of HD and FHD skins](#correcting-the-size-of-hd-and-fhd-skins))
+## Fixes you may need to apply
+* **Fonts:** Some skins may require "unpacking" their fonts if they are contained within .dxa files, as beatoraja cannot process this format (see: [Unpacking .dxa fonts](#unpacking-dxa-fonts)).
+* **Turntable Laser:** If the skin doesn't allow you to switch the behavior of the TT laser, you may have to modify the skin file (see: [Sticking TT laser if using a controller](#sticking-tt-laser-if-using-a-controller)).
+* **Resolution Issues:** Skins targeting LR2HD and LR2FHD clients will appear stretched out of the box - this can be fixed with a one-line edit of the skin file (see: [Correcting the size of HD and FHD skins](#correcting-the-resolution-of-hd-and-fhd-skins)).
 
 Everything else (skin customization, White/Green Number, stats display) will work fine.
 
-## Unpacking .dxa fonts
+### Unpacking .dxa fonts
 
 LR2 uses the .dxa format for compressing fonts. beatoraja cannot handle this format out of the box, and thus will not draw any text which uses those fonts.
 - To fix this, you only need to "decode" the .dxa files.
 - This is done with a tool called "DxaDecode". It isn't hard to acquire - it also comes with LR2.
 - All you need to do is to drag all .dxa files, **one by one**, into DxaDecode.exe. DxaDecode will then generate a folder with the same name as the file it processed, which contains the unpacked fonts. These fonts will work in beatoraja.
 
-## Sticking TT laser if using a controller
+### Sticking TT laser if using a controller
 
 This is related to how the turntable laser looks when the turntable is constantly being turned (or when the turntable key is held down).
 - **Behavior 1:** In some beatoraja skins and in IIDX, a short flash is shown only when the turntable starts spinning. The laser does not linger.
@@ -441,7 +442,7 @@ Behavior 2 is what we call "sticking. Some skins like WMIX will let you change t
 1. Again, locate the code responsible for the turntable laser off ("timer" value is 120), but this time **change the "timer" value to 100**.
 1. Save the file and test the skin in-game. The turntable laser should now do a short animation as if you had instantly let go of the button.
 
-## Correcting the size of HD and FHD skins
+### Correcting the resolution of HD and FHD skins
 
 By default beatoraja assumes that all LR2 skins target the "SD" client, which uses the 640x480 resolution, but there are also hacked LR2 clients which support the HD (1280x720) and FHD (1920x1080) resolutions. Beatoraja is not able to recognize the target resolution of a regular LR2 skin, but it can be fixed with a one-line edit to the skin file.
 
