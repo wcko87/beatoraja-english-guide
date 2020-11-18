@@ -380,8 +380,11 @@ https://bms-community.github.io/resources/#sound
 
 # Lunatic Rave 2 Skins
 
-beatoraja supports the skin format used by LR2, which means that you'll be able to use LR2 skins within beatoraja.
-In practice majority of Play skins are 99% compatible (only minor graphical bugs), but may require a bit of manual maintenance to achieve this state. While Decide and Result skins are also mostly compatible, you should not use Music Select skins made for LR2, as the underlying mechanics are way different in beatoraja, making the skin pretty much unusable beyond selecting songs.
+beatoraja supports the skin format used by LR2, so LR2 skins can be used in beatoraja.
+
+In practice,
+- **Play/Decide/Result Skins**: most skins will work almost perfectly (only minor graphical bugs), but may require a few small fixes, described [below](#using-lr2-playskins-in-beatoraja).
+- **Music Select Skins**: Music Select skins made for LR2 should not be used in beatoraja, as the underlying mechanics are very different in LR2, making the skins pretty much unusable beyond selecting songs.
 
 This page lists both LR2 and beatoraja skins:
 - https://w.atwiki.jp/laser_bm/pages/129.html
@@ -392,47 +395,56 @@ This is another list of LR2 skins:
 This page also lists some LR2 skins (download links only):
 - https://bms-community.github.io/resources/#skins
 
-This is a compability chart for LR2 playskins with videos:
-- https://docs.google.com/spreadsheets/d/1AUDbW_DT3uHEjYRQuo9Ul_YHNcO9LTUyQixvJo_ous0/edit#gid=0
+## Using LR2 Skins in beatoraja
 
-Now, if you want to use a LR2 Playskin in beatoraja, there's a couple of things (as of 0.8.0) that you have to be aware of:
+This is a compability chart for LR2 playskins with videos:
+- https://docs.google.com/spreadsheets/d/1AUDbW_DT3uHEjYRQuo9Ul_YHNcO9LTUyQixvJo_ous0
+
+When using an LR2 Play skin in beatoraja, there are a couple of things (as of 0.8.0) to be aware of:
 * Each LR2 skin will include 4 new options to change from within the Skin Select menu: 
-  * BGA Size: Normal (original aspect ratio of the BGA is retained) or Extend (BGA fills the entire area designated for it)
-  * Ghost: location of the Pacemaker counter
-  * Score Graph: analogous to the LR2 setting
-  * Judge Detail: Fast/Slow or +-ms
-    * If your skin included a Fast/Slow display (achieved in LR2 by using modified clients), beatoraja will disregard it. Instead it will introduce its own F/S display, which you'll be able to move and resize.
-* Some skins may require "unpacking" their fonts if they're contained within .dxa files, as beatoraja cannot process this format (described below)
-* If the skin doesn't allow you to switch the behaviour of the TT laser, you may have to modify the skin file (described below)
-* Skins targeting LR2HD and LR2FHD clients will appear stretched out of the box - luckily this can be fixed with a one-line edit of the skin file (described below)
-* While Lift modifier technically works as intended, LR2 playskin introduces visual bugs (explained [here](https://github.com/exch-bms2/beatoraja/issues/572))
-* The EX-Hard gauge will appear as Hard gauge, and will be reported in skin's visuals as Hazard/Sudden Death. This is only a visual issue - the gauge will still work like EX-Hard
-* Mines may not show (does not matter unless you play "gimmick" charts)
+  * **BGA Size:** Normal (original aspect ratio of the BGA is retained) or Extend (BGA fills the entire area designated for it)
+  * **Ghost:** location of the Pacemaker counter
+  * **Score Graph:** analogous to the LR2 setting
+  * **Judge Detail (Fast/Slow or +-ms):**
+    * If the skin includes a Fast/Slow display (achieved in LR2 by using modified clients), beatoraja will disregard it. Instead it will introduce its own F/S display, which you'll be able to move and resize.
+* While the **Lift** modifier technically works as intended, LR2 playskins will introduce visual bugs (explained [here](https://github.com/exch-bms2/beatoraja/issues/572)).
+* The **EX-HARD** gauge will appear as HARD gauge, and will be reported in the skin's visuals as Hazard/Sudden Death. (This is a purely visual issue)
+* **Mines** may not show (generally doesn't matter except in gimmick charts)
+
+### Fixes you may need to apply
+* **Fonts:** Some skins may require "unpacking" their fonts if they are contained within .dxa files, as beatoraja cannot process this format (see: [Unpacking .dxa fonts](#unpacking-dxa-fonts))
+* **Turntable Laser:** If the skin doesn't allow you to switch the behaviour of the TT laser, you may have to modify the skin file (see: [Sticking TT laser if using a controller](#sticking-tt-laser-if-using-a-controller))
+* **Resolution Issues:** Skins targeting LR2HD and LR2FHD clients will appear stretched out of the box - luckily this can be fixed with a one-line edit of the skin file (see: [Correcting the size of HD and FHD skins](#correcting-the-size-of-hd-and-fhd-skins))
 
 Everything else (skin customization, White/Green Number, stats display) will work fine.
 
 ## Unpacking .dxa fonts
 
-LR2 used the .dxa format for compressing fonts. Beatoraja cannot handle this format out of the box, and thus will not draw any text which uses those fonts. Luckily to fix that you only need to "decode" the .dxa files.
-To do that you will need a tool called "DxaDecode". It isn't hard to acquire - in fact, it comes with LR2!
-Now all you need to do is to drag all .dxa files, **one by one**, onto the DxaDecode.exe, and it'll do the rest for you. When it's done, you'll see that it created a folder with the same name as the file it processed, which contains the unpacked fonts, which beatoraja will gladly take!
+LR2 uses the .dxa format for compressing fonts. beatoraja cannot handle this format out of the box, and thus will not draw any text which uses those fonts.
+- To fix this, you only need to "decode" the .dxa files.
+- This is done with a tool called "DxaDecode". It isn't hard to acquire - it also comes with LR2.
+- All you need to do is to drag all .dxa files, **one by one**, into DxaDecode.exe. DxaDecode will then generate a folder with the same name as the file it processed, which contains the unpacked fonts. These fonts will work in beatoraja.
 
 ## Sticking TT laser if using a controller
 
-This issue is caused by design of ASC controller boards, which will bind the turntable to a button/simple axis, effectively turning the analog input into a two-button digital one. When you spin the turntable in either direction, it'll register a button being pressed. When you stop spinning, the button will stay pressed for a brief moment as a safety measure. The issue is that most LR2 skins are made with keyboard use in mind, and thus will treat the TT as a regular button (laser stays on for the entire hold duration), as opposed to how the real IIDX treats it (short animation when you start spinning).
-Some skins like WMIX will let you change that in skin settings (look for any turntable-related settings). If that's not the case, you can fix the laser by manually editing the skin file.
+This is related to how the turntable laser looks when the turntable is constantly being turned (or when the turntable key is held down).
+- **Behavior 1:** In some beatoraja skins and in IIDX, a short flash is shown only when the turntable starts spinning. The laser does not linger.
+- **Behavior 2:** In LR2 skins, the turntable laser will remain for as long as the turntable is spinning (or when the key is held down)
+  - This latter behavior may look awkward to those using a controller, as the laser remains for some time after the turntable is flicked (as a turntable does not immediately stop).
 
-1. Locate the .csv file related to the skin you're using (for example` MySexySkin/csv/left_AC.csv`) and open it in your text editor of choice
-1. Find the part of the code that is responsible for lasers (look for "レーザ" or "laser")
-1. Usually the code is nicely described, which makes this step easier. Identify the code responsible for the turntable laser ("timer" value is 100, also can be marked with "SC") and **remove it** (it's usually 1 line starting with `#SRC_IMAGE` and two lines starting with `#DST_IMAGE`)
-1. Now find the part which is responsible for "laser off" animations ("レーザーオフ")
+Behavior 2 is what we call "sticking. Some skins like WMIX will let you change this in the skin settings (look for any turntable-related settings). If this is not the case, you can fix the laser by manually editing the skin file.
+
+1. Locate the .csv file related to the skin you're using (for example `MySkin/csv/left_AC.csv`) and open it in a text editor.
+1. Find the part of the code responsible for lasers (look for "レーザ" or "laser").
+1. Usually the code is nicely described, which makes this step easier. Identify the code responsible for the turntable laser ("timer" value is 100, also can be marked with "SC") and **remove it** (it's usually 1 line starting with `#SRC_IMAGE` and two lines starting with `#DST_IMAGE`).
+1. Now find the part responsible for "laser off" animations ("レーザーオフ").
 1. Again, locate the code responsible for the turntable laser off ("timer" value is 120), but this time **change the "timer" value to 100**.
-1. Save the file and test in-game. If the turntable laser does a short animation as if you instantly let go of a button, the fix worked!
+1. Save the file and test the skin in-game. The turntable laser should now do a short animation as if you had instantly let go of the button.
 
 ## Correcting the size of HD and FHD skins
 
-By default beatoraja assumes that all LR2 skins target the "SD" client, which uses 640x480 resolution, but there are also hacked clients which support HD (1280x720) and FHD (1920x1080) resolutions. Beatoraja is not able to recognize the target resolution of a regular LR2 skin, but it can be fixed with a one-line edit to the skin file.
+By default beatoraja assumes that all LR2 skins target the "SD" client, which uses the 640x480 resolution, but there are also hacked LR2 clients which support the HD (1280x720) and FHD (1920x1080) resolutions. Beatoraja is not able to recognize the target resolution of a regular LR2 skin, but it can be fixed with a one-line edit to the skin file.
 
-1. Locate the .lr2skin file of the skin you're using (for example `MySexySkin/play_7.lr2skin`) and open it in a text editor of your choice
+1. Locate the .lr2skin file of the skin you're using (for example `MySkin/play_7.lr2skin`) and open it in a text editor.
 1. Add a new line at the very beginning of the file with `#RESOLUTION,X,`, where `X` is 1 for a HD (1280x720) skin, and 2 for a FHD (1920x1080) skin.
-1. Save the file and test in-game
+1. Save the file and test the skin in-game.
