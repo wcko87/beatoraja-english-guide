@@ -415,7 +415,9 @@ When using an LR2 Play skin in beatoraja, there are a couple of things (as of 0.
 ## Fixes you may need to apply
 * **Fonts:** Some skins may require "unpacking" their fonts if they are contained within .dxa files, as beatoraja cannot process this format (see: [Unpacking .dxa fonts](#unpacking-dxa-fonts)).
 * **Turntable Laser:** If the skin doesn't allow you to switch the behavior of the TT laser, you may have to modify the skin file (see: [Sticking TT laser if using a controller](#sticking-tt-laser-if-using-a-controller)).
-* **Resolution Issues:** Skins targeting LR2HD and LR2FHD clients will appear stretched out of the box - this can be fixed with a one-line edit of the skin file (see: [Correcting the size of HD and FHD skins](#correcting-the-resolution-of-hd-and-fhd-skins)).
+* **Resolution Issues:**
+  * LR2HD and LR2FHD skins will not be detected correctly. When loaded in beatoraja, only a small 640x480 box from the top left of the skin will be visible, and stretched to fill the window. This can be fixed with a one-line edit of the skin file (see: [Correcting the size of HD and FHD skins](#correcting-the-resolution-of-hd-and-fhd-skins))
+  * LR2 SD (640x480) skins will be stretched to fill the 16:9 window. This can be fixed by letterboxing in the skin config (see: [Letterboxing instead of stretching SD skins](#letterboxing-instead-of-stretching-sd-skins))
 
 Everything else (skin customization, White/Green Number, stats display) will work fine.
 
@@ -449,3 +451,10 @@ By default beatoraja assumes that all LR2 skins target the "SD" client, which us
 1. Locate the .lr2skin file of the skin you're using (for example `MySkin/play_7.lr2skin`) and open it in a text editor.
 1. Add a new line at the very beginning of the file with `#RESOLUTION,X,`, where `X` is 1 for a HD (1280x720) skin, and 2 for a FHD (1920x1080) skin.
 1. Save the file and test the skin in-game.
+
+### Letterboxing instead of stretching SD skins
+If you use a 640x480 skin in 16:9 beatoraja, by default, the skin stretches to fill the whole window. To letterbox instead of stretch the skin,
+
+1. In the skin configuration, look for "All offset(%)" in the skin config (it should be near the bottom)
+2. Set the `w` value to `-25` (this scales the skin down horizontally by -25%)
+3. Set the `x` value to either `12` (centered), `0` (align left) or `25` (align right).
