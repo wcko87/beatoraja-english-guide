@@ -89,6 +89,23 @@ DL: https://desout2.tk/litone5-beatoraja/
 
 
 ------------------------
+## hij Simple
+Supports:
+- Music Select
+- Decide
+- Play (7Keys, 14Keys)
+
+Made by hij_san
+
+DL: https://twitter.com/hij_san/status/1340509127236349954
+
+![](https://pbs.twimg.com/media/EppwRpzUYAI5N_k?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/EppwRpwVQAI2xYD?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/EppwRqKUYAAZDi-?format=jpg&name=small)
+
+------------------------
 ## ModernChic
 Supports:
 - Music Select
@@ -123,7 +140,9 @@ DL: https://www.kasacontent.com/musicgame/beatoraja/4226/
 Tweet: https://twitter.com/kasakonkon/status/1269208933215768576
 
 ![](https://pbs.twimg.com/media/EZ0igUQU8AAshJ4?format=jpg&name=small)
+
 ![](https://pbs.twimg.com/media/EZ0ii9GUMAEPJFG?format=jpg&name=small)
+
 ![](https://img.youtube.com/vi/Axlhk23Sz1w/hqdefault.jpg)
 
 
