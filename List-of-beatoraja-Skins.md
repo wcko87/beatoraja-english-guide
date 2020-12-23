@@ -153,7 +153,8 @@ Supports:
 - Result
 - Play (5Keys, 7Keys)
 
-Primarily a Music Select skin. 5k/7k Play skin added recently. See screenshots.
+Primarily a Music Select skin.
+5k/7k Play skin added recently, has blue notes between lanes. See screenshots.
 
 Made by mnpyprrn.
 
