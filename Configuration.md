@@ -301,3 +301,29 @@ There are two ways menu sounds and menu BGM can be configured.
 1. In the `Skin` tab, assign the BGM Path (LR2) and Sound Path (LR2) folders. This allows you to use LR2 sound sets.
 2. In the `Skin` tab, under the category `SKIN SELECT`, assign a sound set from a skin. (As far as I know, no skins support this yet. The sound set included with LITONE5 is set up via the first method.)
 
+## Setting up Twitter score posting
+
+- Get a Twitter developer account. This can be done by going to the [Twitter developer portal](https://developer.twitter.com/en/portal/dashboard).
+
+- Create an application. Copy and paste the API Key and the API Key secret somewhere, but **DO NOT SHARE THEM**. These are your application keys.
+
+- Edit your application to enable Read **and write** access. This is necessary to post tweets.
+
+- Under the "Keys and Tokens" tab, generate an "Access token & secret" for your account (your handle should be specified). Paste the two tokens somewhere, but again, **DO NOT SHARE THEM**. These are your personal tokens.
+
+#### In player/player(playernumber)/config.json
+  
+- Find the `twitterConsumerKey` line (usually at the end of the config.json file).
+
+`twitterConsumerKey` and `twitterConsumerSecret` are your application keys.
+
+`twitterAccessToken` and `twitterAccessTokenSecret` are your personal tokens.
+
+Fill these lines with your tokens like so :
+
+```
+"twitterConsumerKey": "xxxxxxxxxxxxxxxxxxxxxxx",
+"twitterConsumerSecret": "xxxxxxxxxxxxxxxxxxxxxxx",
+"twitterAccessToken": "xxxxxxxxxxxxxxxxxxxxxxx",
+"twitterAccessTokenSecret": "xxxxxxxxxxxxxxxxxxxxxxx"
+```
