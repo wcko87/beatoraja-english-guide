@@ -184,6 +184,7 @@ The following three tables cover the full range of BMS levels, and are highly re
  - This level range is split into 12 denominations (st0 to st11)
  - st0 is approximately ★19+/★20 and st11 is approximately ★★7
 
+**Note:** If you have exhausted the Satellite or Stella table and are looking to play a much wider variety of charts, I recommend looking at [Hex's Insane Chart Collections](#hexs-insane-chart-collections-recommended).
 
 # Popular Difficulty Tables
 
@@ -193,6 +194,8 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 
 - Some tables (Satellite, Stella, Normal1, Insane1) favor **Quality** over Quantity. They are more useful if you want to restrict yourself to specially selected, "better" charts (or like aiming for folder lamps).
 - Other tables (Normal2, Insane2, Hex's tables) favor **Quantity** over Quality. They have a more relaxed or nonexistent quality filter but have many more charts. They are useful for exploring a large quantity of different charts, with more interesting charting styles.
+
+**Note:** To add these tables to beatoraja (or BeMusicSeeker), use the table links given below.
 
 ## Old Normal / Insane Tables
 
