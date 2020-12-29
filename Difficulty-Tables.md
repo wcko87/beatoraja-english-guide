@@ -192,7 +192,9 @@ This section contains a brief list of some of the more commonly-used tables. For
 The Normal2, Insane2 and LN tables are included in beatoraja by default.
 
 - Some tables (Satellite, Stella, Normal1, Insane1) favor **Quality** over Quantity. They are more useful if you want to restrict yourself to specially selected, "better" charts (or like aiming for folder lamps).
-- Other tables (Normal2, Insane2, BMS Sabun Uploader, Stella Uploader) favor **Quantity** over Quality. They have a more relaxed or nonexistent quality filter but have many more charts. They are useful for exploring a large quantity of different charts, with more interesting charting styles.
+- Other tables (Normal2, Insane2, Hex's tables) favor **Quantity** over Quality. They have a more relaxed or nonexistent quality filter but have many more charts. They are useful for exploring a large quantity of different charts, with more interesting charting styles.
+
+## Old Normal / Insane Tables
 
 ### [Normal table (☆)](http://www.ribbit.xyz/bms/tables/normal.html)
 - Levels rated from ☆1-☆12. Covers the "IIDX" level range.
@@ -204,13 +206,17 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 ### [Overjoy table (★★)](http://lr2.sakura.ne.jp/overjoy.php)
 - Levels rated from ★★1-★★7. ★★1 corresponds to ★21 and ★★5 corresponds to ★25.
 
+## New Normal / Insane Tables
+
 ### [Normal2 table (▽)](http://bmsnormal2.syuriken.jp/table.html)
 - Similar to the Normal table, but contains more recent songs, and is more frequently updated. Songs rated from ▽1-▽12.
-- Favors quantity over quality
+- Favors **quantity** over quality
 
 ### [Insane2 table (▼)](http://bmsnormal2.syuriken.jp/table_insane.html)
 - Similar to the Insane table, but contains more recent songs, and is more frequently updated. Songs rated from ▼0-▼25.
-- Favors quantity over quality
+- Favors **quantity** over quality
+
+## Satellite and Stella Tables (RECOMMENDED)
 
 ### [Satellite table (**sl**)](https://stellabms.xyz/sl/table.html)
 - A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
@@ -220,13 +226,22 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 - A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
 - Charts are rated on a scale of st0-st11. Covers the level range ★19 and up, as well as the overjoy difficulty range.
 
-### [BMS Sabun Uploader Table](https://bms.hexlataia.xyz/tables/hinanjoy.html)
+## Hex's Insane Chart Collections (RECOMMENDED)
+
+### [Hex's Insane Chart Database](https://bms.hexlataia.xyz/tables/db.html)
+- A massive table that catalogues basically every BMS chart and assigns them level ratings (both default charts and sabuns).
+- Only contains charts of difficulty ☆11 and above (I wish there was a similar table for normal scale charts).
+- Very useful table if you have a lot of event packs. The table assigns level ratings to the charts in your event packs, giving you **a lot** of charts to play.
+
+### [Hex's BMS Sabun Uploader Table](https://bms.hexlataia.xyz/tables/hinanjoy.html)
 - A table that catalogues and rates all charts that have been uploaded to the [BMS Sabun Uploader](http://gnqg.rosx.net/upload/)
 - Very useful table for playing a much larger quantity/variety of charts, without a quality filter.
 
-### [Stella Uploader Table](https://bms.hexlataia.xyz/tables/stuploader.html)
+### [Hex's Stella Uploader Table](https://bms.hexlataia.xyz/tables/stuploader.html)
 - Similar to the BMS Sabun Uploader table, but for the [Stella Uploader](https://stellabms.xyz/uploader) instead.
 - Not to be confused with the Stella table. The Stella Uploader is not restricted to Stella-level charts. Stella charts are not necessarily on the Stella Uploader either. They are completely separate entities despite having similar names.
+
+## Other Types of Tables
 
 ### [Scratch (sara) table (◎)](http://minddnim.web.fc2.com/sara/3rd_hard/bms_sara_3rd_hard.html)
 - For scratch charts.
