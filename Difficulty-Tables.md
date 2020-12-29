@@ -188,7 +188,12 @@ The following three tables cover the full range of BMS levels, and are highly re
 
 # Popular Difficulty Tables
 
-This section contains a brief list of some of the more commonly-used tables. For a more extensive list of tables, please refer to [Ribbit's list of difficulty tables](http://www.ribbit.xyz/bms/tables/table_list.html).
+This section contains a brief list of some of the more commonly-used tables. For a more extensive list of tables, please refer to:
+- [**Ribbit's list of difficulty tables**](http://www.ribbit.xyz/bms/tables/table_list.html)
+  - Contains most of the common / well-known tables.
+- [**Hex's list of personal / sabun event tables**](https://bms.hexlataia.xyz/others/sabunlist.html)
+  - Many chart makers have their own personal table that lists their own works. This is a list of chart makers and their personal tables.
+  - This also lists tables corresponding to sabun events (e.g. by the BMS Chart Editors' Group).
 
 The Normal2, Insane2 and LN tables are included in beatoraja by default.
 
