@@ -5,12 +5,14 @@ There are generally three places where you can configure things:
 
 This list is organized by the settings you can configure. How and where you can configure each setting will be explained.
 
+----------
 ## Key Config
 
 #### During music select
 Key config is done by pressing `6` on your keyboard during music select. Keys are configured separately for each play mode (5K, 7K, 9K etc).
 
 
+----------
 ## Adding and Updating Song Folders in beatoraja
 
 #### In config menu
@@ -23,11 +25,13 @@ In the config, the `Update Song Database when starting` setting will automatical
 `Update BMS database` and `Rebuild BMS Database` can be very slow. I rarely use these options.
 
 
+----------
 ## Difficulty Tables
 
 Refer to the following page: [How to set up difficulty tables in beatoraja](Difficulty-Tables#using-difficulty-tables-in-beatoraja)
 
 
+----------
 ## Skin Settings
 
 Allows you to choose your skin, as well as set the options for your currently chosen skin. Note that you have to select your skin separately for each of the menus.
@@ -48,6 +52,7 @@ Under the `Skin` tab.
 Press F12.
 
 
+----------
 ## Replay Settings
 beatoraja has four replay slots for each chart. A replay can be manually saved after a song is over by pressing 1,2,3 or 4 on the keyboard in the result screen, corresponding to which slot you wish to save the replay into.
 
@@ -59,6 +64,7 @@ The conditions to automatically save replays in each of the slots 1-4 can be con
 Personally, I like to set Replay1 to "Always" (my most recent replay), Replay3 to "Better or same Score" (my best score), and Replay4 to "Better or same Lamp" (my best clear).
 
 
+----------
 ## SUDDEN+, HI-SPEED, Green Number
 Explanation of these settings: [Green Number](Green-Number)
 
@@ -77,6 +83,7 @@ The green number can be adjusted when holding START+SELECT.
 The song will not start until you have finished adjusting.
 
 
+----------
 ## Offset
 
 Offset is measured in milliseconds. If you are hitting fasts, make your offset more negative. If you are hitting slows, make your offset more positive. (Note that this is the opposite of the setting in IIDX)
@@ -92,6 +99,7 @@ In the `Play Option` tab.
 Offset can be adjusted when holding START+SELECT.
 
 
+----------
 ## Hidden and Lift
 Explanation of these settings: [Hidden and Lift](Green-Number#hidden-and-lift)
 
@@ -104,6 +112,7 @@ See: [adjusting your lanecover height](#sudden-hi-speed-green-number)
 To adjust the hidden/lift height in-game, double-tap START to turn off SUDDEN+, then use START + turn turntable to adjust the hidden/lift lanecover. (Note: hidden/lift needs to be turned on in the config menu first)
 
 
+----------
 ## LN, CN and HCN mode
 
 beatoraja offers multiple modes for long notes.
@@ -120,16 +129,19 @@ Press `3` to toggle the long note type.
 Note that on charts with long notes, scores/clears for LN, CN and HCN modes are saved separately. If you do not see any of your scores, you might be on a different mode from your usual.
 
 
+----------
 ## Single play, Double play, etc
 
 You start SP/DP mode by selecting a chart corresponding to the mode.
 During music select, press `1` to toggle which charts are visible.
 
 
+----------
 ## Song sort order
 Press `2` during music select to toggle sort order.
 
 
+----------
 ## Random and Gauge settings
 
 The different gauges are explained here: [Gauges and Clears](Scores-and-Clears#gauges)
@@ -164,6 +176,7 @@ Hold START to configure your Random and Gauge settings.
 - Note that there are two Random settings. The one on the right is only used for double play (each side can have a separately-configured random setting).
 
 
+----------
 ## Scroll Speed Fix
 NOTE: This is not the same as the constant scroll speed assist option.
 
@@ -183,6 +196,7 @@ This "BPM line" is color coded. Blue = min BPM, Green = main BPM, Red = max BPM.
 
 The main BPM is also displayed in green next to the song's indicated BPM range.
 
+----------
 ## Gauge Auto Shift
 
 beatoraja has [multiple gauges](Scores-and-Clears#gauges) you can play a song on. By default, if you select a gauge that is too difficult for you on a song, you fail the song. Gauge Auto Shift is a feature in beatoraja to "play" all the gauges at once. You are awarded the clear corresponding to the hardest gauge you clear the song on in that play.
@@ -216,6 +230,7 @@ The Gauge Auto Shift option can be changed while holding START+SELECT.
 
 
 
+----------
 ## Assist and Miscellaneous Options
 
 Assist Options
@@ -250,6 +265,7 @@ Most of these options can be toggled while holding SELECT.
 EXPAND JUDGE is a little unique. If you toggle EXPAND JUDGE in game during music select, it only toggles between 100 (default) and 400 (4x judge windows). However, in the beatoraja config, you can set EXPAND JUDGE to any value between 25 and 400. 100 is the default, meaning the timing windows are 100% their usual size. Setting EXPAND JUDGE < 100 makes timing windows stricter, and setting EXPAND JUDGE > 100 makes timing windows less strict. Scores are only saved when EXPAND JUDGE <= 100.
 
 
+----------
 ## Music Select Song Wheel Scroll Speed
 
 If you find the song wheel (music select) to be scrolling too slowly or too quickly, this can be adjusted in the beatoraja config, under the `Input` tab.
@@ -265,18 +281,21 @@ If your song wheel is scrolling too slowly, decrease the duration of **After tha
 If you find it difficult to scroll one song at a time (e.g. you're always overshooting the song you want to select), increase the duration of **First song selection list scroll**.
 
 
+----------
 ## Accelerated Skin Loading
 
 #### In config menu
 In the `Other` tab in the config there is an option to `Create (CIM) file for accelerated skin image loading`. Use this for skins to load more quickly.
 
 
+----------
 ## Audio Settings
 
 #### In config menu
 Setting the Audio Output to PortAudio is generally recommended for lower latency.
 
 
+----------
 ## Fast Forward Settings
 
 During autoplay or watching replays, songs can be fast-forwarded or slowed down (See [Hotkeys](Hotkeys#during-autoplay--replay)). In [practice mode](Practice-Mode), songs can be played at an faster or slower speed (frequency).
@@ -287,6 +306,7 @@ In the `Audio` tab, the `Frequency Option` and `Fast forward` settings offer two
 - **UNPROCESSED** keeps the keysounds as they are. Fastforwarding thus only means that the keysounds are played at a faster rate. This option is not really recommended as it can make the song sound choppy.
 
 
+----------
 ## Miss Layer duration
 
 Some BMS's contain a miss layer, which is an image or animation that plays whenever you miss a note. The duration of the miss layer can be configured in the beatoraja config.
@@ -294,6 +314,7 @@ Some BMS's contain a miss layer, which is an image or animation that plays whene
 #### In config menu
 The miss layer duration option can be found in the `Video` tab. Set it to 0ms to disable miss layers.
 
+----------
 ## Menu Sounds and BGM Settings
 
 #### In config menu
@@ -301,6 +322,7 @@ There are two ways menu sounds and menu BGM can be configured.
 1. In the `Skin` tab, assign the BGM Path (LR2) and Sound Path (LR2) folders. This allows you to use LR2 sound sets.
 2. In the `Skin` tab, under the category `SKIN SELECT`, assign a sound set from a skin. (As far as I know, no skins support this yet. The sound set included with LITONE5 is set up via the first method.)
 
+----------
 ## Setting up Twitter score posting
 
 - Get a Twitter developer account. This can be done by going to the [Twitter developer portal](https://developer.twitter.com/en/portal/dashboard).
