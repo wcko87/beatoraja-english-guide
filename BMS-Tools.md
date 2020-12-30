@@ -199,6 +199,6 @@ These tools can be used to "watch" a BMS, but not play it. mBMplay is superior t
 ### (Software) [AnzuBMSDiff](http://yuinore.net/2015/12/difftool/)
 The Anzu BMS Diff Tool is an extremely helpful tool when making sabun charts. It is used to compare two BMS files to make sure that they produce exactly the same song - i.e. no keysounds have been accidentally shifted or removed during the charting process. Also checks for metadata consistency (e.g. title, artist, stagefile).
 
-### (Website)[BMS web diff tool](https://stairway.sakura.ne.jp/smalltools/minibmsplay/diff.htm)
+### (Website) [BMS web diff tool](https://stairway.sakura.ne.jp/smalltools/minibmsplay/diff.htm)
 A web-based diff tool that can be used as an alternative to AnzuBMSDiff.
 
