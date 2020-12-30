@@ -272,6 +272,21 @@ Blog Posts (and DL link):
 
 
 ------------------------
+## "Glass Style" Result Skin
+Supports:
+- Result
+
+A 1920x1080 skin with most of the information hidden away. Click on the left/right side of the skin or use the arrow keys to display detailed information.
+
+This skin is packaged together with the [SocialSkin](SocialSkin) download. It is in the "result2" folder.
+
+Blog Post: https://tori-blog.net/bms/2412/
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_182605_LEVEL1-%5E%5E-5keys-Normal-PERFECT-A.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_051200_LEVEL1-%5E%5E-5keys-Normal-HARD-CLEAR-B.jpg)
+
+------------------------
 ## FHD (Double Play) Skin by THULIUM
 Supports:
 - Music Select
