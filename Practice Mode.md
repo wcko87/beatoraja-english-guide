@@ -22,6 +22,7 @@ Some examples of what practice mode can be used for:
 
 - To test play a chart you made to figure out the right total value to set for it.
 
+----------
 # Practice Mode Options
 
 Use the arrow keys on the keyboard to change practice mode settings.

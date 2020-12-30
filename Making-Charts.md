@@ -1,5 +1,4 @@
 This guide has absolutely nothing to do with beatoraja. It's a guide for making your own BMS charts.
-
 ## Contents:
 - [What is in a BMS chart?](#what-is-in-a-bms-chart)
 - [Finding something to chart](#finding-something-to-chart)
@@ -7,6 +6,7 @@ This guide has absolutely nothing to do with beatoraja. It's a guide for making 
 - [Chart metadata](#chart-metadata)
 - [Frequently asked questions](#frequently-asked-questions)
 
+----------
 ## Word of Warning
 **PLEASE DO NOT CHART ILLEGAL BMS**. This refers to activities like taking a song that you do not own (from outside of the BMS community), and making a chart for it with silent keysounds. Using music that you do not own the rights to is illegal and the BMS community is against this sort of behavior. Even if it is a song you had made yourself, please properly keysound it when making it into a BMS.
 
@@ -14,6 +14,7 @@ This guide has absolutely nothing to do with beatoraja. It's a guide for making 
 
 Instead, if you want to chart something, please refer to [Finding something to chart](#finding-something-to-chart) for some possible options.
 
+----------
 ## What is in a BMS Chart?
 
 BMS charts are generally fully keysounded. The use of unkeysounded notes is frowned upon by the community.
@@ -36,7 +37,7 @@ To turn a BMS into a playable chart, these keysounds are dragged horizontally in
 
 Each keysound thus corresponds to a single note. Not all keysounds need to be used in the chart. The keysounds in the playable lanes will be the keysounds you need to play in game, and the unused keysounds (red) will make up the background track of the song. Most of the time, the majority of the keysounds will remain as the background track.
 
-
+----------
 ## Finding Something to Chart
 
 Note that the keysounding process is done by composers. Charting is when you shift the keysounds into the playable lanes. As a charter, there are a couple of ways you can get started with charting:
@@ -61,7 +62,7 @@ A popular place to upload charts is the [BMS Sabun Uploader](http://gnqg.rosx.ne
 
 You can also opt to upload your charts elsewhere (e.g. your own personal website). It is useful to understand how people typically [download songs and sabuns](Downloading-Songs#downloading-songs-and-sabuns).
 
-
+----------
 ## How to Make Charts Using uBMSC
 ### Downloading the Necessary Tools
 ##### Required Software:
@@ -128,6 +129,7 @@ Miscellaneous charting tips:
 - Generally, scratches are used for cymbal crashes, vocal samples, scratch sound effects, etc.
 - Make sure you set a proper [#TOTAL value](Scores-and-Clears#total-value)! Not setting a proper TOTAL can make your chart unplayable.
 
+----------
 ## Chart Metadata
 
 A BMS chart has the following metadata that can be set:
@@ -175,7 +177,7 @@ The following pieces of metadata will be revealed if you click "Expand" on the s
     - If it is set to any other option, then each LN is made out two notes - a regular note and an LN ending note. For example, let's say LnObj is set to "ZZ". Then objects of label ZZ will be used to designate the endings of long notes.
 
 
-
+----------
 ## Frequently Asked Questions
 
 ##### Q: What is the difference between `.bms`, `.bme`, `.bml`, `.pms` and `.bmson`?

@@ -2,6 +2,7 @@ There are generally two goals you can go for when playing a chart - a higher sco
 
 Scoring and clearing often do not go hand-in-hand. Going for higher clears (e.g. a full combo) can cause your score to suffer and vice versa. The game records your highest score and highest clear on a chart separately, so high scores and clears and be done on separate runs.
 
+----------
 # Scoring
 
 ## Judgements
@@ -33,7 +34,7 @@ EXSCORE is the name of the scoring system in beatoraja/LR2/IIDX.
 ```
 EXSCORE = 2*PGREAT + 1*GREAT
 ```
-All other judgements give no score. The highest score you can get is 2*number of notes.
+All other judgements give no score. The highest score you can get is 2\*number of notes.
 
 **Score Rate** is the score you get as a percentage of the maximum possible score.
 
@@ -57,8 +58,7 @@ On EASY judge in beatoraja, the timing window for a PGREAT is ±20ms (IIDX has a
 
 Beatoraja NORMAL, HARD and VERY HARD judge has 0.75x, 0.50x and 0.25x the window sizes respectively (thus PGREAT is ±15ms, ±10ms and ±5ms respectively). The full set of judge timings can be found in the [source code](https://github.com/exch-bms2/beatoraja/blob/master/src/bms/player/beatoraja/play/JudgeProperty.java).
 
-----------------------------
-
+----------
 # Clearing
 
 ## Gauges

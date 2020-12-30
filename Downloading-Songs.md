@@ -6,6 +6,7 @@ If you were looking for information on how to add songs in beatoraja, refer to [
 - [About Downloading Songs and Sabuns](#downloading-songs-and-sabuns)
 - [Where do I find songs?](#where-do-i-find-songs)
 
+----------
 # Downloading Songs and Sabuns
 
 When a composer makes a BMS, they generally make a couple of charts along with it (e.g. Beginner, Normal, Hyper, Another, Insane). These are the default charts that come with the song. Occasionally, a charter may also make an additional chart for some existing BMS song. An additional chart is called a sabun (差分).
@@ -39,6 +40,7 @@ When trying download and play a sabun like Calamity Fortune [F], you usually wil
 If the chart you want to play is a default chart (not a sabun), then you'll only find one download link, for the base song.
 
 
+----------
 # Where do I find songs?
 
 - [Starter Packs](#starter-packs)

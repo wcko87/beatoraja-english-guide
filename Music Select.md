@@ -1,6 +1,7 @@
 The Music Select menu is the menu you'll be on most of the time.
 This screen is where you'll see the song wheel, where you select a chart to play.
 
+----------
 # Useful hotkeys to take note of
 
 Press 6 on the keyboard to configure keybinds. You also need to do this to set up your controller.
@@ -16,6 +17,7 @@ Press F2 on a song folder to refresh the song folder (e.g. to load new songs)
 For the rest of the hotkeys, refer to the [Music Select Hotkeys](Hotkeys#music-select)
 
 
+----------
 # Song Wheel
 
 In the song wheel, there are three types of folders to find your songs:

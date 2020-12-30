@@ -5,6 +5,7 @@
 - [Recommended Difficulty Tables](#recommended-difficulty-tables)
 - [Popular Difficulty Tables](#popular-difficulty-tables) (with links)
 
+----------
 # Difficulty Rating System
 **Note:** This section is mainly about the 7keys playmode. Other playmodes, like 9keys (pms) or 14keys (double play) have different rating systems.
 
@@ -89,6 +90,7 @@ The difficulty levels of the standard scales can be roughly divided into three b
 
 </details>
 
+----------
 # What are Difficulty Tables?
 
 Difficulty tables are curated lists of "recommended" charts to play. These tables do not contain the charts or songs themselves. They are simply lists of charts (containing chart hashes so that the game can identify the charts).
@@ -99,6 +101,7 @@ An example of a well-known difficulty table is the [Insane scale](http://www.rib
 After loading a difficulty table into your BMS player (e.g. beatoraja), you will be able to see the list of charts in-game, and can play the charts by selecting them from the table. However, you will need to have the songs/charts already downloaded (i.e. somewhere in your BMS folder) before you can play them. 
 See [downloading songs/charts](Downloading-Songs) for more information.
 
+----------
 # Why use difficulty tables?
 
 As BMS events are open for anyone to create and submit songs/charts, by design there is no quality control on the submissions. BMS events will contain both high and low quality songs/charts.
@@ -107,6 +110,7 @@ Difficulty tables, in a sense, work as some sort of quality filter.
 Difficulty tables also serve as level ratings for charts. The level indicated on the chart itself is set by the chart creator, and this level may not be accurate. The levels in the difficulty tables are decided by the creator of the table, and often has gone through some discussion within the community.
 
 
+----------
 # What are Dan Courses?
 
 Courses can be included in difficulty tables. Among these courses are what people call "dan courses". A dan course is a specific set of (usually 4) songs used to test one's ability. In a course, you have to clear the sequence of given songs using a single health gauge that carries between songs. A player is said to have achieved a dan rank if they are able to clear the dan course corresponding to that rank.
@@ -128,6 +132,7 @@ These are the only dan songs missing from the GENOSIDE 2018 Starter Package:
 - ★24 Love & Justice [GOD] - for insane kaiden course
 - ★25 FREEDOM DiVE [FOUR DIMENSIONS] - for overjoy course
 
+----------
 # Using difficulty tables in beatoraja
 **Note: If you are using Lunatic Rave 2 (LR2) instead of beatoraja, you need to use BeMusicSeeker to set up difficulty tables.**
 - [How to set up difficulty tables in LR2 using BeMusicSeeker](https://docs.google.com/presentation/d/1RrA3_hxXv5Czr1mKs7vdrjLMAGhPb5pTGoJwD3LZ-AQ/edit#slide=id.g5ddf250169_0_61)
@@ -159,6 +164,7 @@ You can play other courses by adding their respective course table links.
 
 All of these dan courses include a contraint that forces beatoraja to use the LR2 dan gauge, to ensure consistency in difficulty with the same dan courses in LR2.
 
+----------
 # Recommended Difficulty Tables
 
 The following three tables cover the full range of BMS levels, and are highly recommended because they feature modern BMS songs with generally high-quality charts. Refer to the [Difficulty Rating System](#difficulty-rating-system) section for examples of charts in these difficulty ranges.
@@ -186,6 +192,7 @@ The following three tables cover the full range of BMS levels, and are highly re
 
 **Note:** If you have exhausted the Satellite or Stella table and are looking to play a much wider variety of charts, I recommend looking at [Hex's Insane Chart Collections](#hexs-insane-chart-collections-recommended).
 
+----------
 # Popular Difficulty Tables
 
 This section contains a brief list of some of the more commonly-used tables. For a more extensive list of tables, please refer to:

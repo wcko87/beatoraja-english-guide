@@ -6,6 +6,7 @@ KEY 1, KEY 2 etc refers to presseing the buttons assigned to the lanes. (Assumin
 
 The mouse (and scroll wheel) can be used to operate some of the menus too.
 
+----------
 ### Common
 - **F1**: show/hide FPS
 - **F4**: Toggle fullscreen
@@ -16,6 +17,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **ESC**: Exit song / exit beatoraja
 
 
+----------
 ### Music Select
 - **1**: Change Play mode filter
 
@@ -69,6 +71,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
     Use Keys 1-7 or the turntable while the options menus are up to configure settings.
     - For example, you can configure your pacemaker target by holding START and turning the turntable.
 
+----------
 ### Play
 - **START KEY x2**: Toggle Sudden+
 - **START KEY + SCR (hold)**: Adjust Sudden+ height
@@ -76,6 +79,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **START+SELECT KEY (hold)**: Exit song and return to music select
 
 
+----------
 ### During Autoplay / Replay
 - **1 (hold)**: x0.25 play speed
 - **2 (hold)**: x0.5 play speed
@@ -83,6 +87,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **4 (hold)**: x3 play speed
 
 
+----------
 ### Music Result
 - **1,2,3,4**: Save Replay to slots 1,2,3,4 respectively
 - **F7**: Post current score to twitter
