@@ -87,6 +87,8 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **1,2,3,4**: Save Replay to slots 1,2,3,4 respectively
 - **F7**: Post current score to twitter
 
+    See [Configuration](Configuration#setting-up-twitter-score-posting) for set up instructions.
+
 - **KEY 1,3**: Back to Music select
 - **KEY 5 (hold)**: Retry same song on different random
 - **KEY 7 (hold)**: Retry same song on same random
