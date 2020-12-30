@@ -13,6 +13,7 @@ Another popular BMS player is Lunatic Rave 2 (LR2). Most of this guide is for be
 
 Note that judge timings and gauges in beatoraja differ slightly from LR2. There a version of beatoraja that has been modified to use LR2 judge timings and gauge (but it does not support beatoraja's internet rankings). It can be found [here](https://github.com/wcko87/lr2oraja).
 
+----------
 # Getting Started with beatoraja
 
 #### 1. Download 64-bit Java
@@ -32,6 +33,7 @@ Note that judge timings and gauges in beatoraja differ slightly from LR2. There 
 ### LOCALE ISSUES: READ THIS BEFORE PLAYING
 As BMS has a largely Japanese community, there's a high chance that you might run into some encoding/locale issues later on. It might be best to take some pre-emptive steps to resolve this beforehand.
 
+----------
 # Locale Fix
 
 ### Effects of locale issues
@@ -67,6 +69,7 @@ After switching to UTF-8, if you experience any crashes when loading the skins i
 There should be no more crashes / issues after that.
 
 
+----------
 # Configuring Beatoraja
 
 This covers some of the more important things to configure when first starting the game. Refer to [beatoraja Configuration](Configuration) for more detailed information on what you can configure in beatoraja.
@@ -110,6 +113,7 @@ The song will not start until you have finished adjusting.
 A full explanation on sudden+, scroll speed and green number is given here: [Green Number](Green-Number)
 
 
+----------
 # How to navigate menus
 
 The turntable (scratch up / scratch down) is used to scroll through menus.
@@ -127,6 +131,7 @@ However, in beatoraja, each key actually has a slightly different purpose.
 - Key 6: Select replay
 
 
+----------
 # Common Issues
 
 
