@@ -14,7 +14,7 @@
 
 There are about a hundred BMS players in existence, though only a few are commonly used. Before Lunatic Rave 2 (2008), some commonly used BMS players were nazobmplay (2001) and BM98 (1998).
 
-### Bemuse(https://bemuse.ninja/)
+### [Bemuse](https://bemuse.ninja/)
 - Web-based BMS player. Has a pre-set list of about 40 songs, and you can also play your own downloaded BMS songs by dragging them into the player.
 - Good as a quick way to try out BMS or to try out a BMS without having to import it into your BMS setup.
 - Has noticeable audio and input delay, and misses important features like health bars and random.
