@@ -146,15 +146,4 @@ Some BMS events are only held once, while some are part of a series. This sectio
 
 ## BMS Tools
 
-The BMS community is decentralized, being made up of a network of separate tools rather than being controlled by a central server. BMS tools refers to any part of the infrastructure of the BMS community:
-- [BMS Players](https://www40.atwiki.jp/laser_bm/pages/16.html) (programs like LR2 or beatoraja to play BMS files)
-- BeMusicSeeker and Glassist for managing your BMS collection
-- Charting tools like [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)/[uBMSC](https://github.com/zardoru/iBMSC)
-- BMS preview tools like [uBMplay](http://ucn.tokonats.net/software/ubmplay/), [BMIIDXView2015](http://www.charatsoft.com/software/bmview/index.html) and [mBMplay](https://misty.orz.hm/mbmplay.html)
-- Internet Ranking websites ([LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi) for LR2, [Mocha](https://mocha-repository.info/download.php)/[MinIR](https://www.gaftalk.com/minir/#/) for beatoraja, etc)
-- Websites like [Walkure](http://walkure.net/hakkyou/)/[Stairway](http://stairway.sakura.ne.jp/bms/)/[Notepara](http://www.notepara.com/)/[LR2keyway](https://www.lr2keyway.com/) for organizing clear/score records
-- Event websites that manage event registration and impressions
-- Other miscellaneous websites
-    - [BMS Sabun Uploader](http://gnqg.rosx.net/upload/) (for uploading additional charts for existing songs)
-    - [BMS chart viewer / BMS search](http://www.ribbit.xyz/bms/score/)
-    - The [Satellite/Stella](https://stellabms.xyz) website, which manages biweekly voting on revisions/additions to the Satellite/Stella tables. It also hosts the Stella Sabun uploader.
+The BMS community is decentralized, being made up of a network of separate tools rather than being controlled by a central server. BMS tools refers to any part of the infrastructure of the BMS community. See [BMS Tools and Resources](BMS-Tools-and-Resources) for a list of helpful tools and resources for various aspects of BMS.
