@@ -1,3 +1,13 @@
+## Contents
+- [BMS Players](#bms-players)
+- [BMS Event (and related) Websites](#bms-event-and-related-websites)
+- [General BMS Tools and Resources](#general-bms-tools-and-resources)
+- [Difficulty Tables and Related Resources](#difficulty-tables-and-related-resources)
+- [Lists of Things](#lists-of-things)
+- [Tools for beatoraja](#tools-for-beatoraja)
+- [Tools for Lunatic Rave 2](#tools-for-lunatic-rave-2)
+- [BMS Charting Tools](#bms-charting-tools)
+
 ----------------
 # BMS Players
 - [**List of BMS Players**](https://www40.atwiki.jp/laser_bm/pages/16.html) (programs like LR2 or beatoraja to play BMS files)
@@ -174,6 +184,9 @@ See [Internet Ranking Services](internet-ranking-services)
 
 ----------------
 # Tools for Lunatic Rave 2
+
+### (Website) [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
+- The primary internet ranking for Lunatic Rave 2.
 
 ### (Website) [Walkure](http://walkure.net/hakkyou/)
 - Only works with the [Insane1 table](old-normal--insane-tables). Computes a score based on which charts you have cleared on the insane table and gives recommended charts to play from the table.
