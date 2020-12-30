@@ -3,6 +3,7 @@
 - [BMS Charting](#bms-charting)
 - [BMS Community and Events](#bms-community)
 
+----------
 # What is BMS?
 
 Short Answer: Be-Music Source (BMS) is a file format for rhythm game charts.
@@ -42,6 +43,7 @@ A unique feature of the BMS community is that all of the music used for the game
 
 - Please note that using or playing illegally-sourced music is not allowed. This refers to activities like taking a song that you do not own (or not made by the BMS community), and making a chart for it with silent keysounds. Using music that you do not own the rights to is illegal and the BMS community is against this sort of behavior. Please refer to [BMS Charting](making-charts) for more information.
 
+----------
 # What is a BMS Player?
 
 A BMS player is used to play BMS songs/charts. The first BMS player is BM98, first introduced in 1998, as its name implies. Some commonly used BMS players today are Lunatic Rave 2 (LR2), beatoraja, ruv-it, bemuse, etc. There are many other BMS players out there.
@@ -52,6 +54,7 @@ Note that Lunatic Rave 2 does not support the more recent .bmson file format, wh
 
 Here is a (pretty long) [list of BMS players](https://www40.atwiki.jp/laser_bm/pages/16.html), sorted by release year/platform from 1998 to the current day (note: JP). Over 50 BMS players have been made since its introduction.
 
+----------
 # What does a BMS song contain?
 
 Each BMS song is contained in its own folder. The folder for a single BMS song often contains hundreds of files. Here are the usual contents of the folder:
@@ -74,11 +77,12 @@ Each BMS song is contained in its own folder. The folder for a single BMS song o
 - **Preview file**: A short clip of the song that plays during music select. (not common as preview files are not supported by LR2)
 
 
+----------
 # BMS Charting
 
 Related: [Making Charts](making-charts)
 
-BMS charts are fully keysounded. The use of unkeysounded notes is generally frowned upon by the community.
+BMS charts are fully keysounded. The use of unkeysounded notes is generally frowned upon by the community and unkeysounded songs are not allowed.
 
 As mentioned above, BMS songs are broken down into (often) hundreds of keysounds. These keysounds are sequenced in the BMS file to make up the song. Each keysound is often used multiple times in the song (e.g. the same drum sample is may be played multiple times).
 
@@ -97,6 +101,7 @@ This rule is generally enforced to restrict BMS songs to original compositions b
 
 To find out where to download BMS songs, refer to [Downloading Songs](Downloading-Songs#where-do-i-find-songs).
 
+----------
 # BMS Community
 
 The BMS Community is generally self-sustaining, with all its music created by the community itself. BMS charts are either made by the composers themselves, or by dedicated charters.
