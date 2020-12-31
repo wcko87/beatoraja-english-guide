@@ -129,14 +129,14 @@ See:
 ----------------
 # Tools for beatoraja
 
-### (Software) [beatoraja Preview Auto Generator](https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases)
+### (Software) [beatoraja Preview Audio Generator](https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases)
 A song preview is a snippet of the song that plays when you hover over the song in music select. Previews can be very helpful in deciding which song to play.
 
 However, beatoraja only plays previews of BMS's that have preview files. This is because all BMS are fully keysounded, and as it can take a long time to load all the keysounds just to preview what a song sounds like, one might as well just load up the song itself on autoplay and listen to it.
 
 This can be awkward as not all BMS artists will make preview files for their songs (especially since preview files don't work in LR2). Thankfully, beatoraja has a hidden feature - if there is a file in the song folder with "preview" as a prefix (and any of the common extensions like .ogg, .mp3, .wav) and the chart does not already have a pre-defined preview, it will automatically use that file as a preview.
 
-The **BMS Preview Auto Generator** can be downloaded here: https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases.
+The **BMS Preview Audio Generator** can be downloaded here: https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases.
 
 This generator will generate preview files for your entire BMS directory. By default, the generated preview files will be named `preview_auto_generator.ogg`, which will be auto-played by beatoraja. If the song already has a preview, the preview auto generator will skip over the song.
 
