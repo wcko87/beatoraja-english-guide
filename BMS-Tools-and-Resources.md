@@ -140,7 +140,7 @@ The **BMS Preview Auto Generator** can be downloaded here:
 - https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases
 This generator will generate preview files for your entire BMS directory. By default, the generated preview files will be named `preview_auto_generator.ogg`, which will be auto-played by beatoraja. If the song already has a preview, the preview auto generator will skip over the song.
 
-**Note:** If you error "missing hostfxr.dll", install [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3).
+**Note:** If you get the error "missing hostfxr.dll", install [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3).
 
 #### How to use the Preview Auto Generator
 Open command prompt in the same folder as the audio generator and run:
