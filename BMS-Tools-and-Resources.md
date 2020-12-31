@@ -142,7 +142,7 @@ This generator will generate preview files for your entire BMS directory. By def
 
 **Note:** If you get the error "missing hostfxr.dll", install [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
-#### How to use the Preview Auto Generator
+#### How to use the Preview Audio Generator:
 Open command prompt in the same folder as the audio generator and run:
 ```
 BmsPreviewAudioGenerator.exe -batch -path="D:\bms\song\BOFU2016" -start="20000" -end="40000" -save_name="preview_auto_generator.ogg" -support_extend_format -fade_in="1000" -fade_out="2000"
@@ -154,7 +154,7 @@ Configuration options:
   - You might prefer a longer preview, e.g. by replacing end="40000" with end="50000" or end="60000". Longer previews take a little more space on the hard drive. Typical 30s previews takes up about 400-500KB per song.
 - `-fade_in="1000" -fade_out="2000"` means the first 1s of the preview will be spent fading in, and the last 2s of the preview will be spent fading out. This way, your preview won't loop abruptly. To disable fade in/out, remove this part of the command.
 
-#### Making the previews show up in beatoraja
+#### Making the previews show up in beatoraja:
 You might notice that using F2 to refresh a folder will not make the previews show up even after you have generated the previews. The typical solution is to rebuild the BMS database to make the previews show up. However this can take a long time to do, and there is a faster workaround:
 
 Suppose that you have generated previews for your "BOFU2016" folder. Follow these steps to refresh the previews on your BOFU2016 folder:
