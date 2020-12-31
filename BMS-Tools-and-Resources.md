@@ -136,8 +136,8 @@ However, beatoraja only plays previews of BMS's that have preview files. This is
 
 This can be awkward as not all BMS artists will make preview files for their songs (especially since preview files don't work in LR2). Thankfully, beatoraja has a hidden feature - if there is a file in the song folder with "preview" as a prefix (and any of the common extensions like .ogg, .mp3, .wav) and the chart does not already have a pre-defined preview, it will automatically use that file as a preview.
 
-The **BMS Preview Auto Generator** can be downloaded here:
-- https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases
+The **BMS Preview Auto Generator** can be downloaded here: https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases.
+
 This generator will generate preview files for your entire BMS directory. By default, the generated preview files will be named `preview_auto_generator.ogg`, which will be auto-played by beatoraja. If the song already has a preview, the preview auto generator will skip over the song.
 
 **Note:** If you get the error "missing hostfxr.dll", install [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1).
