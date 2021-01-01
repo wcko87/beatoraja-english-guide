@@ -276,7 +276,7 @@ Blog Posts (and DL link):
 Supports:
 - Result
 
-A 1920x1080 skin with most of the information hidden away. Click on the left/right side of the skin or use the arrow keys to display detailed information.
+A 1080p skin with most of the information hidden away. Click on the left/right side of the skin or use the arrow keys to display detailed information.
 
 This skin is packaged together with the [SocialSkin](SocialSkin) download. It is in the "result2" folder.
 
