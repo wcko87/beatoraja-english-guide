@@ -178,7 +178,7 @@ While a god pinky is good for hitting individual scratches, it may still be adva
 As the image shows, some players use their wrist to scratch while maintaining the 1048 position. This is a fully static playstyle and requires no transitions. To wrist scratch, one needs to stand close to the controller and position their arm roughly parallel to the edge of the desk.
 
 ### Playstyle: 2:5
-![ps_25](https://user-images.githubusercontent.com/27341392/103445747-8fcb6900-4cbb-11eb-9073-a73280c2a6ac.png)
+![ps_25](https://user-images.githubusercontent.com/27341392/103448118-37569480-4cd8-11eb-983b-838689a2764b.png)
 
 In this playstyle, the left hand (scratch hand) covers the turntable and keys 1 and 2, while the right hand covers keys 3-5. This is done by moving the right thumb over to key 3.
 - Key 1: (Left) Thumb
