@@ -129,20 +129,20 @@ See:
 ----------------
 # Tools for beatoraja
 
-### (Software) [beatoraja Preview Auto Generator](https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases)
+### (Software) [beatoraja Preview Audio Generator](https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases)
 A song preview is a snippet of the song that plays when you hover over the song in music select. Previews can be very helpful in deciding which song to play.
 
 However, beatoraja only plays previews of BMS's that have preview files. This is because all BMS are fully keysounded, and as it can take a long time to load all the keysounds just to preview what a song sounds like, one might as well just load up the song itself on autoplay and listen to it.
 
 This can be awkward as not all BMS artists will make preview files for their songs (especially since preview files don't work in LR2). Thankfully, beatoraja has a hidden feature - if there is a file in the song folder with "preview" as a prefix (and any of the common extensions like .ogg, .mp3, .wav) and the chart does not already have a pre-defined preview, it will automatically use that file as a preview.
 
-The **BMS Preview Auto Generator** can be downloaded here:
-- https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases
+The **BMS Preview Audio Generator** can be downloaded here: https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases.
+
 This generator will generate preview files for your entire BMS directory. By default, the generated preview files will be named `preview_auto_generator.ogg`, which will be auto-played by beatoraja. If the song already has a preview, the preview auto generator will skip over the song.
 
-**Note:** If you error "missing hostfxr.dll", install [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3).
+**Note:** If you get the error "missing hostfxr.dll", install [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
-#### How to use the Preview Auto Generator
+#### How to use the Preview Audio Generator:
 Open command prompt in the same folder as the audio generator and run:
 ```
 BmsPreviewAudioGenerator.exe -batch -path="D:\bms\song\BOFU2016" -start="20000" -end="40000" -save_name="preview_auto_generator.ogg" -support_extend_format -fade_in="1000" -fade_out="2000"
@@ -154,7 +154,7 @@ Configuration options:
   - You might prefer a longer preview, e.g. by replacing end="40000" with end="50000" or end="60000". Longer previews take a little more space on the hard drive. Typical 30s previews takes up about 400-500KB per song.
 - `-fade_in="1000" -fade_out="2000"` means the first 1s of the preview will be spent fading in, and the last 2s of the preview will be spent fading out. This way, your preview won't loop abruptly. To disable fade in/out, remove this part of the command.
 
-#### Making the previews show up in beatoraja
+#### Making the previews show up in beatoraja:
 You might notice that using F2 to refresh a folder will not make the previews show up even after you have generated the previews. The typical solution is to rebuild the BMS database to make the previews show up. However this can take a long time to do, and there is a faster workaround:
 
 Suppose that you have generated previews for your "BOFU2016" folder. Follow these steps to refresh the previews on your BOFU2016 folder:
