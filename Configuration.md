@@ -21,6 +21,7 @@ If you are using a controller, there are two possible scratch input modes for it
 Analog Mode is preferred for beatoraja.
 - If your controller is in analog mode, make sure Analog Scratch is **checked** in the beatoraja config.
 - If your controller is in LR2 mode, make sure Analog Scratch is **unchecked**.
+
 The turntable will not be read by the game correctly otherwise.
 
 You can find out which input mode your controller is in by opening the controller properties in Windows' control panel (you can find it by searching "set up usb game controllers" in the start menu). Alternatively, you can use the online [HTML5 Gamepad Tester](https://gamepad-tester.com/).
