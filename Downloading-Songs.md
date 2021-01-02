@@ -48,6 +48,8 @@ If the chart you want to play is a default chart (not a sabun), then you'll only
 - [Difficulty Tables](#difficulty-tables)
 - [Downloading Individual Songs](#downloading-individual-songs)
 
+**Warning:** Please read about the [possible locale issues](#locale-issues-when-opening-zip-files) when opening .zip files made in other locales.
+
 ## Starter Packs
 
 If you want to just get right into playing, there are a few "Starter Packs", to get started with. Starter packs are compilation packs of songs from various BMS events. Starter packs are not necessarily for beginners only. They usually contain songs covering a wide range of difficulties.
@@ -148,6 +150,14 @@ Some old Dropbox links may have been backed up by the [BMS Dropbox Mirror Projec
     https://dropbox.bms.ms/u/
     ```
 3. If this BMS was backed up by the mirror project, you will now have a working link as such: https://dropbox.bms.ms/u/37251493/MilK.zip
+
+#### Locale issues when opening zip files
+When extracting a .zip file, your PC's locale must match the locale of the person who made the .zip. If not, any non-ASCII filenames will be garbled after extraction. This is a common issue as many packs were made in the Japanese (or sometimes Korean) locales.
+
+One solution (other than changing your PC's locale) is to use [Bandizip](https://en.bandisoft.com/bandizip/) to extract these archives. Bandizip lets you choose which locale you want to extract the files in.
+
+Note that .7z files do not have locale issues. This refers to the .7z file format, not the 7zip program. You will still face locale issues if you are using 7zip to extract .zip files.
+
 
 #### Illegal BMS
 
