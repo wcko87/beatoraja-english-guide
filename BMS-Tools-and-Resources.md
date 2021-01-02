@@ -81,6 +81,15 @@ Also see:
 ### (Website) [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
 - The primary internet ranking for Lunatic Rave 2. However this is a useful website for finding download links to songs and charts. See [using LR2IR to find songs and charts](Downloading-Songs#using-lr2ir-to-find-songscharts).
 
+### (Software) [BMX2WAV](http://childs.squares.net/program/bmx2wav/)
+- A tool to render a BMS into a single wav file.
+
+### (Website) [Hand Position Generator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
+- A tool that can be used to illustrate playstyles on a controller.
+- This tool was used to create the images in the [Playstyles](Controller-and-Keyboard-Gameplay#playstyles-hand-positions) section.
+
+### (Software) [Controller Input Display](https://github.com/wcko87/bm-input-display)
+- An input display for playing on controller. Only works in analog mode.
 
 ----------------
 # Difficulty Tables and Related Resources
@@ -215,3 +224,5 @@ The Anzu BMS Diff Tool is an extremely helpful tool when making sabun charts. It
 ### (Website) [BMS web diff tool](https://stairway.sakura.ne.jp/smalltools/minibmsplay/diff.htm)
 A web-based diff tool that can be used as an alternative to AnzuBMSDiff.
 
+### (Website) [BMS #TOTAL calculator](https://hitkey.nekokan.dyndns.info/total.htm)
+- Tool to calculate #TOTAL values when charting. See [#TOTAL value](Scores-and-Clears#total-value) for more information.
