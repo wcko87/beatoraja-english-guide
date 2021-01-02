@@ -81,7 +81,7 @@ If you are looking for songs/charts, see [downloading songs/charts](Downloading-
 
 If you wish to use [difficulty tables](Difficulty-Tables), add table links to the Table URLs and click `Load difficulty table` to load all the listed difficulty tables into the game.
 
-If you are using a IIDX controller with axis input, you might want to turn on `ANALOG SCRATCH` under the `Input` tab. This needs to be turned on individually for each mode (7KEYS, 5KEYS, etc).
+If you are using a IIDX controller with axis input, you might want to turn on `ANALOG SCRATCH` under the `Input` tab. This needs to be turned on individually for each mode (7KEYS, 5KEYS, etc). See [Analog Scratch](Configuration#analog-scratch) for more information.
 
 Most of the settings under `Play Option` can be configured in game.
 

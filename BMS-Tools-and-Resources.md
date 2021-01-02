@@ -89,7 +89,7 @@ Also see:
 - This tool was used to create the images in the [Playstyles](Controller-and-Keyboard-Gameplay#playstyles-hand-positions) section.
 
 ### (Software) [Controller Input Display](https://github.com/wcko87/bm-input-display)
-- An input display for playing on controller. Only works in analog mode.
+- An input display for playing on controller. Only works in [analog mode](Configuration#analog-scratch).
 
 ----------------
 # Difficulty Tables and Related Resources

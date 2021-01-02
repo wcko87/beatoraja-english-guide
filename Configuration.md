@@ -13,6 +13,29 @@ Key config is done by pressing `6` on your keyboard during music select. Keys ar
 
 
 ----------
+## Analog Scratch
+If you are using a controller, there are two possible scratch input modes for it. 
+1. LR2 Mode: The axis value is +1 when rotating clockwise, and -1 when rotating counterclockwise
+2. Analog Mode: The axis value slowly increases as you rotate clockwise, and after it reaches +1, it loops back around to -1. It decreases when you rotate counterclockwise.
+
+Analog Mode is preferred for beatoraja.
+- If your controller is in analog mode, make sure Analog Scratch is **checked** in the beatoraja config.
+- If your controller is in LR2 mode, make sure Analog Scratch is **unchecked**.
+The turntable will not be read by the game correctly otherwise.
+
+You can find out which input mode your controller is in by opening the controller properties in Windows' control panel (you can find it by searching "set up usb game controllers" in the start menu).
+
+[Video: What the two input modes look like](https://user-images.githubusercontent.com/27341392/103452096-05acf000-4d0f-11eb-8033-e530ae2abc34.mp4)
+
+Most controllers allow you to switch between the two input modes. Analog mode is "HID mode" on Dao cons and "Mode 3" on a YuanCon.
+
+
+**Note:** The Analog Scratch setting must be set separately for each keymode (5Keys, 7Keys, 14Keys etc).
+
+#### In config menu
+Under the `Input` tab.
+
+----------
 ## Adding and Updating Song Folders in beatoraja
 
 #### In config menu
