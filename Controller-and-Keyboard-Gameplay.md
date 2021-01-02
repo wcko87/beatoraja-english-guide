@@ -281,9 +281,11 @@ If you live in the United States, DJ Dao has a "[US Storehouse](https://www.gamo
 - Turntable comes with EMP mat by default.
 - Price: a little above $200.
 
-##### DJDao PHOENIXWAN
+##### DJDao PHOENIXWAN [(Product Page)](https://www.gamo2.com/en/product/phoenixwan/) [(Review / Features)](https://www.otaquest.com/controller-close-up-5-gamo2-phoenixwan-for-iidx/)
 - The more expensive "successor" to the FP7.
 - AC diameter and AC distance turntable.
+- Turntable sensitivity adjustment
+- Turntable uses a special "grippy" material instead of an EMP mat.
 - Price: a little below $300.
 
 ##### DJDao Real Edition Double (RED)

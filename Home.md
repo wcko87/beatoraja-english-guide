@@ -64,7 +64,7 @@ set _JAVA_OPTIONS='-Dsun.java2d.opengl=true -Dawt.useSystemAAFontSettings=on -Ds
 
 Skin settings might reset after switching to UTF-8, because the skin settings may have been saved in the default encoding. It shouldn't be too much trouble to set the skin settings again, since you only need to do this once.
 
-After switching to UTF-8, if you experience any crashes when loading the skins in game, try switching to the default skin, and back to your current skin. This refreshes the settings and saves them again in the correct encoding.
+It might also be possible that switching encodings might cause your player config file (in player/player1/config.json) to be unreadable. If the config file can't be fixed, you may have to replace the config file with a new one. One way to do this is to backup the player's config.json, then clear the contents of the file and replace it with just the characters `{}`. This forces beatoraja to generate a new config.json file from scratch. (Note: beatoraja won't start without the `{}` in the file)
 
 There should be no more crashes / issues after that.
 
