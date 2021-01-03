@@ -381,7 +381,7 @@ This section lists unofficial skin modifications that some people have made.
 More will be added to this section later on.
 
 ## Different Judge Fonts and Note Skins for ModernChicPlay
-Adds judge fonts for older BMS players like LR2, nazoBMplay and BM98. Made by AOiRO_Manbow.
+Adds judge fonts to ModernChicPlay from older BMS players like LR2, nazoBMplay and BM98. Made by AOiRO_Manbow.
 
 Link: https://twitter.com/AOiRO_Manbow/status/1344125952117276673
 
