@@ -154,7 +154,7 @@ This generator will generate preview files for your entire BMS directory. By def
 #### How to use the Preview Audio Generator:
 Open command prompt in the same folder as the audio generator and run:
 ```
-BmsPreviewAudioGenerator.exe -batch -path="D:\bms\song\BOFU2016" -start="20000" -end="40000" -save_name="preview_auto_generator.ogg" -support_extend_format -fade_in="1000" -fade_out="2000"
+.\BmsPreviewAudioGenerator.exe -batch -path="D:\bms\song\BOFU2016" -start="20000" -end="40000" -save_name="preview_auto_generator.ogg" -support_extend_format -fade_in="1000" -fade_out="2000"
 ```
 Where D:\bms\song\BOFU2016 should be replaced with the directory you wish to target.
 
