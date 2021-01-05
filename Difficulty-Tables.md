@@ -223,11 +223,11 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 
 ## New Normal / Insane Tables
 
-### [Normal2 table (▽)](http://bmsnormal2.syuriken.jp/table.html)
+### [Normal2 table (▽)](http://rattoto10.jounin.jp/table.html)
 - Similar to the Normal table, but contains more recent songs, and is more frequently updated. Songs rated from ▽1-▽12.
 - Favors **quantity** over quality
 
-### [Insane2 table (▼)](http://bmsnormal2.syuriken.jp/table_insane.html)
+### [Insane2 table (▼)](http://rattoto10.jounin.jp/table_insane.html)
 - Similar to the Insane table, but contains more recent songs, and is more frequently updated. Songs rated from ▼0-▼25.
 - Favors **quantity** over quality
 
