@@ -179,7 +179,7 @@ Suppose that you have generated previews for your "BOFU2016" folder. Follow thes
 See [Internet Ranking Services](internet-ranking-services)
 
 ### (Software) [BMSabunHelper](https://twitter.com/rayu0718/status/1216306605500682240)
-- A tool to automatically download songs and sabuns for your table. For use with beatoraja (Uses your beatoraja song.db).
+- A tool to automatically download songs and sabuns for your table. For use with beatoraja (Uses beatoraja's `songdata.db`).
 
 ### (Website) [BMS lamp graph for beatoraja](https://lnt.softether.net/cgi-bin/beatoraja/index.php)
 - Upload your score.db from your `beatoraja\player\player#` folder to display a graph of your clears for the common [tables](difficulty-tables).
