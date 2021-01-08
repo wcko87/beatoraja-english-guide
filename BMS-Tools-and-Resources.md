@@ -151,6 +151,8 @@ This generator will generate preview files for your entire BMS directory. By def
 
 **Note:** If you get the error "missing hostfxr.dll", install [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
+**Note 2:** The preview generator may fail if your system language is set to Polish.
+
 #### How to use the Preview Audio Generator:
 Open command prompt in the same folder as the audio generator and run:
 ```
