@@ -94,16 +94,19 @@ Supports:
 - Music Select
 - Decide
 - Play (7Keys, 14Keys)
+- Result
 
 Made by hij_san
 
-DL: https://twitter.com/hij_san/status/1340509127236349954
+DL: https://twitter.com/hij_san/status/1348555290648535043
 
 ![](https://pbs.twimg.com/media/EppwRpzUYAI5N_k?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EppwRpwVQAI2xYD?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EppwRqKUYAAZDi-?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/Erb9VOQVQAIMTZC?format=jpg&name=small)
 
 ------------------------
 ## ModernChic
