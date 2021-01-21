@@ -104,7 +104,7 @@ To find out where to download BMS songs, refer to [Downloading Songs](Downloadin
 ----------
 # BMS Community
 
-The BMS Community is generally self-sustaining, with all its music created by the community itself. BMS charts are either made by the composers themselves, or by dedicated charters.
+The BMS Community is self-sustaining, with all its music created by the community itself. BMS charts are also often made by the composers themselves.
 
 ## BMS Events
 
