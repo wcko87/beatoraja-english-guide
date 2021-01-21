@@ -51,6 +51,10 @@ There are two ways to fix locale issues in beatoraja. This fixes all the problem
 - **Method 1:** Switch to Japanese locale on your PC
 - **Method 2:** Run beatoraja using the UTF-8 encoding (Recommended solution)
 
+Method 2 is highly recommended. If you are running beatoraja using the UTF-8 encoding, switching to Japanese locale is **NOT** required (I have not once switched to JP locale). Also, even if you are already using the Japanese locale, switching to UTF-8 encoding is still recommended, as this resolves crashes that happen if a BMS folder name is garbled.
+
+**Note:** Opening .zip files is another reason frequently cited for switching to JP locale. Switching just for this reason is not recommended however, as there are better solutions to this. [More info here - locale issues when opening zip files](Downloading-Songs#locale-issues-when-opening-zip-files).
+
 ### Running beatoraja with UTF-8 encoding
 
 Open up `beatoraja-config.bat` (or `beatoraja-config.command`, depending on which you use to start beatoraja), and add `-Dfile.encoding="UTF-8"` to the end of the `_JAVA_OPTIONS=` line.
