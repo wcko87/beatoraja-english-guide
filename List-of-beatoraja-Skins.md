@@ -7,7 +7,9 @@ To search for skins for a specific menu, you can search for the menu type with C
 
 Not all of the skins listed have screenshots. That is because the author did not provide screenshots, and I am too lazy to take screenshots on my own. If anyone has tried those skins, it would be nice if you could contribute some screenshots.
 
-**Note:** There is another list of beatoraja skins (in JP) here: https://w.atwiki.jp/laser_bm/pages/129.html
+Other lists of beatoraja skins:
+- https://mirais-station.hatenablog.com/entry/2021/01/21/180000
+- https://w.atwiki.jp/laser_bm/pages/129.html
 
 # Contents
 - [List of beatoraja Skins](#list-of-beatoraja-skins)
