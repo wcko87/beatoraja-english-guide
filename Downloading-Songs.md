@@ -95,7 +95,7 @@ The event packs can usually be found in the respective event websites. However, 
 These pages have a couple of event pack downloads:
 - [package.bms.ms](https://package.bms.ms/) (Archive of packs from both old and recent events)
 - [bms-community.github.io event packs](https://bms-community.github.io/resources/#event-packs) (Lists some event pack downloads)
-- [blog.polyohm.net](https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html) (Collection of BMS of Fighters packs, from BOF2009 - BOFXV (2019). Use the multi-part downloads.)
+- [blog.polyohm.net](https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html) (Collection of BMS of Fighters packs, from BOF2009 - BOFXVI (2020). Use the multi-part downloads.)
 
 Do note that the number of BMS events (and event packs) can be quite overwhelming. For starters, I recommend starting with the more recent BMS of Fighters (BOF) events like G2R2018, as BOF is the biggest event held each year.
 
