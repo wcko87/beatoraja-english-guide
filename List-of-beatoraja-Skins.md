@@ -100,7 +100,9 @@ Supports:
 
 Made by hij_san
 
-DL: https://twitter.com/hij_san/status/1348555290648535043
+DL: https://twitter.com/hij_san/status/1352909799759859714
+
+Updates: https://twitter.com/search?q=hij_simple%20from%3Ahij_san&src=typed_query&f=live
 
 ![](https://pbs.twimg.com/media/EppwRpzUYAI5N_k?format=jpg&name=small)
 
