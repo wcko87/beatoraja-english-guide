@@ -25,6 +25,7 @@ Note that judge timings and gauges in beatoraja differ slightly from LR2. There 
 - [Download beatoraja from here](https://mocha-repository.info/download.php).
 - Make sure you download the beatoraja release from [Mocha Repository](https://mocha-repository.info/download.php), not the source code from Github!
 - If `beatoraja.jar` is absent from your beatoraja directory, you probably downloaded the source code instead of the program itself.
+- If you downloaded the ".exe" version of beatoraja (available from 0.8.1 onwards), you may have issues applying the [Locale Fix](#locale-fix) later. You can still apply the Locale fix, but you need to download the [beatoraja-config.bat](https://raw.githubusercontent.com/exch-bms2/beatoraja/master/beatoraja-config.bat) file separately and place it in your beatoraja folder.
 
 #### 3. Run beatoraja
 - Run beatoraja by starting `beatoraja-config.bat`. Do not run beatoraja by launching the beatoraja.jar directly. If you wish to make a shortcut, point the shortcut to `beatoraja-config.bat`.
