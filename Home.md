@@ -41,9 +41,9 @@ As BMS has a largely Japanese community, there's a high chance that you might ru
 Not being on the correct locale can cause some issues in beatoraja. Most of the time, if you are experiencing crashes in beatoraja, it is due to a locale issue. Thankfully, there is an easy fix for all these crashes.
 
 The problems locale issues will cause:
-- On skins like LITONE5 which have option names in Japanese, these option names will not save. When beatoraja is closed, the skin-specific settings will be reset.
+- On skins like ModernChic or LITONE5 which have option names in Japanese, these option names will not save. When beatoraja is closed, the skin-specific settings will be reset.
 - On skins like LITONE5 which have folder names in Japanese, beatoraja might not be able to access resources inside those folders, and this can cause beatoraja to crash.
-- If you load a bms with file or folder names in Japanese characters, certain parts of the bms may not load properly. Playing the bms twice in a row may cause beatoraja to crash.
+- If you load a bms with file or folder names containing Japanese characters or garbled characters, certain parts of the bms may not load properly. Playing the bms twice in a row may cause beatoraja to crash.
 
 
 ### Fixing locale issues
