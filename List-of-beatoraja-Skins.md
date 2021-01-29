@@ -338,6 +338,20 @@ DL: https://twitter.com/Azuruff/status/1311461871308869632
 
 
 ------------------------
+## WFIX (WMIX HD for beatoraja)
+Supports:
+- Play (7Keys, 14Keys)
+
+A popular LR2 play skin ported to beatoraja.
+
+DL: https://marysiamzawka.github.io/2021/01/22/wmix-beatoraja.html
+
+![](https://marysiamzawka.github.io/assets/wmix/screen1.jpg)
+
+![](https://marysiamzawka.github.io/assets/wmix/screen4.jpg)
+
+
+------------------------
 ## EndlessCirculation P-Play
 Supports:
 - Play (9Keys)
