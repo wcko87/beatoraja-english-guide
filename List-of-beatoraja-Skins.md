@@ -473,6 +473,11 @@ This page also lists some LR2 skins (download links only):
 - https://bms-community.github.io/resources/#skins
 
 # Using LR2 Skins in beatoraja
+
+External references / More information:
+- (EN) by Mr. Mary: https://marysiamzawka.github.io/2021/01/22/lr2-skins-beatoraja.html
+- (JP) by Asa_otoge: https://asa-otoge.hatenablog.com/entry/2020/05/29/142421
+
 beatoraja supports the skin format used by LR2, so LR2 skins can be used in beatoraja. In practice,
 - **Play/Decide/Result Skins**: most skins will work almost perfectly (only minor graphical bugs), but may require a few small fixes, described below.
 - **Music Select Skins**: Music Select skins made for LR2 should not be used in beatoraja, as the underlying mechanics are very different in LR2, making the skins pretty much unusable beyond selecting songs.
