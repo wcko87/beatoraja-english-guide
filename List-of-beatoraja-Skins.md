@@ -342,7 +342,7 @@ DL: https://twitter.com/Azuruff/status/1311461871308869632
 Supports:
 - Play (7Keys, 14Keys)
 
-A popular LR2 play skin ported to beatoraja.
+A popular LR2 skin ported to beatoraja. Play skin only.
 
 DL: https://marysiamzawka.github.io/2021/01/22/wmix-beatoraja.html
 
