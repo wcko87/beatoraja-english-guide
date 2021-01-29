@@ -216,6 +216,18 @@ Update History: [Twitter - beatoraja用24鍵 by @mnpyprrn](https://twitter.com/s
 ![](https://pbs.twimg.com/media/D6VGt_tUYAALN1z?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/D6VGuhpUYAARdwp?format=jpg&name=small)
 
+
+------------------------
+## Blanket
+Supports:
+- Result
+
+A result screen with customizable panes. Currently in an early stage of development, so there isn't much customizability at the moment.
+
+DL: https://github.com/ovnz/blanket
+
+![](https://raw.githubusercontent.com/ovnz/blanket/main/screenshot/2.png)
+
 ------------------------
 ## RESULT SIMPLE FM
 Supports:
