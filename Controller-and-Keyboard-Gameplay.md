@@ -377,6 +377,7 @@ Places to buy springs: https://rhythm-cons.wiki/w/Springs
 - **Light:** 50/20, i.e. 50g switch and 20g spring
 - **Medium:** 50/60, i.e. 50g switch and 60g spring
 - **Heavy:** 100/60, i.e. 100g switch and 60g spring
+
 (remark: the switch/spring notation is reversed in Japan)
 
 Advantage of lighter setups:
