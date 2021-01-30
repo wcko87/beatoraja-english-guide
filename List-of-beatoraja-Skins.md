@@ -343,8 +343,11 @@ Supports:
 - Play (7Keys, 14Keys)
 
 A popular LR2 skin ported to beatoraja. Play skin only.
+- Note: This is a patch for the original WMIX skin - the original WMIX skin must be downloaded first.
 
 DL: https://marysiamzawka.github.io/2021/01/22/wmix-beatoraja.html
+
+Download the original WMIX from here: https://onedrive.live.com/?cid=E92E2372413C5A12&id=E92E2372413C5A12%21387
 
 ![](https://marysiamzawka.github.io/assets/wmix/screen1.jpg)
 
