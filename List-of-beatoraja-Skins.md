@@ -340,7 +340,7 @@ DL: https://twitter.com/Azuruff/status/1311461871308869632
 ------------------------
 ## WFIX (WMIX HD for beatoraja)
 Supports:
-- Play (7Keys, 14Keys)
+- Play (5Keys, 7Keys, 10Keys, 14Keys)
 
 A popular LR2 skin ported to beatoraja. Play skin only.
 - Note: This is a patch for the original WMIX skin - the original WMIX skin must be downloaded first.
