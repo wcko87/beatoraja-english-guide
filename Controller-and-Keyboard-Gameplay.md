@@ -66,7 +66,7 @@ It may be a good idea to remove the keys surrounding the keys being used (especi
 
 ---------
 ## Dual Scratching
-Dual scratching refers to using two keys for the scratch lane. Dual scratching is useful and sometimes necessary if the scratches are too fast to play as jacks.
+In keyboard play, **dual scratching** refers to using two keys for the scratch lane. Dual scratching is useful and sometimes necessary if the scratches are too fast to play as jacks.
 
 ![dual_scratching](https://user-images.githubusercontent.com/27341392/103445925-f2713480-4cbc-11eb-9788-faf92235d6f8.png)
 
