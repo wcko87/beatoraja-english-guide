@@ -8,7 +8,7 @@ This guide has absolutely nothing to do with beatoraja. It's a guide for making 
 
 ----------
 ## Word of Warning
-**PLEASE DO NOT CHART ILLEGAL BMS**. This refers to activities like taking a song that you do not own (from outside of the BMS community), and making a chart for it with silent keysounds. Using music that you do not own the rights to is illegal and the BMS community is against this sort of behavior. Even if it is a song you had made yourself, please properly keysound it when making it into a BMS.
+**PLEASE DO NOT CHART ILLEGAL BMS**. This refers to activities like taking a song that you do not own (from outside of the BMS community), and making a chart for it (e.g. with silent keysounds). Using music that you do not own the rights to is illegal and the BMS community is against this sort of behavior. Even if it is a song you had made yourself, please properly keysound it when making it into a BMS.
 
 (Note that all of the music used in BMS is made internally, by members of the BMS community. We do not source music through illegal means.)
 
