@@ -144,6 +144,7 @@ However, in beatoraja, each key actually has a slightly different purpose.
 ----------
 # Common Issues
 
+**Note:** I plan to create a more detailed troubleshooting page in future. In the meantime, there's the [Discussions](https://github.com/wcko87/beatoraja-english-guide/discussions) tab where I can try to provide a bit of tech support if your issue isn't listed below.
 
 ### Can't start up beatoraja - beatoraja-config.bat opens and closes instantly
 
