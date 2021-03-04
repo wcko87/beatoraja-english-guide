@@ -41,8 +41,10 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 
     Re-scans the selected folder for new/updated songs/charts.
 - **F3**: Open folder which contains selected song with system file viewer 
-- **F8**: Set song as favorite song
-- **F9**: Set chart as favorite chart
+- **F8**: Set song as favorite song. Press again to hide song from view.
+  - Note: Hidden songs will not be displayed in the song wheel. Hidden songs can be found and restored to their normal status by accessing the INVISIBLE SONGS folder.
+- **F9**: Set chart as favorite chart. Press again to hide chart from view.
+  - See note for F8. The INVISIBLE CHARTS folder is used instead.
 - **F10**: Autoplay all songs in folder
 - **F11**: Open chart page in the primary IR
 - **F12**: Open skin settings
