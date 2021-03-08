@@ -58,7 +58,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **7 KEY**: Start chosen replay.
 
     In the decide screen after starting a replay,
-    - Hold KEY 2 to play the song on the same random instead of watching the replay. Does not save scores.
+    - Hold KEY 2 to play the song on the same random instead of watching the replay.
     - Hold KEY 3 to play the song on the same options instead of watching the replay. Does not save scores.
     - Hold KEY 5 to play the song on the same hi-speed settings instead of watching the replay. Does not save scores.
     - Hold KEY 6 to watch the replay, but on 1 gauge higher than what's used in the replay.
