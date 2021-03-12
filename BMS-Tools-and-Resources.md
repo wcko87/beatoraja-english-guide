@@ -1,3 +1,5 @@
+[**Discussion thread for this Wiki page**](https://github.com/wcko87/beatoraja-english-guide/discussions/27)
+
 ## Contents
 - [BMS Players](#bms-players)
 - [BMS Event (and related) Websites](#bms-event-and-related-websites)
