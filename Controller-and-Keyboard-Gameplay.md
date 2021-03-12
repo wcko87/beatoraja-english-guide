@@ -1,3 +1,5 @@
+[**Discussion thread for this Wiki page**](https://github.com/wcko87/beatoraja-english-guide/discussions/22)
+
 ## Contents
 - [Keyboard Gameplay](#keyboard-gameplay)
   - [Keyboard Layouts](#keyboard-layouts)
