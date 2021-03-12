@@ -1,5 +1,7 @@
 This page lists beatoraja-specific skins.
 
+[**Discussion thread for this Wiki page**](https://github.com/wcko87/beatoraja-english-guide/discussions/20)
+
 **Note:** You can mix and match skins. The skin is chosen separately for each menu type.
 - For example, not many skins support the Course Result screen, so it might be worth picking up one of the skins that supports it just for the Course Result screen.
 
