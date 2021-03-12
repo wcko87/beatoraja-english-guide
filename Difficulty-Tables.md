@@ -1,3 +1,5 @@
+[**Discussion thread for this Wiki page**](https://github.com/wcko87/beatoraja-english-guide/discussions/26)
+
 ## Contents:
 - [Difficulty Rating System](#difficulty-rating-system)
 - [What are Difficulty Tables?](#what-are-difficulty-tables)
