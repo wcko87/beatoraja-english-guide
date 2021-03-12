@@ -21,6 +21,35 @@ Other lists of beatoraja skins:
 ------------------------
 
 # List of beatoraja Skins
+Listed in no particular order.
+
+- [**Brook**](#brook) (All in one)
+- [**ModernChic**](#modernchic) (All in one when including ModernChicPlay)
+  - [**ModernChicPlay (SCURO)**](#modernchicplay-scuro)
+- [**hij Simple**](#hij-simple) (All in one)
+- [**LITONE5**](#litone5) (All in one)
+- [**Unnamed skin by Fez_ike (自作beatorajaスキン)**](#unnamed-skin-by-fez_ike-自作beatorajaスキン) (All in one)
+- [**Unnamed skin 2 by Fez_ike**](#unnamed-skin-2-by-fez_ike) (Music Select)
+- [**m-select**](#m-select) (Music Select / All in one)
+- [**Simple 7Keys**](#simple-7keys) (Play skin)
+- [**Wide 24Keys**](#wide-24keys) (Play skin)
+- [**Blanket**](#blanket) (Result)
+- [**RESULT SIMPLE FM**](#result-simple-fm) (Result)
+  - [**RESULT "NOT" SIMPLE FM**](#result-not-simple-fm) (Result)
+- [**Duplex**](#duplex) (Play skin)
+- [**SocialSkin**](#socialskin) (Music Select, Result)
+  - [**"Glass Style" Result Skin**](#glass-style-result-skin) (Result)
+- [**FHD (Double Play) Skin by THULIUM**](#fhd-double-play-skin-by-thulium) (All in one, DP only)
+- [**BeatPop**](#beatpop) (Play skin)
+- [**WFIX (WMIX HD for beatoraja)**](#wfix-wmix-hd-for-beatoraja) (Play skin)
+- [**EndlessCirculation P-Play**](#endlesscirculation-p-play) (Play skin)
+- [**DarkTheme**](#darktheme) (?)
+- [**24K keyboard-like skin for beatoraja**](#24k-keyboard-like-skin-for-beatoraja) (Play skin)
+- [**50K keyboard-like skin for beatoraja**](#50k-keyboard-like-skin-for-beatoraja) (Play skin)
+- [**Remi-oraja**](#remi-oraja) (Play skin)
+- [**EndlessCirculation patch**](#endlesscirculation-patch) (?)
+
+
 
 ## Brook
 Supports:
@@ -41,29 +70,69 @@ DL: https://isocosa.neocities.org/bms_skins.html
 
 ![](https://isocosa.neocities.org/BMS/skins/brook_3.png)
 
-
 ------------------------
-## Unnamed skin by Fez_ike (自作beatorajaスキン)
+## ModernChic
 Supports:
 - Music Select
 - Decide
 - Result
-- Play (5Keys, 7Keys, 9Keys, 10Keys, 14Keys)
-- Course Result
 
-Note: literally translates to "self-made beatoraja skin".
+Full HD Music-select + Decide skins by KASAKO.
 
-Similar to Brook, this skin also covers all bases.
+Includes English translation.
 
-DL: https://drive.google.com/drive/u/0/folders/1fiKcwXvOeCf7UvAmwoejyjbK9IIBvAV9
+Included with beatoraja (0.8.0 onwards) by default.
 
-Creator's Website: http://fezikedifficulty.futene.net/
+DL: https://www.kasacontent.com/musicgame/beatoraja/4194/
 
-Video:
-https://youtu.be/_aA6KgpepcU
+Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
 
+![](https://pbs.twimg.com/media/EUG5qgCUEAIoUZ_?format=jpg&name=small)
 
-![](https://img.youtube.com/vi/_aA6KgpepcU/maxresdefault.jpg)
+![](https://pbs.twimg.com/media/EOJx0VOU8AA6HMy.png:small)
+
+![](https://pbs.twimg.com/media/EUG5q8rU0AAe2tB?format=jpg&name=small)
+
+------------------------
+## ModernChicPlay (SCURO)
+Supports:
+- Play (5Keys, 7Keys, 10Keys, 14Keys)
+
+Full HD Play skin by KASAKO. Now includes support for DP.
+
+Included with beatoraja (0.8.0 onwards) by default.
+
+DL: https://www.kasacontent.com/musicgame/beatoraja/4226/
+
+Tweet: https://twitter.com/kasakonkon/status/1269208933215768576
+
+![](https://pbs.twimg.com/media/EZ0igUQU8AAshJ4?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/EZ0ii9GUMAEPJFG?format=jpg&name=small)
+
+![](https://img.youtube.com/vi/Axlhk23Sz1w/hqdefault.jpg)
+
+------------------------
+## hij Simple
+Supports:
+- Music Select
+- Decide
+- Play (7Keys, 14Keys)
+- Result
+
+Made by hij_san
+
+DL: https://twitter.com/hij_san/status/1352909799759859714
+
+Updates: https://twitter.com/search?q=hij_simple%20from%3Ahij_san&src=typed_query&f=live
+
+![](https://pbs.twimg.com/media/EppwRpzUYAI5N_k?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/EppwRpwVQAI2xYD?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/EppwRqKUYAAZDi-?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/Erb9VOQVQAIMTZC?format=jpg&name=small)
 
 
 ------------------------
@@ -89,69 +158,39 @@ DL: https://desout2.tk/litone5-beatoraja/
 
 ![](https://desout2.tk/wp-content/themes/desout2/images/beatoraja-litone5-0.9-preview3.jpg)
 
-
 ------------------------
-## hij Simple
+## Unnamed skin by Fez_ike (自作beatorajaスキン)
 Supports:
 - Music Select
 - Decide
-- Play (7Keys, 14Keys)
 - Result
+- Play (5Keys, 7Keys, 9Keys, 10Keys, 14Keys)
+- Course Result
 
-Made by hij_san
+Note: literally translates to "self-made beatoraja skin".
 
-DL: https://twitter.com/hij_san/status/1352909799759859714
+Similar to Brook, this skin also covers all bases.
 
-Updates: https://twitter.com/search?q=hij_simple%20from%3Ahij_san&src=typed_query&f=live
+DL: https://drive.google.com/drive/u/0/folders/1fiKcwXvOeCf7UvAmwoejyjbK9IIBvAV9
 
-![](https://pbs.twimg.com/media/EppwRpzUYAI5N_k?format=jpg&name=small)
+Creator's Website: http://fezikedifficulty.futene.net/
 
-![](https://pbs.twimg.com/media/EppwRpwVQAI2xYD?format=jpg&name=small)
+Video:
+https://youtu.be/_aA6KgpepcU
 
-![](https://pbs.twimg.com/media/EppwRqKUYAAZDi-?format=jpg&name=small)
 
-![](https://pbs.twimg.com/media/Erb9VOQVQAIMTZC?format=jpg&name=small)
+![](https://img.youtube.com/vi/_aA6KgpepcU/maxresdefault.jpg)
 
 ------------------------
-## ModernChic
-Supports:
+## Unnamed skin 2 by Fez_ike
+Support:
 - Music Select
-- Decide
 
-Full HD Music-select + Decide skins by KASAKO.
+Only supports music select at the moment.
 
-Included with beatoraja (0.8.0 onwards) by default.
+DL: https://twitter.com/Fez_ike/status/1366040919384813574
 
-DL: https://www.kasacontent.com/musicgame/beatoraja/4194/
-
-Twitter: https://twitter.com/kasakonkon/status/1243481395080486914
-
-![](https://pbs.twimg.com/media/EUG5qgCUEAIoUZ_?format=jpg&name=small)
-
-![](https://pbs.twimg.com/media/EOJx0VOU8AA6HMy.png:small)
-
-![](https://pbs.twimg.com/media/EUG5q8rU0AAe2tB?format=jpg&name=small)
-
-
-------------------------
-## ModernChicPlay (SCURO)
-Supports:
-- Play (5Keys, 7Keys, 10Keys, 14Keys)
-
-Full HD Play skin by KASAKO. Now includes support for DP.
-
-Included with beatoraja (0.8.0 onwards) by default.
-
-DL: https://www.kasacontent.com/musicgame/beatoraja/4226/
-
-Tweet: https://twitter.com/kasakonkon/status/1269208933215768576
-
-![](https://pbs.twimg.com/media/EZ0igUQU8AAshJ4?format=jpg&name=small)
-
-![](https://pbs.twimg.com/media/EZ0ii9GUMAEPJFG?format=jpg&name=small)
-
-![](https://img.youtube.com/vi/Axlhk23Sz1w/hqdefault.jpg)
-
+![](https://pbs.twimg.com/media/EvUl0X9VcAMDBmh?format=jpg&name=small)
 
 ------------------------
 ## m-select
@@ -412,9 +451,14 @@ EndlessCirculation: https://drive.google.com/file/d/1X153J9iyd7Iq6lryP5p1As97jYf
 
 
 # Skin Modifications
-This section lists unofficial skin modifications that some people have made.
+This section lists some unofficial skin modifications that some people have made.
 
 More will be added to this section later on.
+
+### List of Skin Modifications
+- [**Different Judge Fonts and Note Skins for ModernChicPlay**](#different-judge-fonts-and-note-skins-for-modernchicplay)
+- [**LITONE5 Table Font Color Replacements**](#litone5-table-font-color-replacements)
+
 
 ## Different Judge Fonts and Note Skins for ModernChicPlay
 Adds judge fonts to ModernChicPlay from older BMS players like LR2, nazoBMplay and BM98. Made by AOiRO_Manbow.
