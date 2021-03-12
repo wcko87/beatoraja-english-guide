@@ -90,7 +90,7 @@ Personally, I like to set Replay1 to "Always" (my most recent replay), Replay3 t
 
 ----------
 ## SUDDEN+, HI-SPEED, Green Number
-Explanation of these settings: [Green Number](Green-Number)
+Explanation of these settings: [Scroll Speed and Green Number](Scroll-Speed-and-Green-Number)
 
 #### In config menu
 These can be configured in the `Play Option` tab.
@@ -125,7 +125,7 @@ Offset can be adjusted when holding START+SELECT.
 
 ----------
 ## Hidden and Lift
-Explanation of these settings: [Hidden and Lift](Green-Number#hidden-and-lift)
+Explanation of these settings: [Hidden and Lift](Scroll-Speed-and-Green-Number#hidden-and-lift)
 
 #### In config menu
 Hidden/lift can be enabled/configured in the `Play Option` tab.
@@ -204,7 +204,7 @@ Hold START to configure your Random and Gauge settings.
 ## Scroll Speed Fix
 NOTE: This is not the same as the constant scroll speed assist option.
 
-This matters for songs with BPM changes. Your [green number](Green-Number) is saved between songs, so that the scroll speed you play at is fixed between songs. However, for songs where the BPM (and thus scroll speed) changes, one needs to decide which BPM to fix your desired scroll speed to.
+This matters for songs with BPM changes. Your [green number](Scroll-Speed-and-Green-Number) is saved between songs, so that the scroll speed you play at is fixed between songs. However, for songs where the BPM (and thus scroll speed) changes, one needs to decide which BPM to fix your desired scroll speed to.
 
 tl;dr: Set this to "Main BPM" and you'll almost never need to think about this again.
 

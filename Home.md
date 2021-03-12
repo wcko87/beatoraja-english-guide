@@ -120,7 +120,7 @@ Before the song starts, the game gives you some time to adjust your scroll speed
 - Hold SELECT + turn turntable to adjust green number (related to scroll speed)
 
 The song will not start until you have finished adjusting.
-A full explanation on sudden+, scroll speed and green number is given here: [Green Number](Green-Number)
+A full explanation on sudden+, scroll speed and green number is given here: [Scroll Speed and Green Number](Scroll-Speed-and-Green-Number)
 
 
 ----------
