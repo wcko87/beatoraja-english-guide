@@ -30,7 +30,7 @@ Sabuns may be made to cover difficulties outside of the original charts, differe
 
 When trying to look for charts (e.g. Calamity Fortune [F]), you'll find that many of the charts you need are sabuns. This is espcially true if you are playing in the insane difficulty range (★1 and above).
 
-When trying download and play a sabun like Calamity Fortune [F], you usually will encounter two download links - one for the base song (本体), and one for the sabun (差分). If you don't already have the song, you need to download both. Typically, the song folder is large (easily 30+MB), while the sabuns, being simple .bms text files, are small (a couple of kilobytes). Add the sabun to the song folder to play it.
+When trying download and play a sabun like Calamity Fortune [F], you usually will encounter two download links - one for the base BMS song (本体), and one for the sabun (差分). If you don't already have the song, you need to download both. The download for the base BMS is typically hosted by the composer themself. Also, the base song folder is usually large (easily 30+MB due to keysound files), while the sabuns, being simple .bms text files, are small (a couple of kilobytes). Add the sabun to the song folder to play it.
 
 ##### tl;dr
 1. Download both base song (本体) and additional chart (sabun - 差分).
