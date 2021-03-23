@@ -1,4 +1,4 @@
-**Note:** If you have problems or questions about beatoraja or BMS, **don't create issues on the beatoraja repository!** beatoraja's issue tracker is not for troubleshooting. Make a post on the [Discussions Page](https://github.com/wcko87/beatoraja-english-guide/discussions) here instead.
+**Note:** If you have problems or questions about beatoraja or BMS, **don't create issues in beatoraja's issue tracker!** The issue tracker is not for troubleshooting. Make a post on the [Discussions Page](https://github.com/wcko87/beatoraja-english-guide/discussions) here instead.
 
 # What is beatoraja?
 
