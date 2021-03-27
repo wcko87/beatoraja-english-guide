@@ -212,9 +212,7 @@ Tweet: https://twitter.com/mnpyprrn/status/1195650386499010561
 
 Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E9%81%B8%E6%9B%B2%E3%82%B9%E3%82%AD%E3%83%B3%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
 
-![](https://pbs.twimg.com/media/EJfNr4mUEAA4duW?format=jpg&name=small)
-![](https://pbs.twimg.com/media/EYdt1sLUEAUmT9U?format=jpg&name=small)
-![](https://pbs.twimg.com/media/Ead_NXDVcAExyRu?format=jpg&name=small)
+![](https://pbs.twimg.com/media/EsLVzaEUYAUJXZO?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/Ep2bo_0WMAE6rT8?format=jpg&name=small)
 
 ------------------------
@@ -233,7 +231,7 @@ Tweet: https://twitter.com/mnpyprrn/status/1249266263441862658
 
 Update History: [Twitter - beatoraja用7鍵 by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A87%E9%8D%B5%20(from%3A%40mnpyprrn)&f=live)
 
-![](https://pbs.twimg.com/media/EtY-Fl9UYAYBQPy?format=jpg&name=medium)
+![](https://pbs.twimg.com/media/EtY-Fl9UYAYBQPy?format=jpg&name=small)
 
 ------------------------
 ## Wide 24Keys
