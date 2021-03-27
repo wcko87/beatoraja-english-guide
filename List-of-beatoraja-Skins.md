@@ -233,11 +233,7 @@ Tweet: https://twitter.com/mnpyprrn/status/1249266263441862658
 
 Update History: [Twitter - beatoraja用7鍵 by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A87%E9%8D%B5%20(from%3A%40mnpyprrn)&f=live)
 
-![](https://pbs.twimg.com/media/EB7eI2YU0AEkC_T?format=jpg&name=small)
-
-![](https://pbs.twimg.com/media/ENG9Vq1U8AA03wA?format=jpg&name=small)
-
-![](https://pbs.twimg.com/media/EB7eI2VU4AENXmR?format=jpg&name=small)
+![](https://pbs.twimg.com/media/EtY-Fl9UYAYBQPy?format=jpg&name=medium)
 
 ------------------------
 ## Wide 24Keys
