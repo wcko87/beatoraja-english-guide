@@ -1,6 +1,6 @@
 # How to Use Practice Mode
 
-Practice mode can be started by pressing **KEY 3** instead of **KEY 1** to start the song. Practice mode settings are changed with the arrow keys.
+Practice mode can be started by pressing **KEY 3** instead of KEY 1 to start the song. Practice mode settings are changed with the arrow keys.
 
 In practice mode, you can try out a song under different settings (e.g. freq, total, judgerank), or play specific parts of songs.
 
