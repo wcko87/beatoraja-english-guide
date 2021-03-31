@@ -16,11 +16,9 @@ A feature allowing players to declare the difficulty and comment on the charts t
 Users can create collections and courses which others can subscribe to via the mocha website, which adds those folders to the music select screen.
 
 ### Gauge Auto Shift
-Mocha treats clears submitted using Gauge Auto Shift differently than the other IR services:
-- The first score submitted to IR will register with the achieved clear lamp in all cases.
-- Subsequent scores will only update the lamp on the IR if the clear achieved is equivalent to the selected gauge, otherwise it will register as an assist clear.
+Scores obtained with Gauge Auto Shift will be marked with a * in Mocha's website. Only you can see the *.
 
-For example, if IR already has a normal clear and you want to update the IR lamp to a hard clear, you will need to select the hard gauge and clear for the IR lamp to update. Achieving a better clear than the selected gauge (ex-hard instead of hard) will still register as an assist clear on the IR.
+(It used to be the case that Gauge Auto Shift clears would register as assist clears on MochaIR. This is no longer the case - they now count normally as clears.)
 
 ----------
 # 2. [MinIR](https://www.gaftalk.com/minir/)
