@@ -16,7 +16,7 @@ A feature allowing players to declare the difficulty and comment on the charts t
 Users can create collections and courses which others can subscribe to via the mocha website, which adds those folders to the music select screen.
 
 ### Gauge Auto Shift
-Scores obtained with Gauge Auto Shift will be marked with a * in Mocha's website. Only you can see the *.
+Scores obtained with [Gauge Auto Shift](Configuration#gauge-auto-shift) will be marked with a * in Mocha's website. Only you can see the *.
 
 (It used to be the case that Gauge Auto Shift clears would register as assist clears on MochaIR. This is no longer the case - they now count normally as clears.)
 
