@@ -141,42 +141,15 @@ See:
 # Tools for beatoraja
 
 ### (Software) [beatoraja Preview Audio Generator](https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases)
+- [Usage Guide (English)](https://github.com/wcko87/beatoraja-english-guide/discussions/33)
+
 A song preview is a snippet of the song that plays when you hover over the song in music select. Previews can be very helpful in deciding which song to play.
 
 However, beatoraja only plays previews of BMS's that have preview files. This is because all BMS are fully keysounded, and as it can take a long time to load all the keysounds just to preview what a song sounds like, one might as well just load up the song itself on autoplay and listen to it.
 
 This can be awkward as not all BMS artists will make preview files for their songs (especially since preview files don't work in LR2). Thankfully, beatoraja has a hidden feature - if there is a file in the song folder with "preview" as a prefix (and any of the common extensions like .ogg, .mp3, .wav) and the chart does not already have a pre-defined preview, it will automatically use that file as a preview.
 
-The **BMS Preview Audio Generator** can be downloaded here: https://github.com/MikiraSora/BmsPreviewAudioGenerator/releases.
-
-This generator will generate preview files for your entire BMS directory. By default, the generated preview files will be named `preview_auto_generator.ogg`, which will be auto-played by beatoraja. If the song already has a preview, the preview auto generator will skip over the song.
-
-**Note:** If you get the error "missing hostfxr.dll", install [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1).
-
-**Note 2:** The preview generator may fail if your system language is set to Polish.
-
-#### How to use the Preview Audio Generator:
-Open command prompt in the same folder as the audio generator and run:
-```
-.\BmsPreviewAudioGenerator.exe -batch -path="D:\bms\song\BOFU2016" -start="20000" -end="40000" -save_name="preview_auto_generator.ogg" -support_extend_format -fade_in="1000" -fade_out="2000"
-```
-Where D:\bms\song\BOFU2016 should be replaced with the directory you wish to target.
-
-Configuration options:
-- `-start="20000" -end="40000"` means the preview will be from time 0:20 to 0:40 in the song.
-  - You might prefer a longer preview, e.g. by replacing end="40000" with end="50000" or end="60000". Longer previews take a little more space on the hard drive. Typical 30s previews takes up about 400-500KB per song.
-- `-fade_in="1000" -fade_out="2000"` means the first 1s of the preview will be spent fading in, and the last 2s of the preview will be spent fading out. This way, your preview won't loop abruptly. To disable fade in/out, remove this part of the command.
-
-#### Making the previews show up in beatoraja:
-You might notice that using F2 to refresh a folder will not make the previews show up even after you have generated the previews. The typical solution is to rebuild the BMS database to make the previews show up. However this can take a long time to do, and there is a faster workaround:
-
-Suppose that you have generated previews for your "BOFU2016" folder. Follow these steps to refresh the previews on your BOFU2016 folder:
-1. Navigate to your BOFU2016 folder in explorer (one easy way is to use F3 from beatoraja to open the folder in explorer. Alt+Up can be used to go to the parent folder.)
-2. Rename your BOFU2016 folder to something else (e.g. BOFU2016_TEMP)
-3. Create a new, empty folder named "BOFU2016" where your BOFU2016 previously was. This folder is to trick beatoraja into thinking your BOFU2016 folder has been emptied.
-4. Within beatoraja, press F2 on the BOFU2016 folder to refresh it. This should clear out your BOFU2016 folder in game.
-5. Now delete the empty BOFU2016 folder and rename your original BOFU2016 folder back to BOFU2016.
-6. Now back in beatoraja, press F2 on the BOFU2016 folder again. This should restore all the BOFU2016 songs in game, and with previews this time.
+Please read the [Usage Guide](https://github.com/wcko87/beatoraja-english-guide/discussions/33) for using the preview audio generator before using it.
 
 
 ### (Website) beatoraja Internet Ranking Websites
