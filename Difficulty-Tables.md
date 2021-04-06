@@ -169,6 +169,8 @@ All of these dan courses include a contraint that forces beatoraja to use the LR
 ----------
 # Recommended Difficulty Tables
 
+See: [Comparison of "Standard" 7Keys Difficulty Tables](https://github.com/wcko87/beatoraja-english-guide/discussions/17)
+
 The following three tables cover the full range of BMS levels, and are highly recommended because they feature modern BMS songs with generally high-quality charts. Refer to the [Difficulty Rating System](#difficulty-rating-system) section for examples of charts in these difficulty ranges.
 ### [Ikeda's Beginner Difficulty table](http://fezikedifficulty.futene.net/list.html)
  - Covers levels in the normal range, specifically ☆1-☆11
