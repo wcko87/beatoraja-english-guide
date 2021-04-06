@@ -245,6 +245,29 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 - A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
 - Charts are rated on a scale of st0-st11. Covers the level range ★19 and up, as well as the overjoy difficulty range.
 
+## Turbow (RECOMMENDED)
+
+## [Turbow's BMS Library](https://exturbow.github.io/github.io/index.html)
+- A table that rates basically all charts from recent BMS events. A very good table to have when playing through recent events.
+- Includes both normal scale (☆11 and below) and insane scale (★1 and up) charts.
+- More gimmicky or "spicy" charts are assigned ratings like "☆?" instead of standard rating numbers. Charts may also be explicitly marked as scratch, jack or LN charts in the table.
+- Uses a different level system from the standard normal/insane scales.
+
+<details>
+<summary><b>Turbow Level System (CLICK TO VIEW):</b></summary>
+
+- "T☆B": ☆1-3
+- "T☆1": ☆4-6
+- "T☆2": ☆6-7
+- "T☆3": ☆7-8
+- "T☆4": ☆8-9
+- "T☆5": ☆10
+- "T☆6": ☆11
+- "T★1 - T★12": refers to sl1-sl12
+- "T★★0 - T★★11": refers to st0-st11
+
+</details>
+
 ## Hex's Insane Chart Collections (RECOMMENDED)
 
 ### [Hex's Insane Chart Database](https://bms.hexlataia.xyz/tables/db.html)
