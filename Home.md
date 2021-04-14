@@ -59,7 +59,9 @@ Method 2 is highly recommended. If you are running beatoraja using the UTF-8 enc
 **Note:** Opening .zip files is another reason frequently cited for switching to JP locale. Switching just for this reason is not recommended however, as there are better solutions to this. [More info here - locale issues when opening zip files](Downloading-Songs#locale-issues-when-opening-zip-files).
 
 ### How to run beatoraja with UTF-8 encoding
-- **Note:** If you don't want to try applying the fix manually, you can just replace your `beatoraja-config.bat` file with this file [over here](https://github.com/wcko87/beatoraja-english-guide/tree/resources/beatoraja-configs), which already has the fix applied.
+- **Remark:** If you don't want to try applying the fix manually, you can instead just replace your `beatoraja-config.bat` file with this file [over here](https://github.com/wcko87/beatoraja-english-guide/tree/resources/beatoraja-configs), which already has the fix applied.
+
+The UTF-8 fix is applied by making a simple edit to the `beatoraja-config.bat` file. (Note that `beatoraja-config.bat` is what you are using to open beatoraja).
 
 Open up `beatoraja-config.bat` (or `beatoraja-config.command`, depending on which you use to start beatoraja), and add `-Dfile.encoding="UTF-8"` to the end of the `_JAVA_OPTIONS=` line.
 
