@@ -214,6 +214,7 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 **Note:** To add these tables to beatoraja (or BeMusicSeeker), use the table links given below.
 
 ## Old Normal / Insane Tables
+These tables generally contains songs up to around 2013. There were a few songs from 2014-2017 that were added more recently, but they are few.
 
 ### [Normal table (☆)](http://www.ribbit.xyz/bms/tables/normal.html)
 - Levels rated from ☆1-☆12. Covers the "IIDX" level range.
@@ -226,28 +227,26 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 - Levels rated from ★★1-★★7. ★★1 corresponds to ★21 and ★★5 corresponds to ★25.
 
 ## New Normal / Insane Tables
+Generally has songs up to 2018 / early 2019.
 
 ### [Normal2 table (▽)](http://rattoto10.jounin.jp/table.html)
 - Similar to the Normal table, but contains more recent songs, and is more frequently updated. Songs rated from ▽1-▽12.
-- Favors **quantity** over quality
 
 ### [Insane2 table (▼)](http://rattoto10.jounin.jp/table_insane.html)
 - Similar to the Insane table, but contains more recent songs, and is more frequently updated. Songs rated from ▼0-▼25.
-- Favors **quantity** over quality
 
 ## Satellite and Stella Tables (RECOMMENDED)
+Modern difficulty table containing songs from the most recent events. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
 
 ### [Satellite table (**sl**)](https://stellabms.xyz/sl/table.html)
-- A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
-- Charts are rated on a scale of sl0-sl12. Covers the level range ☆11-★19.
+- Charts are rated on a scale of sl0-sl12. Covers levels in the insane range, specifically ☆11-★19.
 
 ### [Stella table (**st**)](https://stellabms.xyz/st/table.html)
-- A new table containing many high quality charts. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
 - Charts are rated on a scale of st0-st11. Covers the level range ★19 and up, as well as the overjoy difficulty range.
 
 ## Turbow (RECOMMENDED)
 
-## [Turbow's BMS Library](https://exturbow.github.io/github.io/index.html)
+### [Turbow's BMS Library](https://exturbow.github.io/github.io/index.html)
 - A table that rates basically all charts from recent BMS events. A very good table to have when playing through recent events.
 - Includes both normal scale (☆11 and below) and insane scale (★1 and up) charts.
 - More gimmicky or "spicy" charts are assigned ratings like "☆?" instead of standard rating numbers. Charts may also be explicitly marked as scratch, jack or LN charts in the table.
@@ -265,6 +264,21 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 - "T☆6": ☆11
 - "T★1 - T★12": refers to sl1-sl12
 - "T★★0 - T★★11": refers to st0-st11
+
+</details>
+
+## fez_ike
+
+### [Ikeda's Beginner Difficulty table](http://fezikedifficulty.futene.net/list.html)
+ - Covers levels in the normal range, specifically ☆1-☆11
+ - This level range is split into 19 denominations (田一 to 田十九)
+ - 田一 is approximately ☆1 and 田十九 is approximately ☆11+.
+<details>
+<summary><b>Help I can't read Japanese numbers</b></summary>
+
+|一|二|三|四|五|六|七|八|九|十|十一|十二|十三|十四|十五|十六|十七|十八|十九|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|
 
 </details>
 
