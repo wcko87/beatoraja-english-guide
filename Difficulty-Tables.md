@@ -171,30 +171,42 @@ All of these dan courses include a contraint that forces beatoraja to use the LR
 
 #### See: [Comparison of "Standard" 7Keys Difficulty Tables](https://github.com/wcko87/beatoraja-english-guide/discussions/17)
 
-The following three tables cover the full range of BMS levels, and are highly recommended because they feature modern BMS songs with generally high-quality charts. Refer to the [Difficulty Rating System](#difficulty-rating-system) section for examples of charts in these difficulty ranges.
-### [Ikeda's Beginner Difficulty table](http://fezikedifficulty.futene.net/list.html)
- - Covers levels in the normal range, specifically ☆1-☆11
- - This level range is split into 19 denominations (田一 to 田十九)
- - 田一 is approximately ☆1 and 田十九 is approximately ☆11+.
-<details>
-<summary><b>Help I can't read Japanese numbers</b></summary>
+BMS levels can be roughly divided into three difficulty ranges, Normal, Insane and Overjoy. Refer to the [Difficulty Rating System](#difficulty-rating-system) section for examples of charts in these difficulty ranges.
 
-|一|二|三|四|五|六|七|八|九|十|十一|十二|十三|十四|十五|十六|十七|十八|十九|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|
+Some tables favor more standard charts and some tables favor a larger variety of charts. I recommend adding both types of tables for your difficulty range. "Standard tables" for playing more straightforward density patterns, and "variety tables" which contain far more charts to play, to expose yourself to a wider range of patterns.
 
-</details>
+## Normal Range
+Refers to levels in the range ☆1-☆11.
 
-### [Satellite Table](https://stellabms.xyz/sl/table.html)
- - Generally covers levels in the insane range, specifically ☆11-★19
- - This level range is split into 13 denominations (sl0 to sl12)
- - sl0 is approximately ☆11/☆12 and sl12 is approximately ★18+/★19-
-### [Stella Table](https://stellabms.xyz/st/table.html)
- - Generally covers levels in the overjoy range, specifically ★20-★★7
- - This level range is split into 12 denominations (st0 to st11)
- - st0 is approximately ★19+/★20 and st11 is approximately ★★7
+At this range, difficulty tables may not be necessary. Simply playing by the chart's rated level from some well-established packs (e.g. [GENOSIDE 2018](Downloading-Songs#starter-packs)) may often suffice. However, there is no harm in adding tables to add level ratings to the charts you have.
 
-**Note:** If you have exhausted the Satellite or Stella table and are looking to play a much wider variety of charts, I recommend looking at [Hex's Insane Chart Collections](#hexs-insane-chart-collections-recommended).
+#### Standard tables:
+- [Normal1](#old-normal--insane-tables) (year ≤2013), [Normal2](#new-normal--insane-tables) (year ≤2016), [Ikeda](#fez_ike) (up to current year)
+
+#### Variety tables:
+- [Turbow's BMS Library](#turbow-recommended) (Highly recommended for use with recent events like BOFXVI, as it rates almost all charts in the event)
+
+
+## Insane Range
+Refers to levels in the range ☆11-★19.
+
+#### Standard tables:
+- The [Satellite table](#satellite-and-stella-tables-recommended) is recommended, as it is the most actively updated table, containing the latest songs. However, this table is also notorious for having a low tolerance for variety in charting styles. The Satellite table is mainly good for practice on density charts.
+- Alternative tables: [Insane1](#old-normal--insane-tables) (year ≤2013), [Insane2](#new-normal--insane-tables) (year ≤2016)
+
+#### Variety tables:
+- [Hex's BMS Database](#hexs-insane-chart-collections-recommended) is highly recommended, as it rates a HUGE amount of charts. This is a good table to have if you are downloading random event packs or random sabuns and playing them, as there is a high chance that those charts are listed (and rated) in the table.
+- [Turbow's BMS Library](#turbow-recommended) is similar. It is not as large as Hex's BMS Database, but is more complete for recent events, and may contain some charts not listed in Hex's BMS Database.
+
+## Overjoy Range
+Refers to levels in the range ★20 and up.
+
+#### Standard tables:
+- [Stella table](#satellite-and-stella-tables-recommended) (Most actively updated table with the latest songs. Mainly good for practice on density charts. Not that great for variety.)
+- Alternative tables: [Insane1 & Overjoy](#old-normal--insane-tables) (year ≤2013), [Insane2](#new-normal--insane-tables) (year ≤2016)
+
+#### Variety tables:
+- See [Variety tables](#variety-tables) for the insane range. The same tables are highly recommended for people playing in this difficulty range.
 
 ----------
 # Popular Difficulty Tables
