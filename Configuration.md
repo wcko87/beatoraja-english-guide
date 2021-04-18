@@ -341,6 +341,8 @@ The miss layer duration option can be found in the `Video` tab. Set it to 0ms to
 ----------
 ## Menu Sounds and BGM Settings
 
+- [You can find some sound sets here.](List-of-beatoraja-Skins#sound-sets)
+
 #### In config menu
 There are two ways menu sounds and menu BGM can be configured.
 1. In the `Skin` tab, assign the BGM Path (LR2) and Sound Path (LR2) folders. This allows you to use LR2 sound sets.
