@@ -214,7 +214,7 @@ The Normal2, Insane2 and LN tables are included in beatoraja by default.
 **Note:** To add these tables to beatoraja (or BeMusicSeeker), use the table links given below.
 
 ## Old Normal / Insane Tables
-These tables generally contains songs up to around 2013. There were a few songs from 2014-2017 that were added more recently, but they are few.
+These tables generally contains songs up to around 2013. There were a few songs from 2014-2016 that were added more recently, but they are few.
 
 ### [Normal table (☆)](http://www.ribbit.xyz/bms/tables/normal.html)
 - Levels rated from ☆1-☆12. Covers the "IIDX" level range.
