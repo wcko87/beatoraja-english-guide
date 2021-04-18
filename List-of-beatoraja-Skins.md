@@ -35,6 +35,7 @@ Listed in no particular order.
 - [**m-select**](#m-select) (Music Select / All in one)
 - [**Simple 7Keys**](#simple-7keys) (Play skin)
 - [**Wide 24Keys**](#wide-24keys) (Play skin)
+- [**GenericTheme**](#generictheme) (Play skin)
 - [**Blanket**](#blanket) (Result)
 - [**RESULT SIMPLE FM**](#result-simple-fm) (Result)
   - [**RESULT "NOT" SIMPLE FM**](#result-not-simple-fm) (Result)
@@ -218,8 +219,7 @@ Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twi
 ------------------------
 ## Simple 7Keys
 Supports:
-- Play (7Keys)
-- Play (9Keys)
+- Play (7Keys, 9Keys)
 
 Minimal and very highly customizable skin. Made by mnpyprrn
 
@@ -251,6 +251,20 @@ Update History: [Twitter - beatoraja用24鍵 by @mnpyprrn](https://twitter.com/s
 ![](https://pbs.twimg.com/media/D6VGt_tUYAALN1z?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/D6VGuhpUYAARdwp?format=jpg&name=small)
 
+------------------------
+## GenericTheme
+Supports:
+- Play (5Keys, 7Keys)
+
+A simple play skin by Shimi9999.
+
+DL: https://github.com/Shimi9999/GenericTheme
+
+Tweet: https://twitter.com/39mogura/status/1383781845532172292
+
+![](https://pbs.twimg.com/media/EzQuHkwVoAEbxG4?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/EzQuHlBVkAsV8js?format=jpg&name=small)
 
 ------------------------
 ## Blanket
