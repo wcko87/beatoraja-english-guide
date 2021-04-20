@@ -5,6 +5,8 @@ This page lists beatoraja-specific skins.
 **Note:** You can mix and match skins. The skin is chosen separately for each menu type.
 - For example, not many skins support the Course Result screen, so it might be worth picking up one of the skins that supports it just for the Course Result screen.
 
+**Tip:** You can configure skins in-game by pressing F12.
+
 To search for skins for a specific menu, you can search for the menu type with Ctrl+F (e.g. Music Select, Decide, Result, Play, 7Keys, 9Keys, Course Result).
 
 Not all of the skins listed have screenshots. That is because the author did not provide screenshots, and I am too lazy to take screenshots on my own. If anyone has tried those skins, it would be nice if you could contribute some screenshots.
