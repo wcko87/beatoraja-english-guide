@@ -149,7 +149,7 @@ However, in beatoraja, each key actually has a slightly different purpose.
 ----------
 # Common Issues
 
-## [Discussions Page](https://github.com/wcko87/beatoraja-english-guide/discussions)
+### [Discussions Page](https://github.com/wcko87/beatoraja-english-guide/discussions)
 If you need help and the section below does not answer your questions, please visit the [Discussions Page](https://github.com/wcko87/beatoraja-english-guide/discussions). I can try to provide a bit of tech support / answer questions there.
 
 ### Can't start up beatoraja - beatoraja-config.bat opens and closes instantly
