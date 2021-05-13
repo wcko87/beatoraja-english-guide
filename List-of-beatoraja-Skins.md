@@ -41,6 +41,7 @@ Listed in no particular order.
 - [**Blanket**](#blanket) (Result)
 - [**RESULT SIMPLE FM**](#result-simple-fm) (Result)
   - [**RESULT "NOT" SIMPLE FM**](#result-not-simple-fm) (Result)
+- [**proste gówno**](#proste-gówno) (Result)
 - [**Duplex**](#duplex) (Play skin)
 - [**SocialSkin**](#socialskin) (Music Select, Result)
   - [**"Glass Style" Result Skin**](#glass-style-result-skin) (Result)
@@ -302,6 +303,17 @@ A modification of the RESULT SIMPLE FM skin to display more information
 DL: https://sz8390.hatenablog.com/entry/2020/09/14/223629
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/suzu-sn-yuuki/20200914/20200914222841.png)
+
+------------------------
+## proste gówno
+Supports:
+- Result
+
+A minimal result screen for beatoraja.
+
+DL: https://marysiamzawka.github.io/2021/05/07/prostegowno.html
+
+![](https://marysiamzawka.github.io/assets/result/pass.jpg)
 
 ------------------------
 ## Duplex
