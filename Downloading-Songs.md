@@ -109,7 +109,7 @@ There are some (unofficial) packages here that may make filling up some more pop
 
 As mentioned before, if you are looking to play specific [sabuns](#downloading-songs-and-sabuns) (e.g. for a [difficulty table](#difficulty-tables)), you may need to look for both the song and the chart separately.
 
-To find a specific song, one way is to first find out which BMS event it originated from (you can usually do this by searching for the song on Google or YouTube). You should be able to find the original submission page to the event from there.
+To find a specific song, one way is to first find out which BMS event it originated from (you can usually do this by searching for the song on [BMS Search](http://bmssearch.net/), Google or YouTube). You should be able to find the original submission page to the event from there.
 - [List of past (and current) BMS events](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 
 Example: [Submission page for Calamity Fortune](http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45). Event: 東方音弾遊戯5
