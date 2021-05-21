@@ -190,6 +190,7 @@ A: Other tham `.bmson`, these extensions do not matter and can be used interchan
 ##### Q: "Warning: Note overlapping detected. Increasing Maximum Grid Partition will resolve this."
 
 A: There are two possible causes for this error.
+
 Possible cause 1: You placed two note objects on the exact same location. The fix is to find the offending notes and move them.
 
 Possible cause 2: The Max Grid Partition might not be high enough for the song. The fix is to go to `Options -> General Options` and increase the "Max Grid Partition in BMS" setting. I usually have it very high, like 10000.
