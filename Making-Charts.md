@@ -192,7 +192,6 @@ A: Other tham `.bmson`, these extensions do not matter and can be used interchan
 A: There are two possible causes for this error.
 
 Possible cause 1: You placed two note objects on the exact same location. The fix is to find the offending notes and move them.
-
 This is what an overlapping note looks like:
 
 ![](https://user-images.githubusercontent.com/27341392/119168540-f7802600-ba9b-11eb-918f-7a9edee7b90b.png)
