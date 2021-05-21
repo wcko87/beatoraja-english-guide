@@ -193,5 +193,9 @@ A: There are two possible causes for this error.
 
 Possible cause 1: You placed two note objects on the exact same location. The fix is to find the offending notes and move them.
 
+This is what an overlapping note looks like:
+
+![](https://user-images.githubusercontent.com/27341392/119168540-f7802600-ba9b-11eb-918f-7a9edee7b90b.png)
+
 Possible cause 2: The Max Grid Partition might not be high enough for the song. The fix is to go to `Options -> General Options` and increase the "Max Grid Partition in BMS" setting. I usually have it very high, like 10000.
 - The default value is 192. This means the smallest possible subdivision allowed when saving the BMS is 192ths. This may be important for some legacy applications. However, some songs make use of subdivisions smaller than 192ths, and it may be necessary to increase the max grid partition in order for these songs to save correctly.
