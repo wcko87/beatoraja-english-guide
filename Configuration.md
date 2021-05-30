@@ -15,8 +15,10 @@ Key config is done by pressing `6` on your keyboard during music select. Keys ar
 ----------
 ## Analog Scratch
 If you are using a controller, there are two possible scratch input modes for it. 
-1. LR2 Mode: The axis value is +1 when rotating clockwise, and -1 when rotating counterclockwise
-2. Analog Mode: The axis value slowly increases as you rotate clockwise, and after it reaches +1, it loops back around to -1. It decreases when you rotate counterclockwise.
+1. **LR2 Mode:** Axis value reflects the **direction** the turntable is turning. It returns to center when the turntable is stopped.
+(+1 when rotating clockwise, and -1 when rotating counterclockwise)
+2. **Analog Mode:** Axis value reflects the current **position** of the turntable. It stays fixed when the turntable is stopped.
+(slow increase from -1 to +1 as you rotate clockwise, looping back to -1 the moment it passes +1. It decreases when you rotate counterclockwise.)
 
 Analog Mode is preferred for beatoraja.
 - If your controller is in analog mode, make sure Analog Scratch is **checked** in the beatoraja config.
