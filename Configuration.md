@@ -18,7 +18,7 @@ If you are using a controller, there are two possible scratch input modes for it
 1. **LR2 Mode:** Axis value reflects the **direction** the turntable is turning. It returns to center when the turntable is stopped.
 (+1 when rotating clockwise, -1 when rotating counterclockwise, 0 when stopped.)
 2. **Analog Mode:** Axis value reflects the current **position** of the turntable. It stays fixed when the turntable is stopped.
-(slow increase from -1 to +1 as you rotate clockwise, looping back to -1 the moment it passes +1. It decreases when you rotate counterclockwise.)
+(Slow increase from -1 to +1 as you rotate clockwise, looping back to -1 the moment it passes +1. It decreases when you rotate counterclockwise.)
 
 Analog Mode is preferred for beatoraja.
 - If your controller is in analog mode, make sure Analog Scratch is **checked** in the beatoraja config.
