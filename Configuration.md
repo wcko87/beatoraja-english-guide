@@ -20,6 +20,8 @@ If you are using a controller, there are two possible scratch input modes for it
 2. **Analog Mode:** Axis value reflects the current **position** of the turntable. It stays fixed when the turntable is stopped.
 (Slow increase from -1 to +1 as you rotate clockwise, looping back to -1 the moment it passes +1. It decreases when you rotate counterclockwise.)
 
+[Video: What the two input modes look like](https://user-images.githubusercontent.com/27341392/103452096-05acf000-4d0f-11eb-8033-e530ae2abc34.mp4)
+
 Analog Mode is preferred for beatoraja.
 - If your controller is in analog mode, make sure Analog Scratch is **checked** in the beatoraja config.
 - If your controller is in LR2 mode, make sure Analog Scratch is **unchecked**.
@@ -27,8 +29,6 @@ Analog Mode is preferred for beatoraja.
 The turntable will not be read by the game correctly otherwise.
 
 You can find out which input mode your controller is in by opening the controller properties in Windows' control panel (you can find it by searching "set up usb game controllers" in the start menu). Alternatively, you can use the online [HTML5 Gamepad Tester](https://gamepad-tester.com/).
-
-[Video: What the two input modes look like](https://user-images.githubusercontent.com/27341392/103452096-05acf000-4d0f-11eb-8033-e530ae2abc34.mp4)
 
 Most controllers allow you to switch between the two input modes. Analog mode is "HID mode" on Dao cons and "Mode 3" on a YuanCon.
 
