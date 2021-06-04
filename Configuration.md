@@ -114,7 +114,7 @@ The song will not start until you have finished adjusting.
 
 Offset is measured in milliseconds. If you are hitting fasts, make your offset more negative. If you are hitting slows, make your offset more positive. (Note that this is the opposite of the setting in IIDX)
 
-Generally, your offset should stay within the ±20ms range, assuming you aren't on a display with significant visual delay. When adjusting offsets, it is usually sufficient to adjust it in intervals of around ±4ms.
+Typical offsets are within the ±20ms range, assuming you aren't on a display with significant visual delay. When adjusting offsets, it is usually sufficient to adjust it in intervals of around ±4ms.
 
 Note that adjusting offset essentially only accounts for visual delay. Audio offset cannot be changed, as the game is keysounded. (the game can't be expected to play a keysound before you hit the key)
 
