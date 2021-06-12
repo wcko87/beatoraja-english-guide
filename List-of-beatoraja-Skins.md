@@ -10,8 +10,9 @@ This page lists beatoraja-specific skins.
 To search for skins for a specific menu, you can search for the menu type with Ctrl+F (e.g. Music Select, Decide, Result, Play, 7Keys, 9Keys, Course Result).
 
 - **Music Select**: The main screen you see after you start the game.
-- **Decide**: The splash screen that shows up after you start a song.
-- **Play**: The skin while playing a song. A different play skin can be used for each play mode (7Keys, 5Keys, 9Keys, 14Keys, 24Keys etc).
+- **Decide**: The splash screen that shows up when you start a song.
+- **Play**: The skin while playing a song.
+ - A different play skin can be used for each play mode (7Keys, 5Keys, 9Keys, 14Keys, 24Keys etc).
 - **Result**: The score screen that shows after a song is over.
 - **Course Result**: The score screen after you pass/fail a course.
 
