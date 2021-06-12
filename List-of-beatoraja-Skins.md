@@ -38,6 +38,7 @@ Listed in no particular order.
 - [**Simple 7Keys**](#simple-7keys) (Play skin)
 - [**Wide 24Keys**](#wide-24keys) (Play skin)
 - [**GenericTheme**](#generictheme) (Play skin)
+- [**Rogan**](#rogan) (Result/Decide)
 - [**Blanket**](#blanket) (Result)
 - [**RESULT SIMPLE FM**](#result-simple-fm) (Result)
   - [**RESULT "NOT" SIMPLE FM**](#result-not-simple-fm) (Result)
@@ -268,6 +269,20 @@ Tweet: https://twitter.com/39mogura/status/1383781845532172292
 ![](https://pbs.twimg.com/media/EzQuHkwVoAEbxG4?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EzQuHlBVkAsV8js?format=jpg&name=small)
+
+------------------------
+## Rogan
+Supports:
+- Decide
+- Result
+
+A simple and very easy to read Result/Decide skin with large text.
+
+DL: https://twitter.com/4228_r/status/1403405147603030017
+
+![](https://pbs.twimg.com/media/E3nlJLjVIAExb--?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E3nlPlrVEAU0DlP?format=jpg&name=small)
 
 ------------------------
 ## Blanket
