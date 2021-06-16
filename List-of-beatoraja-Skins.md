@@ -24,6 +24,7 @@ Other lists of beatoraja skins:
 
 # Contents
 - [List of beatoraja Skins](#list-of-beatoraja-skins)
+- [Setting Custom Backgrounds](#setting-custom-backgrounds)
 - [Skin Modifications](#skin-modifications)
 - [Sound Sets](#sound-sets)
 - [Lunatic Rave 2 Skins](#lunatic-rave-2-skins)
@@ -495,6 +496,33 @@ EndlessCirculation: https://drive.google.com/file/d/1X153J9iyd7Iq6lryP5p1As97jYf
 
 -----------------------
 
+# Setting Custom Backgrounds
+
+Most result screens come with default background images. It is however common practice for many players personalize their result screens by replacing these background images with their own. Result skins often make this easy to do.
+
+This applies to both beatoraja and Lunatic Rave 2.
+
+If you look in the skin folder for your result skin, you may find a set of folders that look like this:
+* AAA
+* AA
+* A
+* CLEAR
+* FAILED
+
+There may already be some pre-existing background images in these folders. You can remove these images and add your own images to these folders. The images in these folders are the result screen backgrounds corresponding to each grade. This is so that you can set different result screen backgrounds when you get an AAA, AA, A, B or below, or when you fail the chart.
+
+**Note:** In beatoraja, you may need to set the default result screen background to "Random" in the skin config in order for the skin to randomly choose an image from the folder to display.
+
+Other skin assets can also be modified (and made to be randomly selected) in a similar way. Some commonly modified skin assets are:
+- Decide screen background
+- Music Select background
+- Play screen background
+- Play screen lane cover
+- Play screen pacemaker background (if separate from play screen background)
+
+You can also replace these backgrounds with videos (i.e. animated backgrounds). It may require a bit of tinkering though, by changing the file extension of the skin assets defined in the skin. [Example](https://user-images.githubusercontent.com/27341392/122307541-82dac300-cf45-11eb-9b2b-80437f776320.mp4)
+
+-----------------------
 
 # Skin Modifications
 This section lists some unofficial skin modifications that some people have made.
