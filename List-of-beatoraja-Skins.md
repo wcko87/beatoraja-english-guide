@@ -271,9 +271,9 @@ A simple play skin by Shimi9999.
 
 DL: https://github.com/Shimi9999/GenericTheme
 
-Tweet: https://twitter.com/39mogura/status/1383781845532172292
+Tweet: https://twitter.com/39mogura/status/1405164692855685126
 
-![](https://pbs.twimg.com/media/EzQuHkwVoAEbxG4?format=jpg&name=small)
+![](https://pbs.twimg.com/media/E4Alcr-UYAcfpG0?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EzQuHlBVkAsV8js?format=jpg&name=small)
 
