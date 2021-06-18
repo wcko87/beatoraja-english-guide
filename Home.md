@@ -186,6 +186,28 @@ Try restarting beatoraja first. The songs might show up after a restart.
 
 If the songs still don't show up, there are a few possible causes.
 
+#### You placed your songs in the beatoraja folder
+
+i.e. you did something like this:
+```
+beatoraja 0.8.2
+ '-> etc etc (beatoraja files)
+ '-> songs
+     '-> BOFU2016
+     '-> BOFU2017
+```
+If your songs are in the beatoraja folder, beatoraja may not be able to read the songs. In general, I recommend having your song directory be **separate** from your beatoraja directory. Something like this:
+```
+BMS
+ '-> BOFU2016
+ '-> BOFU2017
+ '-> MISC
+
+beatoraja 0.8.2
+ '-> etc etc (beatoraja files)
+```
+In general it is a good idea to keep your song folders separate from the game client. This is because you may upgrade or change your bms client, but you will still be using the same BMS songs.
+
 #### An error occurred while adding songs
 This might have happened if you notice a bunch of errors in the command window and the song adding process halts suddenly.
 - If this indeed happened, try to find out which is the offending bms that caused the song adding to crash.
@@ -210,3 +232,10 @@ This might have happened if you only see a few songs in your songwheel, and don'
         |-> song1
         '-> song2
     ````
+
+
+### My skin settings are not saving
+
+This is usually a symptom of locale issues. See [Fixing locale issues](#fixing-locale-issues) for more information, and make sure the UTF-8 fix is applied.
+- If you had applied the UTF-8 fix manually, there is a chance that you did not apply it correctly.
+- Also, do not run beatoraja through the beatoraja.jar file. The UTF-8 fix does nothing if you are not running beatoraja by starting beatoraja-config.bat.
