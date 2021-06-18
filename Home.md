@@ -74,12 +74,14 @@ set _JAVA_OPTIONS='-Dsun.java2d.opengl=true -Dawt.useSystemAAFontSettings=on -Ds
 
 Skin settings might reset after switching to UTF-8, because the skin settings may have been saved in the default encoding. It shouldn't be too much trouble to set the skin settings again, since you only need to do this once.
 
-It might also be possible that switching encodings might cause your player config file (in player/player1/config.json) to be unreadable. If the config file can't be fixed, you may have to replace the config file with a new one.
+It might be possible that switching encodings might cause your player config file (in player/player1/config.json) to be unreadable. If the config file can't be fixed, you may have to replace the config file with a new one.
 
-How to replace (clear) your config file:
+### How to replace (clear) your config file
 1. Backup the player's config.json (player/player1/config.json)
 2. Clear the contents of the file and replace it with just the characters `{}`. This forces beatoraja to generate a new config.json file from scratch (Note: beatoraja won't start without the `{}` in the file).
 3. After the player profile has been cleared, open the beatoraja config again, go to the skin select menu and make sure a skin is properly set (i.e. not blank) for each of the important categories (e.g. 7KEYS, DECIDE, RESULT, SKIN SELECT). beatoraja crashes if it tries to load a blank skin.
+
+**Note:** The player's config.json is different from the config.json you see in the main beatoraja folder! The player's config json is in the `player/player1` (or player2 etc) folder, and contains settings that are specific to the player profile, like skin settings.
 
 There should be no more crashes / issues after that.
 
@@ -239,6 +241,7 @@ This might have happened if you only see a few songs in your songwheel, and don'
 This is usually a symptom of locale issues. See [Fixing locale issues](#fixing-locale-issues) for more information, and make sure the UTF-8 fix is applied.
 - If you had applied the UTF-8 fix manually, there is a chance that you did not apply it correctly.
 - Also, do not run beatoraja through the beatoraja.jar file. The UTF-8 fix does nothing if you are not running beatoraja by starting beatoraja-config.bat.
+- It is possible that you have also somehow corrupted your player config file. In that case, you might want to [reset your player config file](#how-to-replace-clear-your-config-file).
 
 
 ### My scores are not saving
