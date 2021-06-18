@@ -239,3 +239,12 @@ This might have happened if you only see a few songs in your songwheel, and don'
 This is usually a symptom of locale issues. See [Fixing locale issues](#fixing-locale-issues) for more information, and make sure the UTF-8 fix is applied.
 - If you had applied the UTF-8 fix manually, there is a chance that you did not apply it correctly.
 - Also, do not run beatoraja through the beatoraja.jar file. The UTF-8 fix does nothing if you are not running beatoraja by starting beatoraja-config.bat.
+
+
+### My scores are not saving
+
+Scores will always save after exiting the song (as long as you have hit at least 1 note in the song before exiting). If your scores aren't saving, it is most likely because you have some assist option on. Check out the following pages:
+- [Assist and Miscellaneous Options](Configuration#assist-and-miscellaneous-options)
+- [Random and Gauge Settings](Configuration#random-and-gauge-settings)
+
+If your scores suddenly vanished, it may simply because you switched between [LN, CN and HCN modes](Configuration#ln-cn-and-hcn-mode). Scores are saved separately between the modes, for charts that have at least one long note in them.
