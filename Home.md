@@ -206,12 +206,12 @@ BMS
 beatoraja 0.8.2
  '-> etc etc (beatoraja files)
 ```
-In general it is a good idea to keep your song folders separate from the game client. This is because you may upgrade or change your bms client, but you will still be using the same BMS songs.
+In general it is a good idea to keep your song folders separate from the game client. This is because you may upgrade or change your BMS client, but you will still be using the same BMS songs.
 
 #### An error occurred while adding songs
 This might have happened if you notice a bunch of errors in the command window and the song adding process halts suddenly.
-- If this indeed happened, try to find out which is the offending bms that caused the song adding to crash.
-- If you can figure out which bms is causing the issue, it would be nice to report it to the developers so that the problem can be identified.
+- If this indeed happened, try to find out which is the offending BMS that caused the song adding to crash.
+- If you can figure out which BMS is causing the issue, it would be nice to report it to the developers so that the problem can be identified.
 
 #### A BMS folder is placed next to a song folder
 This might have happened if you only see a few songs in your songwheel, and don't see any subfolders.
