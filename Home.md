@@ -251,3 +251,16 @@ Scores will always save after exiting the song (as long as you have hit at least
 - [Random and Gauge Settings](Configuration#random-and-gauge-settings)
 
 If your scores suddenly vanished, it may simply because you switched between [LN, CN and HCN modes](Configuration#ln-cn-and-hcn-mode). Scores are saved separately between the modes, for charts that have at least one long note in them.
+
+
+### I connected my controller but my turntable does not work!
+
+You probably did not bind the controller in the key config. Even the turntable needs to be assigned to F-SCR and R-SCR in the key config for it to work. Press 6 on the keyboard to open the key config in game.
+
+If that was not the reason, there are a few other possible causes:
+- If you have multiple controllers connected, make sure the correct controller device is selected in the key config. Press 2 on the keyboard in the key config menu to change the controller selection.
+- Take note that the key config is set separately for each key mode. Notably, 5Keys and 7Keys have separate key configs. Press the left/right arrow keys on the key config menu to switch key mode.
+- If the controller only does not work in the music select menu, this may be because you have the wrong "Music Select" setting in the key config menu. Press 1 on the keyboard to switch the "Music Select" setting. "2dx sp" means the 7Keys key config is used for music select. "2dx dp" means the 14Keys key config is used, and "popn" means the 9Keys key config is used.
+- If the turntable is behaving wierdly, this may be due to analog scratch being set incorrectly. See: [Analog Scratch](Configuration#analog-scratch)
+
+
