@@ -498,7 +498,7 @@ EndlessCirculation: https://drive.google.com/file/d/1X153J9iyd7Iq6lryP5p1As97jYf
 
 # Setting Custom Backgrounds
 
-Most result screens come with default background images. It is however common practice for many players personalize their result screens by replacing these background images with their own. Result skins often make this easy to do.
+Most result screens come with default background images. It is however common practice for many players to personalize their result screens by replacing these background images with their own. Result skins often make this easy to do.
 
 This applies to both beatoraja and Lunatic Rave 2.
 
