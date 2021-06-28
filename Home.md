@@ -21,7 +21,7 @@ Note that judge timings and gauges in beatoraja differ slightly from LR2. There 
 #### 1. Download 64-bit Java
 - [Download Java from here](https://www.java.com/en/download/manual.jsp). Make sure to get a **64-bit** version of Java.
 - beatoraja may not run properly on 32-bit java. Refer to [this error description](#2-invalid-maximum-heap-size--xmx4g) for more details.
-- We suggest Java 8, as it has JavaFX included. beatoraja is compiled with Java 8, though it will still work on later versions of Java as long as JavaFX is present.
+- We suggest Java 8, as it has JavaFX included. beatoraja is compiled with Java 8, though it will still work on later versions of Java as long as JavaFX is present. Refer to [this error description](#4-error-could-not-find-or-load-main-class-bmsplayerbeatorajamainloader) for more details.
 
 #### 2. Download beatoraja
 - [Download beatoraja from here](https://mocha-repository.info/download.php).
