@@ -258,7 +258,7 @@ Minimal and very highly customizable skin. Made by mnpyprrn
 
 DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-Tweet: https://twitter.com/mnpyprrn/status/1253190021361790979
+Tweet: https://twitter.com/mnpyprrn/status/1297505311557738497
 
 Update History: [Twitter - beatoraja用キーボード by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
 
