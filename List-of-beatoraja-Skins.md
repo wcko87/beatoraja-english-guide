@@ -43,7 +43,7 @@ Listed in no particular order.
 - [**Unnamed skin by Fez_ike (自作beatorajaスキン)**](#unnamed-skin-by-fez_ike-自作beatorajaスキン) (All in one)
 - [**Unnamed skin 2 by Fez_ike**](#unnamed-skin-2-by-fez_ike) (Music Select)
 - [**m-select**](#m-select) (Music Select / All in one)
-- [**Simple 7Keys**](#simple-7keys) (Play skin)
+- [**Simple Play**](#simple-play) (Play skin)
 - [**Wide 24Keys**](#wide-24keys) (Play skin)
 - [**GenericTheme**](#generictheme) (Play skin)
 - [**Rogan**](#rogan) (Result/Decide)
@@ -221,7 +221,7 @@ Made by mnpyprrn.
 
 DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-Tweet: https://twitter.com/mnpyprrn/status/1195650386499010561
+Tweet: https://twitter.com/mnpyprrn/status/1351877923649712129
 
 Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E9%81%B8%E6%9B%B2%E3%82%B9%E3%82%AD%E3%83%B3%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
 
@@ -229,27 +229,30 @@ Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twi
 ![](https://pbs.twimg.com/media/Ep2bo_0WMAE6rT8?format=jpg&name=small)
 
 ------------------------
-## Simple 7Keys
+## Simple Play
 Supports:
-- Play (7Keys, 9Keys)
+- Play (5Keys, 7Keys, 9Keys)
 
 Minimal and very highly customizable skin. Made by mnpyprrn
 
-**Note:** In the current version of the skin, customization is done by editing the files in `simple-7keys-v0.21\customize\settings`.
+**Note:** In the current version of the skin, customization is done by editing the files in `simple-play-v0.39\customize\settings`.
 
 DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-Tweet: https://twitter.com/mnpyprrn/status/1249266263441862658
+Tweet: https://twitter.com/mnpyprrn/status/1410499033580269568
 
-Update History: [Twitter - beatoraja用7鍵 by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A87%E9%8D%B5%20(from%3A%40mnpyprrn)&f=live)
+Update History: [Twitter - beatoraja用プレイスキン by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%B3%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
+
+![](https://pbs.twimg.com/media/E5MYjzuUcAAjob4?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EtY-Fl9UYAYBQPy?format=jpg&name=small)
 
 ------------------------
 ## Wide 24Keys
 Supports:
-- Play (24Keys, 48Keys)
-(Probably also supports 5Keys, 7Keys, 9Keys, 10Keys, 14Keys)
+- Play (10Keys, 14Keys, 24Keys, 48Keys)
+
+(might also support 5Keys, 7Keys, 9Keys with customization)
 
 Minimal and very highly customizable skin. Made by mnpyprrn
 
@@ -257,11 +260,9 @@ DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSI
 
 Tweet: https://twitter.com/mnpyprrn/status/1253190021361790979
 
-Update History: [Twitter - beatoraja用24鍵 by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A824%E9%8D%B5%20(from%3A%40mnpyprrn)&f=live)
+Update History: [Twitter - beatoraja用キーボード by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
 
-![](https://pbs.twimg.com/media/EAeikjjUcAA0doC?format=jpg&name=small)
-![](https://pbs.twimg.com/media/D6VGt_tUYAALN1z?format=jpg&name=small)
-![](https://pbs.twimg.com/media/D6VGuhpUYAARdwp?format=jpg&name=small)
+![](https://pbs.twimg.com/media/EgGo63HVAAAV2zu?format=jpg&name=small)
 
 ------------------------
 ## GenericTheme
