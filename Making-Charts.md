@@ -129,6 +129,10 @@ Miscellaneous charting tips:
 - Generally, scratches are used for cymbal crashes, vocal samples, scratch sound effects, etc.
 - Make sure you set a proper [#TOTAL value](Scores-and-Clears#total-value)! Not setting a proper TOTAL can make your chart unplayable.
 
+### Misalignment Checks
+When making a sabun, it is important to ensure that the keysounds have not been shifted vertically (misaligned), deleted or duplicated. These are called keysound misalignments. While the "disable vertical moves" option will avoid keysound misalignments from happening, after your chart is complete, it is still helpful to run a misalignment check with one of the original charts.
+- See: [BMS diff tools for misalignment checks](BMS-Tools-and-Resources#bms-diff-tools)
+
 ----------
 ## Chart Metadata
 
