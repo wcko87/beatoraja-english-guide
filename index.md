@@ -17,3 +17,9 @@ Also useful if you are using Lunatic Rave 2 (LR2) or other BMS players.
 
 ### [Difficulty Ratings and Difficulty Tables](https://github.com/wcko87/beatoraja-english-guide/wiki/Difficulty-Tables)
 - Information about how the BMS difficulty rating system works, difficulty tables, and dan courses.
+
+### [What are BMS events and how do they work?](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview#bms-community)
+- Information about BMS music and events, and a brief overview of some recurring BMS events like BMS of Fighters (BOF).
+
+### [How do I play BMS on a Controller / Keyboard?](https://github.com/wcko87/beatoraja-english-guide/wiki/Controller-and-Keyboard-Gameplay)
+- Information about key configurations, playstyles, and purchasing a controller.
