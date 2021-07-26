@@ -39,6 +39,8 @@ Listed in no particular order.
 - [**ModernChic**](#modernchic) (All in one when including ModernChicPlay)
   - [**ModernChicPlay (SCURO)**](#modernchicplay-scuro)
 - [**hij Simple**](#hij-simple) (All in one)
+- [**SocialSkin**](#socialskin) (All in one)
+  - [**"Glass Style" Result Skin**](#glass-style-result-skin) (Result)
 - [**LITONE5**](#litone5) (All in one)
 - [**Unnamed skin by Fez_ike (自作beatorajaスキン)**](#unnamed-skin-by-fez_ike-自作beatorajaスキン) (All in one)
 - [**Unnamed skin 2 by Fez_ike**](#unnamed-skin-2-by-fez_ike) (Music Select)
@@ -52,8 +54,6 @@ Listed in no particular order.
   - [**RESULT "NOT" SIMPLE FM**](#result-not-simple-fm) (Result)
 - [**proste gówno**](#proste-gówno) (Result)
 - [**Duplex**](#duplex) (Play skin)
-- [**SocialSkin**](#socialskin) (Music Select, Result)
-  - [**"Glass Style" Result Skin**](#glass-style-result-skin) (Result)
 - [**FHD (Double Play) Skin by THULIUM**](#fhd-double-play-skin-by-thulium) (All in one, DP only)
 - [**BeatPop**](#beatpop) (Play skin)
 - [**WFIX (WMIX HD for beatoraja)**](#wfix-wmix-hd-for-beatoraja) (Play skin)
@@ -148,6 +148,46 @@ Updates: https://twitter.com/search?q=hij_simple%20from%3Ahij_san&src=typed_quer
 ![](https://pbs.twimg.com/media/EppwRqKUYAAZDi-?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/Erb9VOQVQAIMTZC?format=jpg&name=small)
+
+
+------------------------
+## SocialSkin
+Supports:
+- Music Select
+- Decide
+- Result
+- Play (7Keys)
+
+A skin designed to look like the interface of a mobile phone music game. Made by Totori Tori.
+Has elaborate animated [screen](https://youtu.be/5WbOz42dClk) [transitions](https://youtu.be/qAi4leAYVp8).
+
+Blog Post:
+- https://tori-blog.net/bms/1392/
+- DL Link (click "ここ"): https://tori-blog.net/bms/1392/#skin_download
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/20200626_153928_Music_Select-1024x576.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/20200515_161743_Music_Select.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/07/20200704_210542_Decide-1024x576.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/06/20200606_171555_sl10-%E7%85%89%E6%83%85%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2-Purgatory-EXHARD-CLEAR-AAA-1024x576.jpg)
+
+
+------------------------
+## "Glass Style" Result Skin
+Supports:
+- Result
+
+A 1080p skin with most of the information hidden away. Click on the left/right side of the skin or use the arrow keys to display detailed information.
+
+This skin is packaged together with the [SocialSkin](SocialSkin) download. It is in the "result2" folder.
+
+Blog Post: https://tori-blog.net/bms/2412/
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_182605_LEVEL1-%5E%5E-5keys-Normal-PERFECT-A.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_051200_LEVEL1-%5E%5E-5keys-Normal-HARD-CLEAR-B.jpg)
 
 
 ------------------------
@@ -352,45 +392,6 @@ DL: https://isocosa.neocities.org/bms_skins.html
 ![](https://isocosa.neocities.org/BMS/skins/duplex_1.png)
 
 ![](https://isocosa.neocities.org/BMS/skins/duplex_2.png)
-
-
-------------------------
-## SocialSkin
-Supports:
-- Music Select
-- Result
-
-A Music Select + Result skin designed to look like the interface of a mobile phone music game. Made by Totori Tori.
-- (Result skin was added in v1.10)
-
-Has pretty animated screen transitions.
-
-Blog Posts (and DL link):
-- https://tori-blog.net/bms/1392/ (up to v1.00)
-- https://tori-blog.net/bms/2068/ (v1.10)
-
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/beatoraja-7-1024x592.jpg)
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/06/20200606_171555_sl10-%E7%85%89%E6%83%85%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2-Purgatory-EXHARD-CLEAR-AAA-1024x576.jpg)
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/beatoraja-4.jpg)
-
-
-------------------------
-## "Glass Style" Result Skin
-Supports:
-- Result
-
-A 1080p skin with most of the information hidden away. Click on the left/right side of the skin or use the arrow keys to display detailed information.
-
-This skin is packaged together with the [SocialSkin](SocialSkin) download. It is in the "result2" folder.
-
-Blog Post: https://tori-blog.net/bms/2412/
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_182605_LEVEL1-%5E%5E-5keys-Normal-PERFECT-A.jpg)
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_051200_LEVEL1-%5E%5E-5keys-Normal-HARD-CLEAR-B.jpg)
 
 ------------------------
 ## FHD (Double Play) Skin by THULIUM
