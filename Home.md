@@ -182,6 +182,7 @@ Here are the common errors you might see:
 - If this is indeed the case, you may have to install JavaFX manually.
 - If you are on Java 8 (Java 1.8) on Windows, you will definitely have JavaFX installed, so this shouldn't be the issue.
 - If you have trouble installing JavaFX (especially on mac or linux), one option is to use [Liberica JDK 8](https://bell-sw.com/pages/downloads/), which is a version of Java that has JavaFX included by default.
+  - **Note:** You need to select "Full JDK" instead of "Standard JDK" when downloading Liberica. Only the Full JDK includes JavaFX.
 
 
 ### I added songs, but I can't see the folders in game
