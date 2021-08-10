@@ -271,13 +271,13 @@ Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twi
 ------------------------
 ## Simple Play
 Supports:
-- Play (5Keys, 7Keys, 9Keys)
+- Play (5Keys, 7Keys, 9Keys, 14Keys)
 
 Minimal and very highly customizable skin. Made by mnpyprrn
 
-**Note:** In the current version of the skin, customization is done by editing the files in `simple-play-v0.39\customize\settings`.
+**Note:** In the current version of the skin, customization is done by editing the files in `simple-play-v0.40\customize\settings`.
 
-DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
+DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak (download "simple-play")
 
 Tweet: https://twitter.com/mnpyprrn/status/1410499033580269568
 
@@ -286,6 +286,8 @@ Update History: [Twitter - beatoraja用プレイスキン by @mnpyprrn](https://
 ![](https://pbs.twimg.com/media/E5MYjzuUcAAjob4?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EtY-Fl9UYAYBQPy?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E7YnYqjUYAgU0w2?format=jpg&name=small)
 
 ------------------------
 ## Wide 24Keys
