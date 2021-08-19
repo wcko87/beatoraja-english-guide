@@ -41,6 +41,7 @@ Listed in no particular order.
 - [**hij Simple**](#hij-simple) (All in one)
 - [**SocialSkin**](#socialskin) (All in one)
   - [**"Glass Style" Result Skin**](#glass-style-result-skin) (Result)
+- [**Project Shoko**](#project-shoko) (Music Select/Decide/Result)
 - [**LITONE5**](#litone5) (All in one)
 - [**Unnamed skin by Fez_ike (自作beatorajaスキン)**](#unnamed-skin-by-fez_ike-自作beatorajaスキン) (All in one)
 - [**Unnamed skin 2 by Fez_ike**](#unnamed-skin-2-by-fez_ike) (Music Select)
@@ -188,6 +189,31 @@ Blog Post: https://tori-blog.net/bms/2412/
 ![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_182605_LEVEL1-%5E%5E-5keys-Normal-PERFECT-A.jpg)
 
 ![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_051200_LEVEL1-%5E%5E-5keys-Normal-HARD-CLEAR-B.jpg)
+
+
+
+------------------------
+## Project Shoko
+Supports:
+- Music Select
+- Decide
+- Result
+
+1440p Music Select/Decide/Result skin. All text is in English.
+
+Download: https://github.com/dj-shoko/Project-Shoko/releases
+
+Twitter: https://twitter.com/DJ_Shoko2DX/status/1428323132788547585
+
+Github: https://github.com/dj-shoko/Project-Shoko
+
+![](https://pbs.twimg.com/media/E9Jqw81UYAkhlyy?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E9Jq1lsUUAYPums?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E9Jq27mVUAA-c03?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E9Jq3cYUcAcqFXt?format=jpg&name=small)
 
 
 ------------------------
