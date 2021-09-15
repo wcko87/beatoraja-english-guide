@@ -1,6 +1,6 @@
 This page lists beatoraja-specific skins.
 
-[**Discussion thread for this Wiki page**](https://github.com/wcko87/beatoraja-english-guide/discussions/20)
+[**Discussion thread for this Wiki page**](https://github.com/wcko87/beagetoraja-english-guide/discussions/20)
 
 **Note:** You can mix and match skins. The skin is chosen separately for each menu type.
 - For example, not many skins support the Course Result screen, so it might be worth picking up one of the skins that supports it just for the Course Result screen.
@@ -50,6 +50,7 @@ Listed in no particular order.
 - [**Wide 24Keys**](#wide-24keys) (Play skin)
 - [**GenericTheme**](#generictheme) (Play skin)
 - [**Rogan**](#rogan) (Result/Decide)
+- [**TYPE-M, TYPE-S**](#type-m-type-s) (Result)
 - [**Blanket**](#blanket) (Result)
 - [**RESULT SIMPLE FM**](#result-simple-fm) (Result)
   - [**RESULT "NOT" SIMPLE FM**](#result-not-simple-fm) (Result)
@@ -337,7 +338,7 @@ Update History: [Twitter - beatoraja用キーボード by @mnpyprrn](https://twi
 Supports:
 - Play (5Keys, 7Keys)
 
-A simple play skin by Shimi9999.
+A customizable simple play skin by Shimi9999.
 
 DL: https://github.com/Shimi9999/GenericTheme
 
@@ -346,6 +347,8 @@ Tweet: https://twitter.com/39mogura/status/1405164692855685126
 ![](https://pbs.twimg.com/media/E4Alcr-UYAcfpG0?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EzQuHlBVkAsV8js?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E-l-kajVcAAKATU?format=jpg&name=small)
 
 ------------------------
 ## Rogan
@@ -360,6 +363,30 @@ DL: https://twitter.com/4228_r/status/1403405147603030017
 ![](https://pbs.twimg.com/media/E3nlJLjVIAExb--?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/E3nlPlrVEAU0DlP?format=jpg&name=small)
+
+------------------------
+## TYPE-M, TYPE-S
+Supports:
+- Result
+
+Result screen with two variants, TYPE-M and TYPE-S.
+
+DL (TYPE-M): https://kaidou0912.hatenablog.com/entry/2021/09/08/133900
+
+DL (TYPE-S): https://kaidou0912.hatenablog.com/entry/2021/09/12/022844
+
+Tweets: https://twitter.com/aoi_psy/status/1433637975598927901, https://twitter.com/Aoi_psy/status/1436743583176953859
+
+TYPE-M:
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaidou0912/20210908/20210908133043.jpg)
+
+TYPE-S:
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaidou0912/20210912/20210912021017.png)
+
+
+- [**TYPE-M, TYPE-S**](#xxxxx) (Result)
 
 ------------------------
 ## Blanket
