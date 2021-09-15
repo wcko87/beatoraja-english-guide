@@ -386,8 +386,6 @@ TYPE-S:
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaidou0912/20210912/20210912021017.png)
 
 
-- [**TYPE-M, TYPE-S**](#xxxxx) (Result)
-
 ------------------------
 ## Blanket
 Supports:
