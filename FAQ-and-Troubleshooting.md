@@ -125,6 +125,8 @@ If that was not the reason, there are a few other possible causes:
 ## Which version of Java to download?
 There are two good options: Oracle Java and Liberica OpenJDK
 
+We suggest Java 8, as it has JavaFX included. beatoraja is compiled with Java 8, though it can still work on later versions of Java as long as JavaFX is present.
+
 ### Option 1: Oracle Java
 Download From: https://www.java.com/en/download/manual.jsp
 - Note: Make sure you select a version marked as **64-bit**
