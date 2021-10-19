@@ -114,3 +114,59 @@ If that was not the reason, there are a few other possible causes:
 - If the controller only does not work in the music select menu, this may be because you have the wrong "Music Select" setting in the key config menu. Press 1 on the keyboard to switch the "Music Select" setting. "2dx sp" means the 7Keys key config is used for music select. "2dx dp" means the 14Keys key config is used, and "popn" means the 9Keys key config is used.
 - If the turntable is behaving wierdly, this may be due to analog scratch being set incorrectly. See: [Analog Scratch](Configuration#analog-scratch)
 
+------------------------
+
+------------------------
+
+# Frequently Asked Questions
+
+
+
+## Which version of Java to download?
+There are two good options: Oracle Java and Liberica OpenJDK
+
+### Option 1: Oracle Java
+Download From: https://www.java.com/en/download/manual.jsp
+- Note: Make sure you select a version marked as **64-bit**
+
+If you did not select a 64-bit version of Java, you will get the ["invalid maximum heap size"](https://github.com/wcko87/beatoraja-english-guide/wiki/FAQ-and-Troubleshooting#2-invalid-maximum-heap-size--xmx4g) error message when you run beatoraja.
+
+You can technically run beatoraja on 32-bit java. This can be done by removing the `-Xmx4g` flag from beatoraja-config.bat. However, this is not recommended as the `-Xmx4g` flag is what allows beatoraja to run with a memory cap of 4GB rather than the default 1GB cap.
+
+### Option 2: Liberica OpenJDK
+Download From: https://bell-sw.com/pages/downloads/
+- You might notice a few different options under "Package". You need to download a **Full* package, not the Standard package.
+- Recommendation for simplest setup: **Full JRE**, **Download MSI**.
+
+Note: If you downloaded Standard instead of Full, you will get the ["Could not find or load main class bms.player.beatoraja.MainLoader"](https://github.com/wcko87/beatoraja-english-guide/wiki/FAQ-and-Troubleshooting#4-error-could-not-find-or-load-main-class-bmsplayerbeatorajamainloader) error as JavaFX is not included with the Standard version.
+
+### Liberica - JDK or JRE?
+**JRE** = Java Runtime Environment, and **JDK** = Java Development Kit.
+- Download "Full JRE" if all you care about is running Java (for beatoraja). Download "Full JDK" if you are also a Java developer.
+- Full JRE is a smaller download.
+
+### Liberica - Download MSI or ZIP?
+**MSI** is an installer, **ZIP** is a portable version of Java (no install required).
+- Downloading the MSI makes it easier to set up. After installing Java, beatoraja can simply be run from `beatoraja-config.bat`.
+- If you download the ZIP instead, you will need to either configure your PATH environment variable or edit `beatoraja-config.bat` to run the portable version. More details below.
+
+#### ZIP Option 1: Editing beatoraja-config.bat
+Do this if you want a portable setup of beatoraja. More information on this page: [Guide: Setting up portable Java + beatoraja](https://github.com/wcko87/beatoraja-english-guide/discussions/37)
+
+#### ZIP Option 2: Configuring PATH environment variable
+Downloading and installing the MSI version does this step automatically for you. If you downloaded the ZIP instead, you will need to configure the PATH environment variable yourself.
+
+Let's suppose that we have extracted Java to `D:\jre1.8.XXX\`. This means java.exe will be found in `D:\jre1.8.XXX\bin\`.
+
+What configuring the PATH environment variable does:
+- Notice that when you open command prompt in an arbitrary location and type `java` in it, nothing happens, because the computer does not even know whether you have Java installed, or where you have placed it if you have installed it.
+- The PATH environment variable specifies the "default" folders for the computer to look into when you type a command straight into command prompt.
+- In other words, after you have added your Java path `D:\jre1.8.XXX\bin\` from before to PATH, when you type `java` in command prompt, the computer will check the `D:\jre1.8.XXX\bin\` folder, find java.exe in it, and run it.
+- Why does this matter? This is because when you run beatoraja-config.bat, it types "java" into the command prompt to run Java to run beatoraja. You can see this by opening beatoraja-config.bat in notepad.
+
+How to configure the PATH environment variable:
+1. Open the start menu, and type "environment variable" into the search box. You can choose to open "Edit the system environment variables" or "Edit the environment variables for your account". Either works.
+2. Now look for an environment variable named "Path". There should be one in the box for environment variables for your account and one in the box for environment variables for the system. Either works.
+3. Double-click the "Path" environment variable to open it. You should see a list of folders. Click new, and add your Java path (e.g. `D:\jre1.8.XXX\bin\`) to the list. Press Ok.
+4. Note that you will need to restart command prompt before changes will apply, if you are trying to type "java" into the command prompt.
+
