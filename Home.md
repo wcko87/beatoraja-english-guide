@@ -25,8 +25,8 @@ This guide explains how to set up beatoraja properly, with the UTF-8 fix applied
 If you run into any issues during setup, the [Troubleshooting](FAQ-and-Troubleshooting#beatoraja-troubleshooting) section might help.
 
 There are two options for setting up beatoraja.
-- **Option 1:** [Without Installing Java]()
-- **Option 2:** [With a Java Installation]()
+- **Option 1:** [Without Installing Java](#setting-up-beatoraja-without-installing-java)
+- **Option 2:** [With a Java Installation](#setting-up-beatoraja-with-java)
 
 ----------
 ## Setting up beatoraja without Installing Java
