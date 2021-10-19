@@ -48,6 +48,8 @@ This is for Windows only.
 
 ----------
 ## Setting up beatoraja with Java
+You might want to set up beatoraja this way if you already have Java installed in your computer.
+
 Note: If you are on Mac/Linux, use `beatoraja-config.command` instead of `beatoraja-config.bat`.
 
 #### 1. Download 64-bit Java
