@@ -73,6 +73,7 @@ Note: If you are on Mac/Linux, use `beatoraja-config.command` instead of `beator
 
 ----------
 # Locale Fix
+Note: Also known as the UTF-8 fix. If you have followed the earlier instructions and have applied this fix, you may skip over this section.
 
 ### Effects of locale issues
 Not being on the correct locale can cause some issues in beatoraja. Most of the time, if you are experiencing crashes in beatoraja, it is due to a locale issue. Thankfully, there is an easy fix for all these crashes.
