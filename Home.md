@@ -44,7 +44,7 @@ This is for Windows only.
 
 #### 3. Run beatoraja
 - Double-click `beatoraja-config.bat` to run beatoraja.
-- See [Setting Up](#setting-up) for information on things you may want to configure before you start playing.
+- See [Configuring beatoraja](#configuring-beatoraja) for information on things you may want to configure before you start playing.
 
 ----------
 ## Setting up beatoraja with Java
@@ -69,7 +69,7 @@ Note: If you are on Mac/Linux, use `beatoraja-config.command` instead of `beator
 
 #### 4. Run beatoraja
 - Double-click `beatoraja-config.bat` to run beatoraja.
-- See [Setting Up](#setting-up) for information on things you may want to configure before you start playing.
+- See [Configuring beatoraja](#configuring-beatoraja) for information on things you may want to configure before you start playing.
 
 ----------
 # Locale Fix
