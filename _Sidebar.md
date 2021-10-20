@@ -1,5 +1,7 @@
 ### Guide Pages
 
+### [Discussion Forum](https://github.com/wcko87/beatoraja-english-guide/discussions)
+
 ## BMS
 #### [BMS Overview](BMS-Overview)
 #### [Controller and Keyboard Gameplay](Controller-and-Keyboard-Gameplay)
