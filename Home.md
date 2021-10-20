@@ -39,7 +39,7 @@ This is for Windows only.
 - You might notice a "beatoraja.exe" file in the download. You can ignore (and even delete) this, as using the .exe means beatoraja will run without the UTF-8 fix.
 
 #### 2. Apply the UTF-8 fix
-- [Download beatoraja-config.bat from here](https://github.com/wcko87/beatoraja-english-guide/tree/resources/beatoraja-configs-win64jre)
+- [Download beatoraja-config.bat from here](https://github.com/wcko87/beatoraja-english-guide/tree/resources/beatoraja-configs-win64jre), and place it in the same folder as beatoraja.jar.
 - We will be using `beatoraja-config.bat` instead of `beatoraja.exe` to run beatoraja. This ensures that beatoraja runs with the UTF-8 fix already applied. [More information on the UTF-8 fix](#locale-fix)
 
 #### 3. Run beatoraja
