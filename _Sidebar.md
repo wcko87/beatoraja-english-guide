@@ -9,7 +9,7 @@
 #### [BMS Tools and Resources](BMS-Tools-and-Resources)
 
 ## beatoraja
-#### [Setting up beatoraja](Home)
+#### [Setting up beatoraja (Home)](Home)
 #### [Music Select](Music-Select)
 #### [Configuration](Configuration)
 #### [Practice Mode](Practice-Mode)
