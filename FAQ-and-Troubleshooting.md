@@ -120,7 +120,19 @@ If that was not the reason, there are a few other possible causes:
 
 # Frequently Asked Questions
 
+## What is beatoraja.jar?
 
+You might notice that beatoraja uses a ".jar" file instead of an ".exe". What does this mean?
+
+beatoraja was written in Java, and Java programs are typically packaged as .jar files. In other words, `beatoraja.jar` is the beatoraja game program itself.
+
+To run JAR files like `beatoraja.jar`, Java is used. Java can either be installed into your PC so that .jar files can be run directly, or a portable version of Java can be used to run `beatoraja.jar`. If you had downloaded the "-jre-win64" version of beatoraja from the Mocha website, a portable version of Java can be found in the `\jre` directory in the beatoraja folder (specifically, `\jre\bin\java.exe`).
+
+`beatoraja-config.bat` and `beatoraja.exe` (if you had downloaded the "-jre-win64" version) are not the program itself. You might notice this from how small these files are. All they do is use Java to run `beatoraja.jar` in the same directory, after setting a few important options. You can open up `beatoraja-config.bat` in notepad to see exactly what it is doing.
+
+Therefore, if you are using `beatoraja-config.bat` to run beatoraja (which is recommended to use the UTF-8 fix), `beatoraja.exe` is not needed and can be deleted.
+
+Note: Do not run beatoraja.jar directly by double-clicking it. It can run that way, but it is not recommended and also would skip the UTF-8 fix.
 
 ## Which version of Java should I download?
 There are two good options: Oracle Java and Liberica OpenJDK
