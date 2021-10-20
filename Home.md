@@ -36,7 +36,7 @@ This is for Windows only.
 - [Download beatoraja from here](https://mocha-repository.info/download.php).
    - You should see multiple links to choose from. Use the "**-jre-win64**" link.
 - The "-jre-win64" link includes a portable build of Java in the download, which we will be using to run beatoraja.
-- You might notice a "`beatoraja.exe`" file in the download. You can ignore (and even delete) this, as using the .exe means beatoraja will run without the UTF-8 fix.
+- You might notice a "`beatoraja.exe`" file in the download. You can ignore (and even delete) this, as using the .exe means beatoraja will run without the UTF-8 fix. More information: [What is beatoraja.jar?](FAQ-and-Troubleshooting#what-is-beatorajajar)
 
 #### 2. Apply the UTF-8 fix
 - [Download beatoraja-config.bat from here](https://github.com/wcko87/beatoraja-english-guide/tree/resources/beatoraja-configs-win64jre), and place it in the same folder as `beatoraja.jar`.
@@ -44,6 +44,7 @@ This is for Windows only.
 
 #### 3. Run beatoraja
 - Double-click `beatoraja-config.bat` to run beatoraja.
+  - Don't run beatoraja through double-clicking `beatoraja.jar` or `beatoraja.exe`.
 - See [Configuring beatoraja](#configuring-beatoraja) for information on things you may want to configure before you start playing.
 
 ----------
@@ -69,6 +70,7 @@ Note: If you are on Mac/Linux, use `beatoraja-config.command` instead of `beator
 
 #### 4. Run beatoraja
 - Double-click `beatoraja-config.bat` to run beatoraja.
+  - Don't run beatoraja through double-clicking `beatoraja.jar` (or `beatoraja.exe` if you have it).
 - See [Configuring beatoraja](#configuring-beatoraja) for information on things you may want to configure before you start playing.
 
 ----------
