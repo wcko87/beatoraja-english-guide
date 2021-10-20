@@ -44,7 +44,7 @@ This is for Windows only.
 
 #### 3. Run beatoraja
 - Double-click `beatoraja-config.bat` to run beatoraja.
-  - Don't run beatoraja through double-clicking `beatoraja.jar` or `beatoraja.exe`.
+  - Don't run beatoraja through double-clicking `beatoraja.jar` or `beatoraja.exe`. Using these skips the UTF-8 fix and can corrupt config files.
 - See [Configuring beatoraja](#configuring-beatoraja) for information on things you may want to configure before you start playing.
 
 ----------
@@ -70,7 +70,7 @@ Note: If you are on Mac/Linux, use `beatoraja-config.command` instead of `beator
 
 #### 4. Run beatoraja
 - Double-click `beatoraja-config.bat` to run beatoraja.
-  - Don't run beatoraja through double-clicking `beatoraja.jar` (or `beatoraja.exe` if you have it).
+  - Don't run beatoraja through double-clicking `beatoraja.jar` (or `beatoraja.exe` if you have it). Using these skips the UTF-8 fix and can corrupt config files.
 - See [Configuring beatoraja](#configuring-beatoraja) for information on things you may want to configure before you start playing.
 
 ----------
