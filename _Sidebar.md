@@ -1,16 +1,16 @@
-- **[Setting up beatoraja]()**
-- **[BMS Overview](BMS-Overview)**
-- **[BMS Tools and Resources](BMS-Tools-and-Resources)**
-- **[Configuration](Configuration)**
-- **[Controller and Keyboard Gameplay](Controller-and-Keyboard-Gameplay)**
-- **[Difficulty Tables](Difficulty-Tables)**
-- **[Downloading Songs](Downloading-Songs)**
-- **[FAQ and Troubleshooting](FAQ-and-Troubleshooting)**
-- **[beatoraja Hotkeys](Hotkeys)**
-- **[Internet Ranking Services](Internet-Ranking-Services)**
-- **[List of beatoraja Skins](List-of-beatoraja-Skins)**
-- **[Making Charts](Making-Charts)**
-- **[Music Select](Music-Select)**
-- **[Practice Mode](Practice-Mode)**
-- **[Scores and Clears](Scores-and-Clears)**
-- **[Scroll Speed and Green Number](Scroll-Speed-and-Green-Number)**
+#### [Setting up beatoraja]()
+#### [BMS Overview](BMS-Overview)
+#### [BMS Tools and Resources](BMS-Tools-and-Resources)
+#### [Configuration](Configuration)
+#### [Controller and Keyboard Gameplay](Controller-and-Keyboard-Gameplay)
+#### [Difficulty Tables](Difficulty-Tables)
+#### [Downloading Songs](Downloading-Songs)
+#### [FAQ and Troubleshooting](FAQ-and-Troubleshooting)
+#### [beatoraja Hotkeys](Hotkeys)
+#### [Internet Ranking Services](Internet-Ranking-Services)
+#### [List of beatoraja Skins](List-of-beatoraja-Skins)
+#### [Making Charts](Making-Charts)
+#### [Music Select](Music-Select)
+#### [Practice Mode](Practice-Mode)
+#### [Scores and Clears](Scores-and-Clears)
+#### [Scroll Speed and Green Number](Scroll-Speed-and-Green-Number)
