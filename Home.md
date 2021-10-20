@@ -20,9 +20,9 @@ Note that judge timings and gauges in beatoraja differ slightly from LR2. There 
 ----------
 # Getting Started with beatoraja
 
-This guide explains how to set up beatoraja properly, with the UTF-8 fix applied. We apply the UTF-8 fix now to avoid [potential locale-related issues](#locale-fix) later on.
+This is a step-by-step guide that explains how to set up beatoraja properly, with the UTF-8 fix applied. We apply the UTF-8 fix now to avoid [potential locale-related issues](#locale-fix) later on.
 
-If you run into any issues during setup, the [Troubleshooting](FAQ-and-Troubleshooting#beatoraja-troubleshooting) section might help.
+Note: If you run into any issues during setup, checking the [Troubleshooting](FAQ-and-Troubleshooting#beatoraja-troubleshooting) section might help.
 
 There are two options for setting up beatoraja.
 - **Option 1:** [Without Installing Java](#setting-up-beatoraja-without-installing-java)
