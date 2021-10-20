@@ -1,3 +1,5 @@
+# Guide Pages
+
 ## BMS
 #### [BMS Overview](BMS-Overview)
 #### [Controller and Keyboard Gameplay](Controller-and-Keyboard-Gameplay)
