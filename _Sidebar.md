@@ -1,4 +1,4 @@
-Guide Pages
+### Guide Pages
 
 ## BMS
 #### [BMS Overview](BMS-Overview)
@@ -9,7 +9,7 @@ Guide Pages
 #### [BMS Tools and Resources](BMS-Tools-and-Resources)
 
 ## beatoraja
-#### [Setting up beatoraja]()
+#### [Setting up beatoraja](Home)
 #### [Music Select](Music-Select)
 #### [Configuration](Configuration)
 #### [Practice Mode](Practice-Mode)
