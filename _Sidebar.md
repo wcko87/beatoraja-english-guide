@@ -15,7 +15,7 @@
 #### [Internet Ranking Services](Internet-Ranking-Services)
 #### [List of beatoraja Skins](List-of-beatoraja-Skins)
 
-## Misc
+## Miscellaneous
 #### [FAQ and Troubleshooting](FAQ-and-Troubleshooting)
 #### [Scores and Clears](Scores-and-Clears)
 #### [Scroll Speed and Green Number](Scroll-Speed-and-Green-Number)
