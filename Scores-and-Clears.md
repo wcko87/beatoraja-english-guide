@@ -71,6 +71,8 @@ A gauge is your health bar. You can choose which gauge to play a song on. Here a
 - Ex-Hard
 - Hazard
 
+Note: In beatoraja, you choose the gauge to play on in the music select menu, by holding the START key to bring up the options.
+
 On the Assist Easy, Easy and Normal gauges, you start the song at 20% gauge, and have to end the song with your gauge above a certain level (60% for Assist Easy, 80% for Easy and Normal) to pass. The lowest your gauge can go is 2%, and you cannot fail out mid-song.
 
 On the Hard and Ex-Hard gauges, you start the song at 100% gauge, and fail if your gauge hits 0%. You pass if you make it to the end of the song without failing out.

@@ -6,7 +6,7 @@
   - [Dual Scratching](#dual-scratching)
   - [N-Key Rollover](#n-key-rollover)
 - [Controller Gameplay](#controller-gameplay)
-  - [Basic Advice for Controller Gameplay](#basic-advice-for-controller-gameplay)
+  - [Basic Advice for Controller Gameplay](#basic-advice-for-controller-gameplaytho)
   - [Playstyles (Hand Positions)](#playstyles-hand-positions)
   - [Purchasing a Controller](#purchasing-a-controller)
     - [Controllers](#controllers)
@@ -23,7 +23,7 @@ Random Note: A MIDI Keyboard is also used for 24Keys, 48Keys and sometimes 14Key
 ---------
 ---------
 # Keyboard Gameplay
-BMS can be played on a keyboard, thought it can be very different from playing on a controller (because buttons have flexible positions and a scratch is simply pressing a single button instead of having to rotate a turntable).
+BMS can be played on a keyboard, though it can be very different from playing on a controller (because buttons have flexible positions and a scratch is simply pressing a single button instead of having to rotate a turntable).
 
 Playing on a keyboard can also be a good way to try out the game before investing in a [controller](#controller-gameplay).
 

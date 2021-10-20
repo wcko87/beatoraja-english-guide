@@ -170,11 +170,13 @@ Press `2` during music select to toggle sort order.
 ----------
 ## Random and Gauge settings
 
+You can choose which Gauge to play on and different Random options.
+
 The different gauges are explained here: [Gauges and Clears](Scores-and-Clears#gauges)
 
-Note that the random settings on the right side are used only for double play (10K, 14K). The settings on the left side should be used for single play.
+The different random options are explained below.
 
-Random options (explained from the 7K perspective):
+#### Random options (explained from the 7K perspective):
 - **NORMAL**: default option, chart is unchanged.
 - **MIRROR**: Flips columns horizontally. Columns 1234567 become 7654321.
 - **RANDOM**: Shuffles the 7 columns.
@@ -193,6 +195,7 @@ DP Random settings:
 - Use the FLIP option to swap the left and right sides.
 - Use the BATTLE option to play an SP chart on both sides.
 
+Note that the random settings on the right side are used only for double play (10K, 14K). The settings on the left side should be used for single play.
 
 #### In config menu
 Random and Gauge settins can be configured in the `Play Option` tab.

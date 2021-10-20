@@ -1,6 +1,6 @@
 This page lists beatoraja-specific skins.
 
-[**Discussion thread for this Wiki page**](https://github.com/wcko87/beatoraja-english-guide/discussions/20)
+[**Discussion thread for this Wiki page**](https://github.com/wcko87/beagetoraja-english-guide/discussions/20)
 
 **Note:** You can mix and match skins. The skin is chosen separately for each menu type.
 - For example, not many skins support the Course Result screen, so it might be worth picking up one of the skins that supports it just for the Course Result screen.
@@ -39,21 +39,23 @@ Listed in no particular order.
 - [**ModernChic**](#modernchic) (All in one when including ModernChicPlay)
   - [**ModernChicPlay (SCURO)**](#modernchicplay-scuro)
 - [**hij Simple**](#hij-simple) (All in one)
+- [**SocialSkin**](#socialskin) (All in one)
+  - [**"Glass Style" Result Skin**](#glass-style-result-skin) (Result)
+- [**Project Shoko**](#project-shoko) (Music Select/Decide/Result)
 - [**LITONE5**](#litone5) (All in one)
 - [**Unnamed skin by Fez_ike (自作beatorajaスキン)**](#unnamed-skin-by-fez_ike-自作beatorajaスキン) (All in one)
 - [**Unnamed skin 2 by Fez_ike**](#unnamed-skin-2-by-fez_ike) (Music Select)
 - [**m-select**](#m-select) (Music Select / All in one)
-- [**Simple 7Keys**](#simple-7keys) (Play skin)
+- [**Simple Play**](#simple-play) (Play skin)
 - [**Wide 24Keys**](#wide-24keys) (Play skin)
 - [**GenericTheme**](#generictheme) (Play skin)
 - [**Rogan**](#rogan) (Result/Decide)
+- [**TYPE-M, TYPE-S**](#type-m-type-s) (Result)
 - [**Blanket**](#blanket) (Result)
 - [**RESULT SIMPLE FM**](#result-simple-fm) (Result)
   - [**RESULT "NOT" SIMPLE FM**](#result-not-simple-fm) (Result)
 - [**proste gówno**](#proste-gówno) (Result)
 - [**Duplex**](#duplex) (Play skin)
-- [**SocialSkin**](#socialskin) (Music Select, Result)
-  - [**"Glass Style" Result Skin**](#glass-style-result-skin) (Result)
 - [**FHD (Double Play) Skin by THULIUM**](#fhd-double-play-skin-by-thulium) (All in one, DP only)
 - [**BeatPop**](#beatpop) (Play skin)
 - [**WFIX (WMIX HD for beatoraja)**](#wfix-wmix-hd-for-beatoraja) (Play skin)
@@ -151,6 +153,71 @@ Updates: https://twitter.com/search?q=hij_simple%20from%3Ahij_san&src=typed_quer
 
 
 ------------------------
+## SocialSkin
+Supports:
+- Music Select
+- Decide
+- Result
+- Play (7Keys)
+
+A skin designed to look like the interface of a mobile phone music game. Made by Totori Tori.
+Has elaborate animated [screen](https://youtu.be/5WbOz42dClk) [transitions](https://youtu.be/qAi4leAYVp8).
+
+Blog Post:
+- https://tori-blog.net/bms/1392/
+- DL Link (click "ここ"): https://tori-blog.net/bms/1392/#skin_download
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/20200626_153928_Music_Select-1024x576.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/20200515_161743_Music_Select.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/07/20200704_210542_Decide-1024x576.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/06/20200606_171555_sl10-%E7%85%89%E6%83%85%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2-Purgatory-EXHARD-CLEAR-AAA-1024x576.jpg)
+
+
+------------------------
+## "Glass Style" Result Skin
+Supports:
+- Result
+
+A 1080p skin with most of the information hidden away. Click on the left/right side of the skin or use the arrow keys to display detailed information.
+
+This skin is packaged together with the [SocialSkin](SocialSkin) download. It is in the "result2" folder.
+
+Blog Post: https://tori-blog.net/bms/2412/
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_182605_LEVEL1-%5E%5E-5keys-Normal-PERFECT-A.jpg)
+
+![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_051200_LEVEL1-%5E%5E-5keys-Normal-HARD-CLEAR-B.jpg)
+
+
+
+------------------------
+## Project Shoko
+Supports:
+- Music Select
+- Decide
+- Result
+
+1440p Music Select/Decide/Result skin. All text is in English.
+
+Download: https://github.com/dj-shoko/Project-Shoko/releases
+
+Twitter: https://twitter.com/DJ_Shoko2DX/status/1428323132788547585
+
+Github: https://github.com/dj-shoko/Project-Shoko
+
+![](https://pbs.twimg.com/media/E9Jqw81UYAkhlyy?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E9Jq1lsUUAYPums?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E9Jq27mVUAA-c03?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E9Jq3cYUcAcqFXt?format=jpg&name=small)
+
+
+------------------------
 ## LITONE5
 Supports:
 - Music Select
@@ -221,7 +288,7 @@ Made by mnpyprrn.
 
 DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-Tweet: https://twitter.com/mnpyprrn/status/1195650386499010561
+Tweet: https://twitter.com/mnpyprrn/status/1351877923649712129
 
 Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E9%81%B8%E6%9B%B2%E3%82%B9%E3%82%AD%E3%83%B3%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
 
@@ -229,46 +296,49 @@ Update History: [Twitter - beatoraja用選曲スキン by @mnpyprrn](https://twi
 ![](https://pbs.twimg.com/media/Ep2bo_0WMAE6rT8?format=jpg&name=small)
 
 ------------------------
-## Simple 7Keys
+## Simple Play
 Supports:
-- Play (7Keys, 9Keys)
+- Play (5Keys, 7Keys, 9Keys, 14Keys)
 
 Minimal and very highly customizable skin. Made by mnpyprrn
 
-**Note:** In the current version of the skin, customization is done by editing the files in `simple-7keys-v0.21\customize\settings`.
+**Note:** In the current version of the skin, customization is done by editing the files in `simple-play-v0.40\customize\settings`.
 
-DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
+DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak (download "simple-play")
 
-Tweet: https://twitter.com/mnpyprrn/status/1249266263441862658
+Tweet: https://twitter.com/mnpyprrn/status/1410499033580269568
 
-Update History: [Twitter - beatoraja用7鍵 by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A87%E9%8D%B5%20(from%3A%40mnpyprrn)&f=live)
+Update History: [Twitter - beatoraja用プレイスキン by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%B3%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
+
+![](https://pbs.twimg.com/media/E5MYjzuUcAAjob4?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EtY-Fl9UYAYBQPy?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E7YnYqjUYAgU0w2?format=jpg&name=small)
 
 ------------------------
 ## Wide 24Keys
 Supports:
-- Play (24Keys, 48Keys)
-(Probably also supports 5Keys, 7Keys, 9Keys, 10Keys, 14Keys)
+- Play (10Keys, 14Keys, 24Keys, 48Keys)
+
+(might also support 5Keys, 7Keys, 9Keys with customization)
 
 Minimal and very highly customizable skin. Made by mnpyprrn
 
 DL (Google Drive Folder): https://drive.google.com/drive/u/0/folders/1ugqMTKVnSIlYY8VT8F615DzbvqNfJDak
 
-Tweet: https://twitter.com/mnpyprrn/status/1253190021361790979
+Tweet: https://twitter.com/mnpyprrn/status/1297505311557738497
 
-Update History: [Twitter - beatoraja用24鍵 by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A824%E9%8D%B5%20(from%3A%40mnpyprrn)&f=live)
+Update History: [Twitter - beatoraja用キーボード by @mnpyprrn](https://twitter.com/search?q=beatoraja%E7%94%A8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20(from%3A%40mnpyprrn)&src=typed_query&f=live)
 
-![](https://pbs.twimg.com/media/EAeikjjUcAA0doC?format=jpg&name=small)
-![](https://pbs.twimg.com/media/D6VGt_tUYAALN1z?format=jpg&name=small)
-![](https://pbs.twimg.com/media/D6VGuhpUYAARdwp?format=jpg&name=small)
+![](https://pbs.twimg.com/media/EgGo63HVAAAV2zu?format=jpg&name=small)
 
 ------------------------
 ## GenericTheme
 Supports:
 - Play (5Keys, 7Keys)
 
-A simple play skin by Shimi9999.
+A customizable simple play skin by Shimi9999.
 
 DL: https://github.com/Shimi9999/GenericTheme
 
@@ -277,6 +347,8 @@ Tweet: https://twitter.com/39mogura/status/1405164692855685126
 ![](https://pbs.twimg.com/media/E4Alcr-UYAcfpG0?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/EzQuHlBVkAsV8js?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/E-l-kajVcAAKATU?format=jpg&name=small)
 
 ------------------------
 ## Rogan
@@ -291,6 +363,28 @@ DL: https://twitter.com/4228_r/status/1403405147603030017
 ![](https://pbs.twimg.com/media/E3nlJLjVIAExb--?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/E3nlPlrVEAU0DlP?format=jpg&name=small)
+
+------------------------
+## TYPE-M, TYPE-S
+Supports:
+- Result
+
+Result screen with two variants, TYPE-M and TYPE-S.
+
+DL (TYPE-M): https://kaidou0912.hatenablog.com/entry/2021/09/08/133900
+
+DL (TYPE-S): https://kaidou0912.hatenablog.com/entry/2021/09/12/022844
+
+Tweets: https://twitter.com/aoi_psy/status/1433637975598927901, https://twitter.com/Aoi_psy/status/1436743583176953859
+
+TYPE-M:
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaidou0912/20210908/20210908133043.jpg)
+
+TYPE-S:
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaidou0912/20210912/20210912021017.png)
+
 
 ------------------------
 ## Blanket
@@ -351,45 +445,6 @@ DL: https://isocosa.neocities.org/bms_skins.html
 ![](https://isocosa.neocities.org/BMS/skins/duplex_1.png)
 
 ![](https://isocosa.neocities.org/BMS/skins/duplex_2.png)
-
-
-------------------------
-## SocialSkin
-Supports:
-- Music Select
-- Result
-
-A Music Select + Result skin designed to look like the interface of a mobile phone music game. Made by Totori Tori.
-- (Result skin was added in v1.10)
-
-Has pretty animated screen transitions.
-
-Blog Posts (and DL link):
-- https://tori-blog.net/bms/1392/ (up to v1.00)
-- https://tori-blog.net/bms/2068/ (v1.10)
-
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/beatoraja-7-1024x592.jpg)
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/06/20200606_171555_sl10-%E7%85%89%E6%83%85%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2-Purgatory-EXHARD-CLEAR-AAA-1024x576.jpg)
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2019/12/beatoraja-4.jpg)
-
-
-------------------------
-## "Glass Style" Result Skin
-Supports:
-- Result
-
-A 1080p skin with most of the information hidden away. Click on the left/right side of the skin or use the arrow keys to display detailed information.
-
-This skin is packaged together with the [SocialSkin](SocialSkin) download. It is in the "result2" folder.
-
-Blog Post: https://tori-blog.net/bms/2412/
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_182605_LEVEL1-%5E%5E-5keys-Normal-PERFECT-A.jpg)
-
-![](https://d2gl1ybet56r0q.cloudfront.net/wp-content/uploads/2020/09/20200918_051200_LEVEL1-%5E%5E-5keys-Normal-HARD-CLEAR-B.jpg)
 
 ------------------------
 ## FHD (Double Play) Skin by THULIUM
