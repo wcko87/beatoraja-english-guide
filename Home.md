@@ -36,7 +36,7 @@ This is for Windows only.
 - [Download beatoraja from here](https://mocha-repository.info/download.php).
    - You should see multiple links to choose from. Use the "**-jre-win64**" link.
 - The "-jre-win64" link includes a portable build of Java in the download, which we will be using to run beatoraja.
-- You might notice a "beatoraja.exe" file in the download. You can ignore (and even delete) this, as using the .exe will run beatoraja without the UTF-8 fix.
+- You might notice a "beatoraja.exe" file in the download. You can ignore (and even delete) this, as using the .exe means beatoraja will run without the UTF-8 fix.
 
 #### 2. Apply the UTF-8 fix
 - [Download beatoraja-config.bat from here](https://github.com/wcko87/beatoraja-english-guide/tree/resources/beatoraja-configs-win64jre)
