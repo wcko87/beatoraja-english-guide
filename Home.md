@@ -127,47 +127,57 @@ There should be no more crashes / issues after that.
 
 This covers some of the more important things to configure when first starting the game. Refer to [beatoraja Configuration](Configuration) for more detailed information on what you can configure in beatoraja.
 
+### Songs and Skins
+**[Songs]** If you are looking for BMS songs, see [downloading songs/charts](Downloading-Songs) for more information on where to find them.
+- I recommend downloading the [GENOSIDE 2018 starter pack](Downloading-Songs#starter-packs) if you don't know where to start, it gives a good initial selection of songs to start off with.
+
+**[Skins]** The default skin, ModernChic, is already a pretty good skin. Refer to the [List of beatoraja Skins](List-of-beatoraja-Skins) for other skins.
+- If you can't find a play skin that looks exactly like what you want, I recommend the [Simple Play](List-of-beatoraja-Skins#simple-play) skin, as it is extremely customizable (you can customize the positions and dimensions of just about every aspect of the skin, including things like the individual widths, heights and colors of notes).
+
 ### In Config Menu (before starting game):
 
-Go to the `Resources` tab to add your song folders. (add them under BMS Path, not Table URL!)
-If you are looking for songs/charts, see [downloading songs/charts](Downloading-Songs) for more information.
+**[Adding Songs]** Go to the `Resources` tab to add your song folders. (add them under BMS Path, not Table URL!)
+- Note: Don't place your songs in your beatoraja folder. Place them somewhere else and specify the folders in the resources tab.
+- If you can't see the songs in-game, see: [I added songs but I can't see the folders in game](FAQ-and-Troubleshooting#i-added-songs-but-i-cant-see-the-folders-in-game)
 
-If you wish to use [difficulty tables](Difficulty-Tables), add table links to the Table URLs and click `Load difficulty table` to load all the listed difficulty tables into the game.
+**[Difficulty Tables]** (not necessary) If you wish to use [difficulty tables](Difficulty-Tables), add table links to the Table URLs and click `Load difficulty table` to load all the listed difficulty tables into the game.
 
-If you are using a IIDX controller with axis input, you might want to turn on `ANALOG SCRATCH` under the `Input` tab. This needs to be turned on individually for each mode (7KEYS, 5KEYS, etc). See [Analog Scratch](Configuration#analog-scratch) for more information.
+**[Analog Scratch]** If you are using a IIDX controller with axis input, you might want to turn on `ANALOG SCRATCH` under the `Input` tab. This needs to be turned on individually for each mode (7KEYS, 5KEYS, etc). See [Analog Scratch](Configuration#analog-scratch) for more information.
 
 Most of the settings under `Play Option` can be configured in game.
 
-It might also be good to get a good skin for beatoraja too. Skin settings can be set in the `Skin` tab.
-- [List of beatoraja skins](List-of-beatoraja-Skins)
-- Note: beatoraja 0.8.0 and above comes with the ModernChic skin pre-packaged.
-
-If you play on the P2 side (turntable on right), you can switch to P2 in the skin settings.
+**[Skin Settings]** If you have other skins downloaded, place them in the skin folder. You should be able to see them in the config menu, in the "skin" tab. For more information, see: [Skin settings](Configuration#skin-settings)
+- If you are using ModernChic (the default skin), you should also be able to set the language shown in the music select menu to English.
+- If you play on the P2 side (turntable on right), you can switch to P2 in the skin settings.
 
 
 ### In Game (during music select):
 
-Press 6 on the keyboard to open key config.
+**[Key Config]** Press 6 on the keyboard to open key config.
 
-In the key config, you should have binded the START and SELECT buttons (default Q and W on keyboard). Hold START, SELECT or START+SELECT to access the three play options menus. These menus cover the majority of the play options available in the config.
+**[Play Options]** In the key config, you should have bound the START and SELECT buttons (default Q and W on keyboard). Hold START, SELECT or START+SELECT to access the three play options menus. These menus cover the majority of the play options available in the config.
+- The default gauge is ASSIST EASY, it might be a good idea to switch to the EASY, NORMAL or HARD gauges as these are more commonly used. See: [Gauges](Scores-and-Clears#gauges)
 
-Press F12 to open skin settings in-game.
+**[Skin Settings]** Press F12 to open skin settings in-game.
 
 Check the [Music Select](Music-Select) page to find out what else you can do in this screen.
 
 ### In Game (during play):
 
-Before the song starts, the game gives you some time to adjust your scroll speed settings.
+**[Scroll Speed and Lane Cover]** Before the song starts, the game gives you some time to adjust your scroll speed settings.
 - Double-tap START to turn on the SUDDEN+ lanecover
 - Hold START + turn turntable to adjust lanecover height (white number)
 - Hold SELECT + turn turntable to adjust green number (related to scroll speed)
 
 The song will not start until you have finished adjusting.
-A full explanation on sudden+, scroll speed and green number is given here: [Scroll Speed and Green Number](Scroll-Speed-and-Green-Number)
+- A full explanation on sudden+, scroll speed and green number is given here: [Scroll Speed and Green Number](Scroll-Speed-and-Green-Number)
 
 
 ----------
-# How to navigate menus
+# How to Navigate Menus
+
+The main menu screen you are on is called the "Music Select" menu.
+- The [Music Select](Music-Select) page explains what you can do on this menu.
 
 The turntable (scratch up / scratch down) is used to scroll through menus.
 
