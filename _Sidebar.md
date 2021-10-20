@@ -1,4 +1,4 @@
-#### [BMS/beatoraja English Guide](Home)
+### [BMS / beatoraja English Guide](Home)
 
 ## BMS
 #### [BMS Overview](BMS-Overview)
