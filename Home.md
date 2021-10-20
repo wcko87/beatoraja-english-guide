@@ -40,7 +40,7 @@ This is for Windows only.
 
 #### 2. Apply the UTF-8 fix
 - [Download beatoraja-config.bat from here](https://github.com/wcko87/beatoraja-english-guide/tree/resources/beatoraja-configs-win64jre)
-- We will be using `beatoraja-config.bat` instead of `beatoraja.exe` to run beatoraja. This ensures that beatoraja runs with the UTF-8 fix already applied. [More information on the UTF-8 fix](#UTF-8-fix)
+- We will be using `beatoraja-config.bat` instead of `beatoraja.exe` to run beatoraja. This ensures that beatoraja runs with the UTF-8 fix already applied. [More information on the UTF-8 fix](#locale-fix)
 
 #### 3. Run beatoraja
 - Double-click `beatoraja-config.bat` to run beatoraja.
