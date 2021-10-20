@@ -1,4 +1,4 @@
-# Guide Pages
+Guide Pages
 
 ## BMS
 #### [BMS Overview](BMS-Overview)
