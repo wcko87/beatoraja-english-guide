@@ -1,5 +1,5 @@
 ### Guide Pages
-
+### [**Home**](Home)
 ### [**Discussion**](https://github.com/wcko87/beatoraja-english-guide/discussions)
 
 ## BMS
