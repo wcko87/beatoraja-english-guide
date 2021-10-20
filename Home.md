@@ -127,14 +127,16 @@ There should be no more crashes / issues after that.
 
 This covers some of the more important things to configure when first starting the game. Refer to [beatoraja Configuration](Configuration) for more detailed information on what you can configure in beatoraja.
 
-### Songs and Skins
+### Downloading Songs and Skins
+
 **[Songs]** If you are looking for BMS songs, see [downloading songs/charts](Downloading-Songs) for more information on where to find them.
 - I recommend downloading the [GENOSIDE 2018 starter pack](Downloading-Songs#starter-packs) if you don't know where to start, it gives a good initial selection of songs to start off with.
 
 **[Skins]** The default skin, ModernChic, is already a pretty good skin. Refer to the [List of beatoraja Skins](List-of-beatoraja-Skins) for other skins.
 - If you can't find a play skin that looks exactly like what you want, I recommend the [Simple Play](List-of-beatoraja-Skins#simple-play) skin, as it is extremely customizable (you can customize the positions and dimensions of just about every aspect of the skin, including things like the individual widths, heights and colors of notes).
 
-### In Config Menu (before starting game):
+### In the Configuration Screen (before starting the game):
+Most of the settings under `Play Option` can be configured after you started the game.
 
 **[Adding Songs]** Go to the `Resources` tab to add your song folders. (add them under BMS Path, not Table URL!)
 - Note: Don't place your songs in your beatoraja folder. Place them somewhere else and specify the folders in the resources tab.
@@ -142,18 +144,17 @@ This covers some of the more important things to configure when first starting t
 
 **[Difficulty Tables]** (not necessary) If you wish to use [difficulty tables](Difficulty-Tables), add table links to the Table URLs and click `Load difficulty table` to load all the listed difficulty tables into the game.
 
-**[Analog Scratch]** If you are using a IIDX controller with axis input, you might want to turn on `ANALOG SCRATCH` under the `Input` tab. This needs to be turned on individually for each mode (7KEYS, 5KEYS, etc). See [Analog Scratch](Configuration#analog-scratch) for more information.
-
-Most of the settings under `Play Option` can be configured in game.
+**[Controller Turntable]** If you are using a IIDX controller with axis input, you might want to turn on `ANALOG SCRATCH` under the `Input` tab. This needs to be turned on individually for each mode (7KEYS, 5KEYS, etc). See [Analog Scratch](Configuration#analog-scratch) for more information.
 
 **[Skin Settings]** If you have other skins downloaded, place them in the skin folder. You should be able to see them in the config menu, in the "skin" tab. For more information, see: [Skin settings](Configuration#skin-settings)
 - If you are using ModernChic (the default skin), you should also be able to set the language shown in the music select menu to English.
 - If you play on the P2 side (turntable on right), you can switch to P2 in the skin settings.
 
 
-### In Game (during music select):
+### Configuration in the Music Select Screen (after starting the game):
 
 **[Key Config]** Press 6 on the keyboard to open key config.
+- Note: You also need to bind your controller turntable in the key config.
 
 **[Play Options]** In the key config, you should have bound the START and SELECT buttons (default Q and W on keyboard). Hold START, SELECT or START+SELECT to access the three play options menus. These menus cover the majority of the play options available in the config.
 - The default gauge is ASSIST EASY, it might be a good idea to switch to the EASY, NORMAL or HARD gauges as these are more commonly used. See: [Gauges](Scores-and-Clears#gauges)
@@ -162,7 +163,7 @@ Most of the settings under `Play Option` can be configured in game.
 
 Check the [Music Select](Music-Select) page to find out what else you can do in this screen.
 
-### In Game (during play):
+### Configuration while Playing a Song:
 
 **[Scroll Speed and Lane Cover]** Before the song starts, the game gives you some time to adjust your scroll speed settings.
 - Double-tap START to turn on the SUDDEN+ lanecover
