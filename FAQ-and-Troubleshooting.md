@@ -7,46 +7,46 @@ Contents:
 
 # General Frequently Asked Questions
 
-## What is BMS?
+### What is BMS?
 See: [BMS Overview](BMS-Overview)
 
-## How do I set up beatoraja?
+### How do I set up beatoraja?
 See: [Setting up beatoraja](Home)
 
-## Where do I download songs?
+### Where do I download songs?
 See: [Downloading Songs](Downloading-Songs)
 
-## What are BMS Events and how do they work? Where does BMS music come from?
+### What are BMS Events and how do they work? Where does BMS music come from?
 See: [BMS Events](BMS-Overview#bms-community)
 
-## How do I play BMS on a Controller / Keyboard?
+### How do I play BMS on a Controller / Keyboard?
 See: [Controller and Keyboard Gameplay](Controller-and-Keyboard-Gameplay)
 
-## How do BMS difficulty ratings work?
+### How do BMS difficulty ratings work?
 See: [Difficulty Rating System](Difficulty-Tables#difficulty-rating-system)
 
-## What are difficulty tables?
+### What are difficulty tables?
 See: [Difficulty Tables](Difficulty-Tables#what-are-difficulty-tables)
 
-## What are dan courses?
+### What are dan courses?
 See: [Dan Courses](Difficulty-Tables#what-are-dan-courses)
 
-## How do I set up dan courses?
+### How do I set up dan courses?
 See: [Setting Up Dan Courses in beatoraja](Difficulty-Tables#how-do-i-play-dan-courses-in-beatoraja)
 
-## How do scores work? Why am I failing charts with a AAA or getting full combos with a B?
+### How do scores work? Why am I failing charts with a AAA or getting full combos with a B?
 See: [Scores and Clears](Scores-and-Clears)
 
-## Where do I find beatoraja skins?
+### Where do I find beatoraja skins?
 See: [List of beatoraja skins](List-of-beatoraja-Skins)
 
-## Where do I find LR2 skins?
+### Where do I find LR2 skins?
 See: [Lunatic Rave 2 skins](List-of-beatoraja-Skins#lunatic-rave-2-skins)
 
-## Can I use LR2 skins in beatoraja?
+### Can I use LR2 skins in beatoraja?
 See: [Using LR2 skins in beatoraja](List-of-beatoraja-Skins#using-lr2-skins-in-beatoraja)
 
-## Which skins do you recommend?
+### Which skins do you recommend?
 Ultimately the skin you choose depends on your personal preference on aesthetics. The [list of beatoraja skins](List-of-beatoraja-Skins) can be used to make a choice in that regard as screenshots of the skins are displayed on the page. The recommendations below are based on other practical uses some specific skins may have beyond aesthetics.
 
 For the play skin (i.e. while playing a song), I highly recommend [Simple play](List-of-beatoraja-Skins#simple-play). Simple play is an extremely customizable skin - the positions and dimensions of every element of the skin can be individually configured, so the skin can look like anything you like. For example, the lanes can be made wide and placed in the center of the screen. Even things like individual note heights and colors can be configured.
@@ -55,20 +55,20 @@ For the decide skin (the splash screen before a song plays), [Rogan](List-of-bea
 
 Some result screens also display the average timing offset, which can be used to adjust your offset for the next song. [Project Shoko](List-of-beatoraja-Skins#project-shoko) and [LITONE5](List-of-beatoraja-Skins#litone5) are examples.
 
-## How do I make beatoraja play song previews? Why are there previews on some songs but not on others?
+### How do I make beatoraja play song previews? Why are there previews on some songs but not on others?
 See: [Song Previews and how to use the Preview Audio Generator](https://github.com/wcko87/beatoraja-english-guide/discussions/33)
 
-## Can I search this guide?
+### Can I search this guide?
 In fact you can! [This page](https://github.com/wcko87/beatoraja-english-guide/discussions/15) (scroll down) contains instructions on how to search this wiki.
 
-## I downloaded a BOF event pack and the folders are sorted by team. How do I make it into one single folder with a flat list of songs?
+### I downloaded a BOF event pack and the folders are sorted by team. How do I make it into one single folder with a flat list of songs?
 See: [How to flatten team folders in BMS events](https://github.com/wcko87/beatoraja-english-guide/discussions/34)
 
-## What should I set my Max FPS to?
+### What should I set my Max FPS to?
 Max FPS (the FPS cap) should be set as high as possible. Setting it to 0 leaves the FPS uncapped, which is usually the best option. Do NOT cap the FPS to your monitor's refresh rate (like 60, 120, 144 etc.).
 - Typically, you'd want beatoraja to be running at at least 300-400 fps.
 
-## Why am I missing long scratch (BSS) notes?
+### Why am I missing long scratch (BSS) notes?
 Long scratch notes require you to constantly rotate the turntable. On CN or HCN mode, you need to reverse the turntable at the end of the note. On a keyboard, this means you need to hit the other scratch key (note that you have two scratch keys binded).
 
 See: [LN, CN and HCN mode](Configuration#ln-cn-and-hcn-mode)
