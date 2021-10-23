@@ -117,8 +117,7 @@ Example: [Submission page for Calamity Fortune](http://yaruki0.sakura.ne.jp/even
 
 If the download link on the original submission page is broken, you might also be able to get the song by downloading an [event pack](#event-packs) for the event the song is in. Also see [download trick for broken Dropbox links](#download-trick-for-broken-dropbox-links).
 
-- If the song has a chart in a popular table, the song download might be mirrored here: [BMS Library](https://bms.kyouko.moe/torrent/BMS_Library/)
-  - These song download mirrors contain some sabuns as well.
+- If the song has a chart in a popular table, the song download might be mirrored here: [bms.kyouko.moe BMS Library](https://bms.kyouko.moe/torrent/BMS_Library/) (These song download mirrors contain some sabuns as well).
 
 You might also be able to find a download link to the song by searching it on [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi). See the section on [finding songs on LR2IR](#using-lr2ir-to-find-songscharts) below.
 
