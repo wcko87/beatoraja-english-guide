@@ -1,3 +1,10 @@
+You might want to use Ctrl+F to search for keywords related to your question.
+
+Contents:
+- [General Frequently Asked Questions](#general-frequently-asked-questions)
+- [Technical Frequently Asked Questions](#technical-frequently-asked-questions)
+- [beatoraja Troubleshooting](#beatoraja-troubleshooting)
+
 # General Frequently Asked Questions
 
 ## What is BMS?
