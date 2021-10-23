@@ -95,6 +95,7 @@ The event packs can usually be found in the respective event websites. However, 
 
 These pages contain collections of event pack downloads:
 - [**package.bms.ms**](https://package.bms.ms/) (A large archive of packs from both old and recent events)
+- [**Mr. Bradley Mr. Martin's collection**](https://onedrive.live.com/?authkey=%21AOqwx13LNSfyr%2DE&id=2765D7C9D84BBC67%21118&cid=2765D7C9D84BBC67) (Mirrors of various event packs and some other packs)
 - [**bms-community.github.io event packs**](https://bms-community.github.io/resources/#event-packs) (Lists some event pack downloads)
 - [**blog.polyohm.net**](https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html) (Collection of BMS of Fighters packs, from BOF2009 - BOFXVI (2020). Use the torrent downloads.)
 
@@ -117,7 +118,7 @@ Example: [Submission page for Calamity Fortune](http://yaruki0.sakura.ne.jp/even
 
 If the download link on the original submission page is broken, you might also be able to get the song by downloading an [event pack](#event-packs) for the event the song is in. Also see [download trick for broken Dropbox links](#download-trick-for-broken-dropbox-links).
 
-- If the song has a chart in a popular table, the song download might be mirrored here: [bms.kyouko.moe BMS Library](https://bms.kyouko.moe/torrent/BMS_Library/) (These song download mirrors contain some sabuns as well).
+- If the song has a chart in a popular table, the song download might be mirrored here: [bms.kyouko.moe\BMS Library](https://bms.kyouko.moe/torrent/BMS_Library/) (These song download mirrors contain some sabuns as well).
 
 You might also be able to find a download link to the song by searching it on [LR2IR](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi). See the section on [finding songs on LR2IR](#using-lr2ir-to-find-songscharts) below.
 
