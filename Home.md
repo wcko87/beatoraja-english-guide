@@ -196,3 +196,7 @@ However, in beatoraja, each key actually has a slightly different purpose.
 - Key 2,4: Go back / change sort order if you are on topmost level
 - Key 6: Select replay
 
+----------
+# Further Help
+
+For further help, you might want to check the [Frequently Asked Questions](FAQ-and-Troubleshooting) page or ask a question in the [Discussions](https://github.com/wcko87/beatoraja-english-guide/discussions) tab.
