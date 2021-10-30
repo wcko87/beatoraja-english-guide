@@ -98,6 +98,8 @@ There are two good options: Oracle Java and Liberica OpenJDK
 
 We suggest Java 8, as it has JavaFX included. beatoraja is compiled with Java 8, though it can still work on later versions of Java as long as JavaFX is present.
 
+Note: It is possible to run beatoraja without installing Java to your PC. See: [Setting up beatoraja without installing Java](#setting-up-beatoraja-without-installing-java)
+
 ### Option 1: Oracle Java
 Download From: https://www.java.com/en/download/manual.jsp
 - Note: Make sure you select a version marked as **64-bit**
@@ -167,6 +169,7 @@ Here are the common errors you might see:
 
 #### 2. Invalid maximum heap size: -Xmx4g
 - Then you are currently using 32-bit java. 64-bit java is recommended for running beatoraja.
+- For help on downloading the correct version of Java, see [Which version of Java should I download](#which-version-of-java-should-i-download)
 - To check whether your current java installation is 32-bit or 64-bit, open command prompt (windows+R, type "cmd", enter) and type `java -version`. If you are on 64-bit java, it should say something along the lines of `64-Bit Server VM`. If you don't see that, you are on 32-bit java.
 - You can technically run beatoraja on 32-bit java. This can be done by removing the `-Xmx4g` flag from beatoraja-config.bat. However, this is not recommended as the `-Xmx4g` flag is what allows beatoraja to run with a memory cap of 4GB rather than the default 1GB cap.
 
@@ -174,12 +177,8 @@ Here are the common errors you might see:
 - There should be a beatoraja.jar in the same folder as beatoraja-config.bat. If there is no beatoraja.jar, you probably downloaded the source code for the game instead of the game itself. beatoraja.jar is the main game executable, and so is definitely necessary.
 
 #### 4. Error: Could not find or load main class bms.player.beatoraja.MainLoader
-- You might experience this error if you are on Java 9+ or using OpenJDK on Linux. This may be because JavaFX isn't included with your Java installation.
-- If this is indeed the case, you may have to install JavaFX manually.
-- If you are on Java 8 (Java 1.8) on Windows, you will definitely have JavaFX installed, so this shouldn't be the issue.
-- If you have trouble installing JavaFX (especially on mac or linux), one option is to use [Liberica JDK 8](https://bell-sw.com/pages/downloads/), which is a version of Java that has JavaFX included by default.
-  - **Note:** You need to select "Full JDK" instead of "Standard JDK" when downloading Liberica. Only the Full JDK includes JavaFX.
-
+- If you see this error, it is most likely because JavaFX isn't included with your Java installation. You need a version of Java with JavaFX included.
+- For help on downloading the correct version of Java, see [Which version of Java should I download](#which-version-of-java-should-i-download)
 
 ### I added songs, but I can't see the folders in game
 
