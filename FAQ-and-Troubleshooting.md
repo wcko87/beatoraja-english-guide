@@ -163,7 +163,7 @@ There are two ways you can view the error message:
 Here are the common errors you might see:
 
 #### 1. java not found
-- Then java is either not properly installed, or is installed but has not been added to the PATH environment variable. If you are not sure how to add java to PATH, reinstalling java should automatically add it to PATH for you (refer to [this section](#which-version-of-java-should-i-download)).
+- Then java is either not properly installed, or is installed but has not been added to the PATH environment variable. If you are not sure how to add java to PATH, reinstalling java should automatically add it to PATH for you (refer to [this section](#which-version-of-java-should-i-download) for more info).
 
 #### 2. Invalid maximum heap size: -Xmx4g
 - Then you are currently using 32-bit java. 64-bit java is recommended for running beatoraja.
