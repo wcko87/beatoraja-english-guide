@@ -31,6 +31,7 @@ There are two options for setting up beatoraja.
 ----------
 ## Setting up beatoraja without Installing Java
 This is for Windows only.
+- For Mac/Linux, you can follow [these instructions](#setting-up-beatoraja-with-java), while using a portable version of Java instead.
 
 #### 1. Download beatoraja
 - [Download beatoraja from here](https://mocha-repository.info/download.php).
