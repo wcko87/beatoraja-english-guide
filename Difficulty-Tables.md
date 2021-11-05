@@ -241,11 +241,13 @@ These tables generally contains songs up to around 2013. There were a few songs 
 ## New Normal / Insane Tables
 Generally has songs up to 2018 / early 2019.
 
-### [Normal2 table (▽)](http://rattoto10.jounin.jp/table.html)
+### [Normal2 table (▽)](https://bmsnormal2.syuriken.jp/table.html)
 - Similar to the Normal table, but contains more recent songs, and is more frequently updated. Songs rated from ▽1-▽12.
 
-### [Insane2 table (▼)](http://rattoto10.jounin.jp/table_insane.html)
+### [Insane2 table (▼)](https://bmsnormal2.syuriken.jp/table_insane.html)
 - Similar to the Insane table, but contains more recent songs, and is more frequently updated. Songs rated from ▼0-▼25.
+
+Alternative link (with more songs but without the dan courses) [Normal2](http://rattoto10.jounin.jp/table.html) [Insane2](http://rattoto10.jounin.jp/table_insane.html)
 
 ## Satellite and Stella Tables (RECOMMENDED)
 Modern difficulty table containing songs from the most recent events. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
