@@ -1,6 +1,7 @@
 ### Guide Pages
 #### [**Home**](Home)
 #### [**Discussion**](https://github.com/wcko87/beatoraja-english-guide/discussions)
+#### [FAQ and Troubleshooting](FAQ-and-Troubleshooting)
 
 ## BMS
 #### [BMS Overview](BMS-Overview)
@@ -20,6 +21,5 @@
 #### [List of beatoraja Skins](List-of-beatoraja-Skins)
 
 ## Miscellaneous
-#### [FAQ and Troubleshooting](FAQ-and-Troubleshooting)
 #### [Scores and Clears](Scores-and-Clears)
 #### [Scroll Speed and Green Number](Scroll-Speed-and-Green-Number)
