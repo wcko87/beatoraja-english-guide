@@ -1,7 +1,7 @@
 ### Guide Pages
 #### [**Home**](Home)
-#### [**Discussion**](https://github.com/wcko87/beatoraja-english-guide/discussions)
 #### [FAQ and Troubleshooting](FAQ-and-Troubleshooting)
+#### [**Discussion**](https://github.com/wcko87/beatoraja-english-guide/discussions)
 
 ## BMS
 #### [BMS Overview](BMS-Overview)
