@@ -55,7 +55,7 @@ The mouse (and scroll wheel) can be used to operate some of the menus too.
 - **KEY 6**: Select replay slot
 
     Can also be used to select autoplay or practice mode.
-- **7 KEY**: Start chosen replay.
+- **KEY 7**: Start chosen replay.
 
     In the decide screen after starting a replay,
     - Hold KEY 2 to play the song on the same random instead of watching the replay.
