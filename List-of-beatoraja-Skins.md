@@ -39,6 +39,7 @@ Listed in no particular order.
 - [**ModernChic**](#modernchic) (All in one when including ModernChicPlay)
   - [**ModernChicPlay (SCURO)**](#modernchicplay-scuro)
 - [**hij Simple**](#hij-simple) (All in one)
+- [**EndlessCirculation: Type-M / Type-S**](#endlesscirculation-type-m-type-s) (All in one)
 - [**SocialSkin**](#socialskin) (All in one)
   - [**"Glass Style" Result Skin**](#glass-style-result-skin) (Result)
 - [**Project Shoko**](#project-shoko) (Music Select/Decide/Result)
@@ -50,7 +51,6 @@ Listed in no particular order.
 - [**Wide 24Keys**](#wide-24keys) (Play skin)
 - [**GenericTheme**](#generictheme) (Play skin)
 - [**Rogan**](#rogan) (Result/Decide)
-- [**TYPE-M, TYPE-S**](#type-m-type-s) (Result)
 - [**Blanket**](#blanket) (Result)
 - [**RESULT SIMPLE FM**](#result-simple-fm) (Result)
   - [**RESULT "NOT" SIMPLE FM**](#result-not-simple-fm) (Result)
@@ -150,6 +150,39 @@ Updates: https://twitter.com/search?q=hij_simple%20from%3Ahij_san&src=typed_quer
 ![](https://pbs.twimg.com/media/EppwRqKUYAAZDi-?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/Erb9VOQVQAIMTZC?format=jpg&name=small)
+
+
+------------------------
+## EndlessCirculation: TYPE-M, TYPE-S
+Supports:
+- Music Select
+- Decide
+- Play (7keys)
+- Result
+
+Made by aoi_psy. TYPE-M was originally just a result screen, it has been expanded to include Play (7keys), Music Select and Decide.
+
+Not to be confused with the [EndlessCirculation LR2 skin](#endlesscirculation-patch).
+
+TYPE-S is an alternate version of the TYPE-M result screen. The download contains only a result screen skin, and replaces the result screen in the TYPE-M folder.
+
+DL (TYPE-M, full skin): https://kaidou0912.hatenablog.com/entry/2022/02/04/194448
+
+DL (TYPE-S, result only): https://kaidou0912.hatenablog.com/entry/2021/09/12/022844
+
+Tweets: https://twitter.com/aoi_psy/status/1489232254115409923, https://twitter.com/aoi_psy/status/1433637975598927901, https://twitter.com/Aoi_psy/status/1436743583176953859
+
+TYPE-M:
+
+![](https://pbs.twimg.com/media/FKrQCCgaUAUsuqF?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/FKrQxiRaAAYRmks?format=jpg&name=small)
+
+![](https://pbs.twimg.com/media/FKrQJEkaUAMmzvS?format=jpg&name=small)
+
+TYPE-S:
+
+![](https://pbs.twimg.com/media/E_A1eWwVkAQWCF0?format=jpg&name=small)
 
 
 ------------------------
@@ -363,27 +396,6 @@ DL: https://twitter.com/4228_r/status/1403405147603030017
 ![](https://pbs.twimg.com/media/E3nlJLjVIAExb--?format=jpg&name=small)
 
 ![](https://pbs.twimg.com/media/E3nlPlrVEAU0DlP?format=jpg&name=small)
-
-------------------------
-## TYPE-M, TYPE-S
-Supports:
-- Result
-
-Result screen with two variants, TYPE-M and TYPE-S.
-
-DL (TYPE-M): https://kaidou0912.hatenablog.com/entry/2021/09/08/133900
-
-DL (TYPE-S): https://kaidou0912.hatenablog.com/entry/2021/09/12/022844
-
-Tweets: https://twitter.com/aoi_psy/status/1433637975598927901, https://twitter.com/Aoi_psy/status/1436743583176953859
-
-TYPE-M:
-
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaidou0912/20210908/20210908133043.jpg)
-
-TYPE-S:
-
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaidou0912/20210912/20210912021017.png)
 
 
 ------------------------
