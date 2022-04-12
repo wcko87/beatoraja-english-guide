@@ -241,13 +241,13 @@ Twitter: https://twitter.com/DJ_Shoko2DX/status/1428323132788547585
 
 Github: https://github.com/dj-shoko/Project-Shoko
 
-![](https://pbs.twimg.com/media/E9Jqw81UYAkhlyy?format=jpg&name=small)
+![](https://raw.githubusercontent.com/dj-shoko/Project-Shoko/main/screenshots/MusicSelect.png)
 
-![](https://pbs.twimg.com/media/E9Jq1lsUUAYPums?format=jpg&name=small)
+![](https://raw.githubusercontent.com/dj-shoko/Project-Shoko/main/screenshots/MusicSelectOption.png)
 
-![](https://pbs.twimg.com/media/E9Jq27mVUAA-c03?format=jpg&name=small)
+![](https://raw.githubusercontent.com/dj-shoko/Project-Shoko/main/screenshots/Decide.png)
 
-![](https://pbs.twimg.com/media/E9Jq3cYUcAcqFXt?format=jpg&name=small)
+![](https://raw.githubusercontent.com/dj-shoko/Project-Shoko/main/screenshots/Result2P.png)
 
 
 ------------------------
