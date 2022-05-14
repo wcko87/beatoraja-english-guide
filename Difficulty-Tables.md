@@ -26,7 +26,7 @@ The difficulty levels of the standard scales can be roughly divided into three b
   - ☆10 - [**点、線、面、立体** [ANOTHER]](https://www.youtube.com/watch?v=OWwusbodvuU)
 ### Insane Range 　　 (levels ★1 to ★20)
 - Video references for some difficulty levels in this range:
-  - sl3 / ★5 - [**Wicked Laboratory** (Another)](https://www.youtube.com/watch?v=2ijCZMEWzJY)
+  - sl3 / ★5 - [**Wicked Laboratory** (Another)](https://www.youtube.com/watch?v=vKN6XeNieN8)
   - sl6 / ★10 - [**Jack o'Lantern** [UltimateRAVE]](https://www.youtube.com/watch?v=7Dhp2NdmLQU)
   - sl10 / ★17 - [**温泉大作戦** [温泉名人]](https://www.youtube.com/watch?v=O7A89TYbboo)
 ### Overjoy Range 　　 (levels ★21=★★1 to ★★7)
