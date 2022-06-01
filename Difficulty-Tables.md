@@ -181,7 +181,10 @@ Refers to levels in the range ☆1-☆11.
 At this range, difficulty tables may not be necessary. Simply playing by the chart's rated level from some well-established packs (e.g. [GENOSIDE 2018](Downloading-Songs#starter-packs)) may often suffice. However, there is no harm in adding tables to add level ratings to the charts you have.
 
 #### Standard tables:
-- [Normal1](#old-normal--insane-tables) (year ≤2013), [Normal2](#new-normal--insane-tables) (year ≤2016), [Ikeda](#fez_ike) (up to current year)
+- [Normal1](#old-normal--insane-tables) (generally year ≤2013)
+- [Normal2](#new-normal--insane-tables) (generally year ≤2016)
+- [Stardust/Starlight](#stardust-and-starlight-tables-recommended) (includes recent songs)
+- [Ikeda](#fez_ike) (includes recent songs)
 
 #### Variety tables:
 - [Turbow's BMS Library](#turbow-recommended) (Highly recommended for use with recent events like BOFXVI, as it rates almost all charts in the event)
@@ -192,7 +195,7 @@ Refers to levels in the range ☆11-★19.
 
 #### Standard tables:
 - The [Satellite table](#satellite-and-stella-tables-recommended) is recommended, as it is the most actively updated table, containing the latest songs. However, this table is also notorious for having a low tolerance for variety in charting styles. The Satellite table is mainly good for practice on density charts.
-- Alternative tables: [Insane1](#old-normal--insane-tables) (year ≤2013), [Insane2](#new-normal--insane-tables) (year ≤2016)
+- Alternative tables: [Insane1](#old-normal--insane-tables) (generally year ≤2013), [Insane2](#new-normal--insane-tables) (generally year ≤2016)
 
 #### Variety tables:
 - [Hex's BMS Database](#hexs-insane-chart-collections-recommended) is highly recommended, as it rates a HUGE amount of charts. This is a good table to have if you are downloading random event packs or random sabuns and playing them, as there is a high chance that those charts are listed (and rated) in the table.
@@ -250,13 +253,24 @@ Generally has songs up to 2018 / early 2019.
 Alternative link (with more songs but without the dan courses) [Normal2](http://rattoto10.jounin.jp/table.html) [Insane2](http://rattoto10.jounin.jp/table_insane.html)
 
 ## Satellite and Stella Tables (RECOMMENDED)
-Modern difficulty table containing songs from the most recent events. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
+Modern difficulty tables containing insane/overjoy scale charts of songs from the most recent events. New songs are added every two weeks by a system of community voting. More information can be found here: [Satellite/Stella website](https://stellabms.xyz/help)
 
 ### [Satellite table (**sl**)](https://stellabms.xyz/sl/table.html)
 - Charts are rated on a scale of sl0-sl12. Covers levels in the insane range, specifically ☆11-★19.
 
 ### [Stella table (**st**)](https://stellabms.xyz/st/table.html)
 - Charts are rated on a scale of st0-st11. Covers the level range ★19 and up, as well as the overjoy difficulty range.
+
+## Stardust and Starlight Tables (RECOMMENDED)
+Modern difficulty table containing normal scale songs from the most recent events. Managed by the Chinese community and is inspired by the Satellite and Stella tables, but covers the normal scale (easier charts) which is not covered by Satellite/Stella.
+
+[Chart comparing the Stardust(ξ)/Starlight(sr) scales to the Normal(☆) scale](https://djkuroakari.github.io/resources/Stardustlight%20LongVer.png)
+
+### [Stardust table (**ξ**)](https://mqppppp.neocities.org/ChartView.html)
+- Charts are rated on a scale of ξ1-ξ13. Covers levels in the lower half of the normal range, specifically ☆1-☆7.
+
+### [Starlight table (**sr**)](https://djkuroakari.github.io/starlighttable.html)
+- Charts are rated on a scale of sr0-sr13. Covers levels in the upper half of the normal range, specifically ☆7-☆12.
 
 ## Turbow (RECOMMENDED)
 
