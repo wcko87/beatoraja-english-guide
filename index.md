@@ -23,3 +23,6 @@ Also useful if you are using Lunatic Rave 2 (LR2) or other BMS players.
 
 ### [How do I play BMS on a Controller / Keyboard?](https://github.com/wcko87/beatoraja-english-guide/wiki/Controller-and-Keyboard-Gameplay)
 - Information about key configurations, playstyles, and purchasing a controller.
+
+## Discussion / Troubleshooting:
+[Discussions Page](https://github.com/wcko87/beatoraja-english-guide/discussions) or [Discord](https://discord.gg/cRAN9YgTHQ)
