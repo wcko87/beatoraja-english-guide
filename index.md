@@ -26,3 +26,5 @@ Also useful if you are using Lunatic Rave 2 (LR2) or other BMS players.
 
 ## Discussion / Troubleshooting:
 [Discussions Page](https://github.com/wcko87/beatoraja-english-guide/discussions) or [Discord](https://discord.gg/cRAN9YgTHQ)
+
+Managed by: [w](https://wcko87.github.io)
